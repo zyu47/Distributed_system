@@ -1,4 +1,5 @@
-/PA1/bin/dep
-/PA1/bin/hw1
-/PA1/bin/test
-/PA1/src/test
+/PA1/bin/dep/
+/PA1/bin/hw1/
+/PA1/bin/test/
+/PA1/src/test/
+/.cache/
