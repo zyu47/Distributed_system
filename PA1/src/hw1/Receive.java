@@ -53,7 +53,6 @@ class readThread extends Thread{
 			socket.close();
 			System.out.println("Count: " + getCount() + " ; Value: " + getVal().toString());
 			Send.update2Collate(getCount(), getVal(), false);//< update current count and val to collator
-			//Send.update2Collate(count, val, false); 
 		}catch(IOException e){
 				e.printStackTrace();
 		}

@@ -22,7 +22,6 @@ public class Send {
 	public static void sendAll(){
 		ReadSet rs = new ReadSet("./proc_set.txt");
 		int server_cnt = rs.servers.size();
-//		System.out.println(server_cnt);
 //		for(int i = 0; i != 5; ++i){
 		for(int i = 0; i != 5000; ++i){
 			Random x = new Random();
@@ -36,7 +35,7 @@ public class Send {
 				System.out.println(i + " Self-connected, ignore");
 				continue;
 			}
-			
+			/// Send five random integers
 			sendMessage sm = new sendMessage(serverAddr, serverPort);
 			for(int j = 0; j != 5; ++j){
 				val = val.add(BigInteger.valueOf(sm.send_rand()));
