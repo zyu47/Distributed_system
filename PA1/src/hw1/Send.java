@@ -8,19 +8,20 @@ import java.io.*;
 import java.math.BigInteger;
 
 public class Send {
-	public static void main(String[] args){
+//	public static void main(String[] args){
+	public static void startSend(String serverList, String collateAddr){
 		try{
 			localAddr = Inet4Address.getLocalHost().getHostAddress();
 		}catch(IOException e){
 			e.printStackTrace();
 		}
-		sendAll();
-		System.out.println("Count: " + count + " ; Value: " + val.toString());
-		update2Collate();
+		sendAll(serverList);
+		System.out.println("Send >> Count: " + count + " ; Value: " + val.toString());
+		update2Collate(collateAddr);
 	}
 	
-	public static void sendAll(){
-		ReadSet rs = new ReadSet("./proc_set.txt");
+	public static void sendAll(String serverList){
+		ReadSet rs = new ReadSet(serverList);
 		int server_cnt = rs.servers.size();
 //		for(int i = 0; i != 5; ++i){
 		for(int i = 0; i != 5000; ++i){
@@ -36,7 +37,22 @@ public class Send {
 				continue;
 			}
 			/// Send five random integers
-			sendMessage sm = new sendMessage(serverAddr, serverPort);
+			sendMessage sm = null;
+			while(sm == null)
+			{
+				try{
+					sm = new sendMessage(serverAddr, serverPort);
+				}catch(IOException e){
+					System.out.println(serverAddr + " is not available now. Retry in 2 seconds");
+					sm = null;
+//					java.util.concurrent.TimeUnit.SECONDS.sleep(2);
+					try{
+						Thread.sleep(2000);
+					}catch(InterruptedException ex){
+						ex.printStackTrace();
+					}
+				}
+			}
 			for(int j = 0; j != 5; ++j){
 				val = val.add(BigInteger.valueOf(sm.send_rand()));
 				++count;
@@ -48,13 +64,34 @@ public class Send {
 	/// pkgCNT: the number of packages sent or received
 	/// pkgValue: the summation of sent/received packages
 	/// flag: whether this is sent (1) or received(0)
-	public static void update2Collate(){
-		update2Collate(count, val, true);
+	public static void update2Collate(String collateList){
+		update2Collate(count, val, true, collateList);
 	}
 	
-	public static void update2Collate(int pkgCNT, BigInteger pkgValue, Boolean sent){
-		ReadSet rs = new ReadSet("./collate_addr.txt");
-		sendMessage sm = new sendMessage(rs.servers.elementAt(0), rs.ports.elementAt(0));
+	public static void update2Collate(int pkgCNT, BigInteger pkgValue, Boolean sent, String collateAddr){
+		ReadSet rs = new ReadSet(collateAddr);
+		sendMessage sm = null;
+		while(sm == null)
+		{
+			try{
+				sm = new sendMessage(rs.servers.elementAt(0), rs.ports.elementAt(0));
+			}catch(IOException e){
+				System.out.println("Collator is not available now. Retry in 2 seconds");
+				sm = null;
+//				java.util.concurrent.TimeUnit.SECONDS.sleep(2);
+				try{
+					Thread.sleep(2000);
+				}catch(InterruptedException ex){
+					ex.printStackTrace();
+				}
+			}
+		}
+//		sendMessage sm = null;
+//		try{
+//			sm = new sendMessage(rs.servers.elementAt(0), rs.ports.elementAt(0));
+//		}catch(IOException e){
+//			e.printStackTrace();
+//		}
 		try{
 			ObjectOutputStream outdata = new ObjectOutputStream(sm.client.getOutputStream());
 			if(sent){
@@ -76,15 +113,15 @@ public class Send {
 }
 
 class sendMessage{
-	public sendMessage(String servername, int port){
+	public sendMessage(String servername, int port) throws IOException{
 		s_name = servername;
 		p_no = port;
-		try{
+//		try{
 			client = new Socket(s_name, p_no);
 			outdata = new DataOutputStream(client.getOutputStream());
-		}catch(IOException e){
-				e.printStackTrace();
-		}
+//		}catch(IOException e){
+//				e.printStackTrace();
+//		}
 	}
 	
 	public int send_rand(){

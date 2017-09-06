@@ -7,7 +7,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import dep.ReadSet;
 
 import java.io.*;
-import hw1.Receive.*;
+//import hw1.Receive.*;
 
 public class Collate {
 	public static void main (String[] args){
@@ -74,7 +74,7 @@ class updateThread extends Thread{
 	}
 	
 	public static void ini_map(){
-		ReadSet rs = new ReadSet("./proc_set.txt");
+		ReadSet rs = new ReadSet("/s/chopin/k/grad/zhixian/CS555/PA1/server_list.txt");
 		int server_cnt = rs.servers.size();
 		for(int i = 0; i != server_cnt; ++i){
 			String addr = rs.servers.elementAt(i);

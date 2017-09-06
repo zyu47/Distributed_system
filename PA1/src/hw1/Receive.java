@@ -1,16 +1,17 @@
 package hw1;
 import java.net.*;
-import java.util.*;
+//import java.util.*;
 import java.io.*;
 import java.math.*;
-import hw1.Send.*;
+//import hw1.Send.*;
 
 public class Receive {
-	public static void main (String[] args){
-		int port = Integer.parseInt(args[0]);
+//	public static void main (String[] args){
+	public static void startReceive(String portNo, String collateAddr){
+		int port = Integer.parseInt(portNo);
 		try{
 			receiveMessage r = new receiveMessage(port);
-			r.receive();
+			r.receive(collateAddr);
 		}catch(IOException e){
 			e.printStackTrace();
 		}
@@ -23,7 +24,7 @@ class receiveMessage{
 		serverSocket = new ServerSocket(port);
 		//serverSocket.setSoTimeout(60000);
 	}
-	public void receive(){
+	public void receive(String collateAddr){
 		Socket server = null;
 		while(true){
 			System.out.println("Waiting for client on port " + 
@@ -33,14 +34,15 @@ class receiveMessage{
 			}catch(IOException e){
 				e.printStackTrace();
 			}
-			new readThread(server).start();
+			new readThread(server, collateAddr).start();
 		}
 	}
 }
 
 class readThread extends Thread{
-	public readThread(Socket server){
+	public readThread(Socket server, String c){
 		this.socket = server;
+		this.collateAddr = c;
 	}
 	
 	public void run() {
@@ -51,8 +53,8 @@ class readThread extends Thread{
 				addInt(in.readInt());
 			}
 			socket.close();
-			System.out.println("Count: " + getCount() + " ; Value: " + getVal().toString());
-			Send.update2Collate(getCount(), getVal(), false);//< update current count and val to collator
+			System.out.println("Receive << Count: " + getCount() + " ; Value: " + getVal().toString());
+			Send.update2Collate(getCount(), getVal(), false, collateAddr);//< update current count and val to collator
 		}catch(IOException e){
 				e.printStackTrace();
 		}
@@ -72,6 +74,7 @@ class readThread extends Thread{
 	private static int count;
 	private static BigInteger val = BigInteger.valueOf(0);
 	private Socket socket;
+	private String collateAddr;
 }
 
 
