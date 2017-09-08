@@ -22,10 +22,13 @@ class receiveMessage{
 	private ServerSocket serverSocket;
 	public receiveMessage(int port) throws IOException{
 		serverSocket = new ServerSocket(port);
+		this.PORT = port;
 		//serverSocket.setSoTimeout(60000);
 	}
 	public void receive(String collateAddr){
 		Socket server = null;
+//		new readThread(null, "", true).start();
+		new UpdateCollate(collateAddr, 3000, false, PORT).start();
 		while(true){
 			System.out.println("Waiting for client on port " + 
 			        serverSocket.getLocalPort() + "...");
@@ -37,12 +40,14 @@ class receiveMessage{
 			new readThread(server, collateAddr).start();
 		}
 	}
+	private int PORT;
 }
 
 class readThread extends Thread{
 	public readThread(Socket server, String c){
 		this.socket = server;
-		this.collateAddr = c;
+//		this.collateAddr = c;
+//		this.isUpdateCollate = f;
 	}
 	
 	public void run() {
@@ -54,7 +59,6 @@ class readThread extends Thread{
 			}
 			socket.close();
 			System.out.println("Receive << Count: " + getCount() + " ; Value: " + getVal().toString());
-			Send.update2Collate(getCount(), getVal(), false, collateAddr);//< update current count and val to collator
 		}catch(IOException e){
 				e.printStackTrace();
 		}
@@ -71,13 +75,12 @@ class readThread extends Thread{
 	public static synchronized BigInteger getVal(){
 		return val;
 	}
-	private static int count;
+	private static int count = 0;
 	private static BigInteger val = BigInteger.valueOf(0);
 	private Socket socket;
 	private String collateAddr;
+	private Boolean isUpdateCollate;
 }
-
-
 
 
 

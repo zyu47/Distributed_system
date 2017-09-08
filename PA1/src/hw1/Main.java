@@ -20,7 +20,7 @@ class mainThread extends Thread{
 		if(flag == 0){
 			hw1.Receive.startReceive(port, collateAddr);
 		}else{
-			hw1.Send.startSend(serverList, collateAddr);
+			hw1.Send.startSend(port, serverList, collateAddr);
 		}
 	}
 	private int flag; //Send or Receive

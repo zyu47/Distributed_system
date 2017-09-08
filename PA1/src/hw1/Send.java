@@ -9,76 +9,56 @@ import java.math.BigInteger;
 
 public class Send {
 //	public static void main(String[] args){
-	public static void startSend(String serverList, String collateAddr){
+	public static void startSend(String PORT, String serverList, String collateAddr){
+		new UpdateCollate(collateAddr, 3000, true, Integer.parseInt(PORT)).start(); //Start a updateCollate thread;
+		sendAll(PORT, serverList, 5000);
+	}
+	
+	public static void sendAll(String PORT, String serverList, int rounds){
+		/// get current client's IP address
 		try{
 			localAddr = Inet4Address.getLocalHost().getHostAddress();
 		}catch(IOException e){
 			e.printStackTrace();
 		}
-		sendAll(serverList);
-		System.out.println("Send >> Count: " + count + " ; Value: " + val.toString());
-		update2Collate(collateAddr);
-	}
-	
-	public static void sendAll(String serverList){
+		/// Read server list
 		ReadSet rs = new ReadSet(serverList);
 		int server_cnt = rs.servers.size();
-//		for(int i = 0; i != 5; ++i){
-		for(int i = 0; i != 5000; ++i){
+		
+		for(int i = 0; i != rounds; ++i){
 			Random x = new Random();
 			int rand_ind = x.nextInt(server_cnt);
 			String serverAddr = rs.servers.elementAt(rand_ind);
 			int serverPort = rs.ports.elementAt(rand_ind);
+			int selfPort = Integer.parseInt(PORT);
 			
-			//If it is a localhost, do not connect
-			if(serverAddr.equals(localAddr)){
+			///If it is a localhost, do not connect
+			if(serverAddr.equals(localAddr) && serverPort == selfPort){
 				--i;
 				System.out.println(i + " Self-connected, ignore");
 				continue;
 			}
 			/// Send five random integers
-			sendMessage sm = null;
-			while(sm == null)
-			{
-				try{
-					sm = new sendMessage(serverAddr, serverPort);
-				}catch(IOException e){
-					System.out.println(serverAddr + " is not available now. Retry in 2 seconds");
-					sm = null;
-//					java.util.concurrent.TimeUnit.SECONDS.sleep(2);
-					try{
-						Thread.sleep(2000);
-					}catch(InterruptedException ex){
-						ex.printStackTrace();
-					}
-				}
-			}
-			for(int j = 0; j != 5; ++j){
-				val = val.add(BigInteger.valueOf(sm.send_rand()));
-				++count;
-			}
-			sm.close();
+			sendMessage sm = new sendMessage(serverAddr, serverPort);
+			sm.send();
 		}
 	}
-	
-	/// pkgCNT: the number of packages sent or received
-	/// pkgValue: the summation of sent/received packages
-	/// flag: whether this is sent (1) or received(0)
-	public static void update2Collate(String collateList){
-		update2Collate(count, val, true, collateList);
+	private static String localAddr;
+}
+
+class sendMessage{
+	public sendMessage(String s, int p){
+		this.servername = s;
+		this.port = p;
 	}
-	
-	public static void update2Collate(int pkgCNT, BigInteger pkgValue, Boolean sent, String collateAddr){
-		ReadSet rs = new ReadSet(collateAddr);
-		sendMessage sm = null;
-		while(sm == null)
+	public void send(){
+		while(client == null)
 		{
 			try{
-				sm = new sendMessage(rs.servers.elementAt(0), rs.ports.elementAt(0));
+				client = new Socket(servername, port);
 			}catch(IOException e){
-				System.out.println("Collator is not available now. Retry in 2 seconds");
-				sm = null;
-//				java.util.concurrent.TimeUnit.SECONDS.sleep(2);
+				System.out.println(servername + " is not available now. Retry in 2 seconds");
+				client = null;
 				try{
 					Thread.sleep(2000);
 				}catch(InterruptedException ex){
@@ -86,42 +66,30 @@ public class Send {
 				}
 			}
 		}
-//		sendMessage sm = null;
-//		try{
-//			sm = new sendMessage(rs.servers.elementAt(0), rs.ports.elementAt(0));
-//		}catch(IOException e){
-//			e.printStackTrace();
-//		}
+		new sendThread(client).start();
+	}
+	
+	public Socket client = null;
+	private String servername;
+	private int port;
+}
+
+class sendThread extends Thread{
+	public sendThread(Socket c){
+		this.client = c;
+	}
+	public void run(){
 		try{
-			ObjectOutputStream outdata = new ObjectOutputStream(sm.client.getOutputStream());
-			if(sent){
-				outdata.writeObject(BigInteger.ONE);
-			}else{
-				outdata.writeObject(BigInteger.ZERO);
+			outdata = new DataOutputStream(client.getOutputStream());
+			for(int j = 0; j != 5; ++j){
+				addInt(send_rand());
+				incCounter();
 			}
-			outdata.writeObject(BigInteger.valueOf(pkgCNT));
-			outdata.writeObject(pkgValue);
-			sm.close();
+			client.close();
+			System.out.println("Receive << Count: " + getCount() + " ; Value: " + getVal().toString());
 		}catch(IOException e){
 			e.printStackTrace();
 		}
-	}
-	
-	private static int count;
-	private static BigInteger val = BigInteger.valueOf(0);
-	private static String localAddr;
-}
-
-class sendMessage{
-	public sendMessage(String servername, int port) throws IOException{
-		s_name = servername;
-		p_no = port;
-//		try{
-			client = new Socket(s_name, p_no);
-			outdata = new DataOutputStream(client.getOutputStream());
-//		}catch(IOException e){
-//				e.printStackTrace();
-//		}
 	}
 	
 	public int send_rand(){
@@ -137,16 +105,20 @@ class sendMessage{
 		return sent_no;
 	}
 	
-	public void close(){
-		try{
-			client.close();
-		}catch(IOException e){
-			e.printStackTrace();
-		}
+	private static synchronized void incCounter(){
+		++count;
 	}
-	private String s_name; //< server ip address
-	private int p_no; //< server port number
-	private DataOutputStream outdata = null;
-	public Socket client = null;
+	private static synchronized void addInt(int x){
+		val = val.add(BigInteger.valueOf(x));
+	}
+	public static synchronized int getCount(){
+		return count;
+	}
+	public static synchronized BigInteger getVal(){
+		return val;
+	}
+	private static int count = 0;
+	private static BigInteger val = BigInteger.valueOf(0);
+	private Socket client;
+	private DataOutputStream outdata;
 }
-

@@ -1,7 +1,9 @@
 package hw1;
 import java.net.*;
+import java.time.LocalDateTime;
 import java.math.*;
 import java.util.*;
+import java.util.Date;
 import java.util.concurrent.ConcurrentHashMap;
 
 import dep.ReadSet;
@@ -44,8 +46,8 @@ class updateThread extends Thread{
 	public void run(){
 		try{
 			ObjectInputStream in = new ObjectInputStream(socket.getInputStream());
-			BigInteger[] update_contents = new BigInteger[3];
-			for(int i = 0; i != 3; ++i){
+			BigInteger[] update_contents = new BigInteger[4];
+			for(int i = 0; i != 4; ++i){
 				try{
 					update_contents[i] = (BigInteger)in.readObject();
 				}catch(ClassNotFoundException e){
@@ -62,6 +64,7 @@ class updateThread extends Thread{
 		}
 	}
 	private synchronized void update_map(String ipAddr, BigInteger[] contents){
+		ipAddr = ipAddr + ":" + contents[3].intValue();
 		//BigInteger flag, BigInteger cnt, BigInteger val
 		int sent_flag = (contents[0].intValue() + 1) % 2; //Sent = 0, receive = 1
 		if(contents[1].compareTo(result.get(ipAddr).get(sent_flag)) == 1){
@@ -69,6 +72,8 @@ class updateThread extends Thread{
 			result.get(ipAddr).set(sent_flag, contents[1]);
 			result.get(ipAddr).set(sent_flag + 2, contents[2]);
 		}
+		System.out.println("-----------------------------------");
+		System.out.println("Updated at " + LocalDateTime.now());
 		System.out.println(result);
 		print_sum();
 	}
@@ -77,7 +82,7 @@ class updateThread extends Thread{
 		ReadSet rs = new ReadSet("/s/chopin/k/grad/zhixian/CS555/PA1/server_list.txt");
 		int server_cnt = rs.servers.size();
 		for(int i = 0; i != server_cnt; ++i){
-			String addr = rs.servers.elementAt(i);
+			String addr = rs.servers.elementAt(i) + ':' + rs.ports.elementAt(i);
 			Vector<BigInteger> x= new Vector<BigInteger>();
 			for(int j = 0; j != 4; ++j){
 				x.add(BigInteger.ZERO);
