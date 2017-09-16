@@ -1,6 +1,4 @@
-./PA1/bin/dep/
-./PA1/bin/hw1/
-./PA1/bin/test/
+./PA1/bin
 ./PA1/src/test/
 ./.cache/
-./PA2/CS555-Fall2017-HW2.pdf
+./PA2/HW2.pdf
