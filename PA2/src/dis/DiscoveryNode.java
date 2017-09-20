@@ -4,7 +4,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.function.BiConsumer;
+//import java.util.function.BiConsumer;
 
 import dep.*;
 
@@ -62,9 +62,13 @@ class discoveryThread extends Thread{
 		
 		// Process Messages
 		if (task.equals("GETRANDOMPEER")){
-			sendRandomPeer();
+			sendString(getRandom());
 		} else if (task.equals("JOINING")){
-			
+			sendString(getRandom());
+			while (peerList.containsKey(ID_hex)){
+				ID_hex = GetID.getHexID();
+			}
+			sendString(ID_hex);
 		} else if (task.equals("JOINED")){
 			addPeer(ID_hex, addr, String.valueOf(peerList.size()));
 			printPeerList();
@@ -82,30 +86,10 @@ class discoveryThread extends Thread{
 		}
 	}
 	
-	/**
-	 * This function populates the processMsg map
-	 * We will use processMsg to handle incoming messages
-	 */
-//	public static void constructFuncs(){
-//		
-//		// "JOINING": Check if the ID clashes; if yes, return a non-clashed ID
-//		processMsg.put("JOINING", (String id, String addr) -> {});
-//		
-//		// "JOINED": Update the peer list when a new peer already joined
-//		processMsg.put("JOINED", (String id, String addr) -> {
-//			addPeer(id, addr, String.valueOf(peerList.size()));
-//			printPeerList(); });
-//		
-//		// "LEFT": Delete the entry from the peer list when a peer leaves
-//		processMsg.put("LEFT", (String id, String addr) -> {
-//			deletePeer(id);
-//			printPeerList(); });
-//	}
-	
-	private void sendRandomPeer(){
+	private void sendString(String s){
 		try{
 		PrintWriter out = new PrintWriter(server.getOutputStream());
-		out.println(getRandom());
+		out.println(s);
 		out.flush();
 		}catch (IOException e){
 			e.printStackTrace();
@@ -148,8 +132,6 @@ class discoveryThread extends Thread{
 	
 	// Information of peerList: {ID_HEX:[address, nickname], ...}
 	private static Map<String, Vector<String>> peerList = new ConcurrentHashMap<String, Vector<String>>();
-//	private static Map<String, BiConsumer<String, String>> processMsg = new HashMap<String, BiConsumer<String, String>>();
-	
 	private Socket server;
 }
 

@@ -14,8 +14,9 @@ public class ReadAddr{
 			String line;
 			//Read file line by line
 			while((line = br.readLine()) != null){
-				servers.addElement(line.split(":", 0)[0]);
-				ports.addElement(Integer.parseInt(line.split(":", 0)[1]));
+				NetAddr n_tmp = new NetAddr(line.split(":", 0)[0],
+						Integer.parseInt(line.split(":", 0)[1]));
+				servers.add(n_tmp);
 			}
 			infile.close();
 		}catch(IOException e){
@@ -23,6 +24,5 @@ public class ReadAddr{
 		}
 	}
 	
-	public Vector<String> servers = new Vector<String>();
-	public Vector<Integer> ports = new Vector<Integer>();
+	public Vector<NetAddr> servers = new Vector<NetAddr>();
 }
