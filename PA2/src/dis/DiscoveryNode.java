@@ -88,9 +88,9 @@ class discoveryThread extends Thread{
 	
 	private void sendString(String s){
 		try{
-		PrintWriter out = new PrintWriter(server.getOutputStream());
-		out.println(s);
-		out.flush();
+			PrintWriter out = new PrintWriter(server.getOutputStream());
+			out.println(s);
+			out.flush();
 		}catch (IOException e){
 			e.printStackTrace();
 		}
@@ -123,6 +123,7 @@ class discoveryThread extends Thread{
 	
 	public static synchronized void printPeerList(){
 		System.out.println("----------------------------Printing peer list----------------------------");
+		System.out.println("ID  \t[     host:port   , nickname]");
 		for (String id:peerList.keySet()) {
 			System.out.print(id + "\t");
 			System.out.println(peerList.get(id));

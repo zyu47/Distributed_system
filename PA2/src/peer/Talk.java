@@ -106,6 +106,8 @@ class TalkBase{
 		}
 		out.flush();
 		
+//		System.out.println("Message sent");
+		
 		// Get message from Node and close connection
 		try{
 			String tmp = "";
@@ -128,7 +130,7 @@ class TalkBase{
 	}
 	
 	private String[] sending;
-	private Vector<String> received;
+	private Vector<String> received = new Vector<String>();
 	private NetAddr addr;
 	private Socket client = null;
 }

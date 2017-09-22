@@ -10,70 +10,52 @@ import dep.BytesHex;
 public class Test {
 
 	public static void main(String[] args) {
-//		// TODO Auto-generated method stub
-//		byte[] x = BytesHex.HexToBytes("102030A0");
-//		for(int i = 0; i != x.length; ++i){
-//			System.out.println(x[i]);
-//		}
-//		ServerSocket serverSocket = null;
-//		try{
-//			serverSocket = new ServerSocket(6666);
-//		}catch(IOException e){
-//			e.printStackTrace();
-//		}
-//		
-//		new testThread(serverSocket, false).start();
-//		new testThread(serverSocket, true).start();
-		Map<String, String> x = new HashMap<String, String>();
-		x.put("A", "B");
-		x.put("C", "D");
-		System.out.println(x);
-		x.remove("A");
-		System.out.println(x);
+		ServerSocket serverSocket = null;
+		try{
+			serverSocket = new ServerSocket(6666);
+		} catch (IOException e){
+			e.printStackTrace();
+		}
+		new input(serverSocket).start();
+		Socket server = null;
+		while(true){
+			if (serverSocket.isClosed()) {
+				System.out.println("Server shuts down");
+				break;
+			}
+			System.out.println("Waiting for client on port " + 
+			        serverSocket.getLocalPort() + "...");
+			try{
+				server = serverSocket.accept();
+			}catch(IOException e){
+				System.out.println(e.getMessage());
+			}
+			// START LISTENING THREAD
+		}
 	}
-
 }
 
-class testThread extends Thread {
-	public testThread(ServerSocket s, boolean flag){
-		this.s = s;
-		this.flag = flag;
+class input extends Thread{
+	public input(ServerSocket s){
+		ss = s;
 	}
 	public void run(){
-		if(flag){
+		ArrayList<String> tmp = new ArrayList<String>();
+		String x = "";
+		while(true){
 			Scanner sc = new Scanner(System.in);
-			while(true){
-				System.out.print("Continue (y/n) ?:");
-				String x = sc.next();
-				System.out.println(x);
-				if(x.equals("n")){
-					System.out.println("Going to close server");
-					try{
-						s.close();
-					}catch (IOException e){
-						e.printStackTrace();
-					}
-				}
+			x = sc.next();
+			if(x.equals("def")){
+				break;
 			}
 		}
-		else{
+		try{
+		ss.close();
+		} catch (IOException e){
+			e.printStackTrace();
 			
-			while(true){
-				if(s.isClosed()){
-					System.out.println("Server is already closed.");
-					break;
-				}
-				try{
-					System.out.println("Waiting on port 6666...");
-					Socket server = s.accept();
-					System.out.println("Connected!");
-					server.close();
-				}catch(IOException e){
-					e.printStackTrace();
-				}
-			}
 		}
 	}
-	private ServerSocket s;
-	private boolean flag;
+	public static String x = "abc"; 
+	public ServerSocket ss;
 }
