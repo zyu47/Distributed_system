@@ -17,6 +17,10 @@ public class InfoEntry {
 		id = new String(i.id);
 		addr = new NetAddr(i.addr);
 	}
+	public InfoEntry(String fullInfo) {
+		id = fullInfo.split("\\s")[0];
+		addr = new NetAddr(fullInfo.split("\\s")[1]);
+	}
 	public String getFullFTEntry(){
 		return id + '\t' + addr.getFullAddr();
 	}

@@ -8,7 +8,7 @@ import dep.NetAddr;
 import dep.ReadAddr;
 
 public class Talk {
-	public static Vector<String> talkPeer(String h, int p, String[] msg){
+	public static String[] talkPeer(String h, int p, String[] msg){
 		TalkBase t = new TalkBase(h, p);
 		t.iniSendingMsg(msg);
 		if(t.contactPeer()){
@@ -17,7 +17,7 @@ public class Talk {
 			return null;
 		}
 	}
-	public static Vector<String> talkPeer(NetAddr n, String[] msg){
+	public static String[] talkPeer(NetAddr n, String[] msg){
 		TalkBase t = new TalkBase(n);
 		t.iniSendingMsg(msg);
 		if(t.contactPeer()){
@@ -27,7 +27,7 @@ public class Talk {
 		}
 	}
 	
-	public static Vector<String> talkDis(String[] msg){
+	public static String[] talkDis(String[] msg){
 		TalkBase t = new TalkBase();
 		t.iniSendingMsg(msg);
 		if(t.contactDis()){
@@ -52,7 +52,7 @@ class TalkBase{
 		sending = sn;
 	}
 	
-	public Vector<String> getReceivedMsg(){
+	public String[] getReceivedMsg(){
 		return received;
 	}
 	
@@ -110,9 +110,8 @@ class TalkBase{
 		
 		// Get message from Node and close connection
 		try{
-			String tmp = "";
-			while ((tmp = in.readLine()) != null){
-				received.add(tmp);
+			for (int i = 0; i != received.length; ++i) {
+				received[i] = in.readLine();
 			}
 		} catch (IOException e){
 			e.printStackTrace();
@@ -130,7 +129,7 @@ class TalkBase{
 	}
 	
 	private String[] sending;
-	private Vector<String> received = new Vector<String>();
+	private String[] received = new String[3];
 	private NetAddr addr;
 	private Socket client = null;
 }

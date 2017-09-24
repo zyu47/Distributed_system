@@ -28,19 +28,22 @@ public class Peer {
 		}
 		
 		// Start to join the network
-		startJoin(); // Joining the network
 		new CommandThread().start(); // Catch the input of the main command such as LEAVE or PRINT
 		startServer(); // Start the listening server
+		startJoin(); // Joining the network
 	}
 	
-	private static void startJoin() {		
+	private static void startJoin() {
+		System.out.println("Start to join the network");
 		while(true){
 			String entryAddr = findEntry();
 			if (entryAddr.equals("STOP")){
 				System.out.println("Join failed!! Trying again...");
 				continue;
 			} else {
-				contactEntry(entryAddr);
+				joinFromEntry(entryAddr);
+				reportJoin();
+				// MOVE FILES
 			}
 			break;
 		}
@@ -54,57 +57,98 @@ public class Peer {
 			e.printStackTrace();
 		}
 		
-		Socket server = null;
-		while(true){
-			if (serverSocket.isClosed()) {
-				break;
-			}
-			System.out.println("Waiting for client on port " + 
-			        serverSocket.getLocalPort() + "...");
-			try{
-				server = serverSocket.accept();
-			}catch(IOException e){
-				if(e.getMessage().equals("Socket closed")){
-					System.out.println("Socket closed");
-				} else {
-					e.printStackTrace();
-				}
-			}
-			new AcceptSocketThread(server).start();
-		}
+		new Server (serverSocket).start();
 	}
 	
 	private static String findEntry() {
 		
 		String[] probeMsg = {"JOINING", selfInfo.id, ""};
-		Vector<String> receivedMsg = Talk.talkDis(probeMsg);
+		String[] receivedMsg = Talk.talkDis(probeMsg);
 		
 		if(receivedMsg != null){
-			return receivedMsg.get(0); // return the entry point, first line of received message
+			return receivedMsg[0]; // return the entry point, first line of received message
 		} else {
 			System.out.println("Contacting discovery node failed.");
 			return "STOP"; // If discovery node is not available, return "STOP"
 		}
 	}
 	
-	private static void contactEntry(String entryAddr) {
+	private static void joinFromEntry(String entryAddr) {
 		if(entryAddr.equals("")){
 			// Indicates this is the first peer in the whole system, nothing special needs to be done
 			System.out.println("I am the first peer in the network!");
-			for(int i = 0; i != 16; ++i){
+			for (int i = 0; i != 16; ++i){
 				InfoEntry tmp = new InfoEntry(selfInfo);
 				fingerTable.add(tmp);
 			}
 			predInfo = new InfoEntry(selfInfo);
 			printFT();
 		}
-		else{			
+		else{
 			System.out.println("Contacting peer " + entryAddr + " to join the network");
-			populateFT(entryAddr);
+			findSUC(entryAddr);
 			notifySUC();
-			//NEEDS TO UPDATE OTHER PEERS
+			notifyPRED();
+			populateFT();
+			updateImpactedFT();
 		}
-		reportJoin();
+	}
+
+	private static void findSUC (String entryAddr) {
+		NetAddr entry_addr = new NetAddr(entryAddr);
+		String[] lookupMsg = {"LOOKUP", selfInfo.id, ""};
+		String[] receivedMsg = Talk.talkPeer(entry_addr, lookupMsg);
+		InfoEntry sucInfo = new InfoEntry(receivedMsg[0], receivedMsg[1]);
+		fingerTable.add(sucInfo); //This is the successor, i.e. fingerTable[0]
+	}
+	
+	/**
+	 * Contact the successor to notify that this node becomes its predecessor
+	 * Receives the original predecessor of my successor, and this will be my predecessor
+	 */
+	private static void notifySUC() {
+		// Update the predecessor of my successor to selfInfo
+		String[] notify_MSG = {"UPDATEPRED", selfInfo.id, selfInfo.getNetAddr()};
+		String[] receivedMsg = Talk.talkPeer(fingerTable.get(0).addr, notify_MSG);
+		if (receivedMsg != null){
+			InfoEntry info_tmp = new InfoEntry(receivedMsg[0], receivedMsg[1]);
+			predInfo = new InfoEntry(info_tmp);
+			System.out.println("Successor is up-to-date!");
+		}
+	}
+	
+	/**
+	 * Contact my predecessor to notify that this node becomes its successor
+	 * Receives confirmation from my predecessor to confirm update
+	 */
+	private static void notifyPRED() {
+		// Update the successor of my predecessor to selfInfo
+		String[] notify_MSG = {"UPDATESUC", selfInfo.id, selfInfo.getNetAddr()};
+		String[] receivedMsg = Talk.talkPeer(predInfo.addr, notify_MSG);
+		if (receivedMsg != null){
+//			InfoEntry info_tmp = new InfoEntry(receivedMsg[0], receivedMsg[1]);
+//			predInfo = new InfoEntry(info_tmp);
+			System.out.println("Predecessor is up-to-date!");
+		}
+	}
+	
+	/**
+	 * This function updates all impacted finger tables
+	 * The algorithm is adapted from the original Chord paper
+	 */
+	private static void updateImpactedFT() {
+		for (int i = 0; i != 16; ++i) {
+			System.out.println("-----Updating Entry " + i);
+			if (i == 0) {
+				updatePredFT ("0", selfInfo.getFullFTEntry());
+			}
+			else {
+				String[] tmp = lookup(ByteMath.minus(selfInfo.id,
+						(int)Math.pow(2, i)));
+				System.out.println("next update "+tmp[0]);
+				notifyToUpdateFT (new NetAddr(tmp[1]), String.valueOf(i), selfInfo.getFullFTEntry());
+			}
+		}
 	}
 	
 	/**
@@ -112,42 +156,47 @@ public class Peer {
 	 * 
 	 * @param entryAddr
 	 */
-	private static void populateFT(String entryAddr) {
+	private static void populateFT() {
 		System.out.println("Start to populate finger table");
-		String rowIDinFT = selfInfo.id; // This is the 16-bit ID in each row in the finger table; Start from the first row
+		//String rowIDinFT = selfInfo.id; 
 		
 		// First find my successor, then populate the rest of FT
-		for (int i = 0; i !=17; ++i){			
-			NetAddr entry_addr = new NetAddr(entryAddr);
+		for (int i = 1; i !=16; ++i){
+			// add 2^(i-1) to the id
+			String rowIDinFT = ByteMath.add(selfInfo.id, (int)Math.pow(2, i)); // This is the 16-bit ID in each row in the finger table; Start from the Second row
+			
 			// Look up to find out the host:port information, and add entry
 			String[] lookupMsg = {"LOOKUP", rowIDinFT, ""};
-			Vector<String> receivedMsg = Talk.talkPeer(entry_addr, lookupMsg);
+			String[] receivedMsg = Talk.talkPeer(fingerTable.get(i-1).addr, lookupMsg);
 			
 			if(receivedMsg != null){
-				InfoEntry info_tmp = new InfoEntry(receivedMsg.get(0), receivedMsg.get(1));
+				InfoEntry info_tmp = new InfoEntry(receivedMsg[0], receivedMsg[1]);
 				fingerTable.add(info_tmp);
-				// Start the next lookup from the last added peer 
-				entryAddr = fingerTable.get(i).getNetAddr();
+				// Print the lookup track
+//				System.out.println("Lookup Path is: ");
+//				System.out.println("\t" + receivedMsg.get(2));
 			} else {
 				InfoEntry info_tmp = new InfoEntry(selfInfo);
 				fingerTable.add(info_tmp);
 			}		
 			
-			// continue here to add 2^(i-1) to the id
-			rowIDinFT = ByteMath.add(selfInfo.id, (int)Math.pow(2, i-1)); 
+			
 						
 		}
 		
 		printFT();
 	}
 	
-	private static void notifySUC() {
-		String[] notify_MSG = {"UPDATEPRED", selfInfo.id, selfInfo.getNetAddr()};
-		Vector<String> receivedMsg = Talk.talkPeer(fingerTable.get(0).addr, notify_MSG);
-		if (receivedMsg != null){
-			InfoEntry info_tmp = new InfoEntry(receivedMsg.get(0), receivedMsg.get(1));
-			predInfo = new InfoEntry(info_tmp);
-		}
+	/**
+	 * This function is used for updating impacted finger table entries when node joining
+	 * It contacts the node, which will contact its predecessor to update the information
+	 * Note that the contacted node does not update finger table
+	 * The predecessor of the updated node updates the finger table and propagate information
+	 */
+	private static void notifyToUpdateFT (NetAddr target, String entryIndex, String entryInfo) {
+		System.out.println("\tUpdating entry " + entryIndex + "of the predecessor of " + target.getFullAddr());
+		String[] propagateMsg = {"UPDATEPREDFT", entryIndex, entryInfo};
+		Talk.talkPeer(target, propagateMsg);
 	}
 	
 	private static void reportJoin() {
@@ -155,60 +204,49 @@ public class Peer {
 		Talk.talkDis(report_MSG);
 	}
 	
+	// Following methods are used for manipulating information after receiving a message
+	
 	/**
 	 * return [ID, Address, Path]
 	 * @param targetID
 	 * @return
 	 */
-	public static Vector<String> lookup(String targetID) {
-		System.out.println("Start looking up ID: " + targetID + " on peer " + selfInfo.id);
+	public static String[] lookup(String targetID) {
+//		System.out.println("Start looking up ID: " + targetID + " on peer " + selfInfo.id);
 		
-		Vector<String> returnValue = new Vector<String>();  // [ID, Address, Path]
+		String[] returnValue = new String[3];  // [ID, Address, Path]
 		
 		// Special cases: targetID == selfID or selfID == successorID
 		if (targetID.equals(selfInfo.id) || selfInfo.id.equals(fingerTable.get(0).id)) {
-			returnValue.add(selfInfo.id);
-			returnValue.add(selfInfo.getNetAddr());
-			returnValue.add(selfInfo.id);
+			returnValue[0] = selfInfo.id;
+			returnValue[1] = selfInfo.getNetAddr();
+			returnValue[2] = selfInfo.id;
 			return returnValue; // found!
 		}
 
 		// First compare with self and successor
-		if (targetID.compareTo(selfInfo.id) > 0 && targetID.compareTo(fingerTable.get(0).id) <= 0){
-			returnValue.add(fingerTable.get(0).id);
-			returnValue.add(fingerTable.get(0).getNetAddr());
-			returnValue.add(fingerTable.get(0).id);
+		if (CompareIDrange.inrange(targetID, selfInfo.id, fingerTable.get(0).id) ||
+				targetID.equals(fingerTable.get(0).id)) {
+			returnValue[0] = fingerTable.get(0).id;
+			returnValue[1] = fingerTable.get(0).getNetAddr();
+			returnValue[2] = fingerTable.get(0).id;
 			return returnValue; // found!
 		} 
 		
-		// Look through other entries in finger table
-		// Find out which node to contact
-		String newTargetID = new String(targetID); 
-		
-		// in case key < currentID, add 2^16 to key
-		if (targetID.compareTo(selfInfo.id) < 0) {
-			newTargetID = "1" + targetID;
-		}
-		int targetIntID = Integer.parseInt(newTargetID, 16); //This is the ID that should be compared
-		
 		InfoEntry toContact = null;
-		int i= 1;
-		while (i != fingerTable.size()){
-			int compareIntID = Integer.parseInt(fingerTable.get(i).id, 16);
-			if (fingerTable.get(i).id.compareTo(targetID) < 0) {
-				compareIntID += Math.pow(2, 16);
-			}
-			if (targetIntID <= compareIntID) {
+		int i = 1;
+		for (; i != fingerTable.size(); ++i){
+			if (CompareIDrange.inrange(targetID, fingerTable.get(i-1).id, fingerTable.get(i).id) || 
+					targetID.equals(fingerTable.get(i).id)) {
 				break;
 			}
-			++i;
 		}
 		toContact = fingerTable.get(i - 1);
 		
 		// start to talk to the next peer and lookup
 		String[] contactMsg = {"LOOKUP", targetID, ""}; 
 		returnValue = Talk.talkPeer(toContact.addr, contactMsg);
-		returnValue.set(2, selfInfo.id + "->" + returnValue.get(2));
+		returnValue[2] = selfInfo.id + "->" + returnValue[2];
 		return returnValue;
 	}
 	
@@ -217,6 +255,39 @@ public class Peer {
 		predInfo.id = i;
 		predInfo.addr = new NetAddr(a);
 		return tmp;
+	}
+	
+	public static void updateSuc(String i, String a) {
+		fingerTable.get(0).addr = new NetAddr(a);
+		fingerTable.get(0).id = i;
+	}
+	
+	/**
+	 * Update the finger table of the predecessor.
+	 * entryIndex is the to-be-updated row of the finger table
+	 * @param entryIndex
+	 * @param entryInfo
+	 */
+	public static void updatePredFT (String entryIndex, String entryInfo) {
+		System.out.println("\tUpdatng entry "+ entryIndex + "of pred " + predInfo.id);
+		String[] propagateMsg = {"UPDATEFTENTRY", entryIndex, entryInfo};
+		Talk.talkPeer(predInfo.addr, propagateMsg);
+	}
+	
+	public static void updateFTEntry (String entryIndex, String entryInfo) {
+		InfoEntry tmpInfo = new InfoEntry(entryInfo);
+		System.out.println("\tUpdating entry  "+ entryIndex + " of self " + selfInfo.id + " to " + tmpInfo.id);
+		int i = Integer.parseInt(entryIndex);
+		// If targetID > selfID && targetID < FT[entryIndex].ID, update and propagate
+		// Otherwise do nothing
+		if (!selfInfo.id.equals(tmpInfo.id) && 
+				CompareIDrange.inrange(tmpInfo.id, selfInfo.id, fingerTable.get(i).id)) {
+			System.out.println("\ttmpInfo: " + tmpInfo.id + "\tselfInfo: " + selfInfo.id + "\tsucInfo: " + fingerTable.get(i).id);
+			fingerTable.set(i, tmpInfo);
+//			if (!predInfo.id.equals(tmpInfo.id)) {
+			updatePredFT (entryIndex, entryInfo);
+//			}
+		}
 	}
 	
 	public static void printFT() {

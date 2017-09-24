@@ -9,8 +9,11 @@ public class ByteMath {
 	 */
 	public static String add(String id, int inc){
 		int ori_val = Integer.parseInt(id, 16);
-		int new_val = (ori_val + inc) % (int)Math.pow(2, 16);
+		int new_val = (ori_val + inc + (int)Math.pow(2, 16)) % (int)Math.pow(2, 16);
 		String tmp = Integer.toString(new_val, 16);
 		return ("0000" + tmp).substring(tmp.length());
+	}
+	public static String minus(String id, int dec) {
+		return add (id, -dec);
 	}
 }

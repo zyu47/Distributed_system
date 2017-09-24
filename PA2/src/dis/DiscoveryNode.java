@@ -90,6 +90,8 @@ class discoveryThread extends Thread{
 		try{
 			PrintWriter out = new PrintWriter(server.getOutputStream());
 			out.println(s);
+			out.println("");
+			out.println("");			
 			out.flush();
 		}catch (IOException e){
 			e.printStackTrace();

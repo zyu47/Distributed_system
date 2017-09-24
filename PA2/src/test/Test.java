@@ -5,33 +5,14 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.*;
 
-import dep.BytesHex;
+import dep.*;
 
 public class Test {
 
 	public static void main(String[] args) {
-		ServerSocket serverSocket = null;
-		try{
-			serverSocket = new ServerSocket(6666);
-		} catch (IOException e){
-			e.printStackTrace();
-		}
-		new input(serverSocket).start();
-		Socket server = null;
-		while(true){
-			if (serverSocket.isClosed()) {
-				System.out.println("Server shuts down");
-				break;
-			}
-			System.out.println("Waiting for client on port " + 
-			        serverSocket.getLocalPort() + "...");
-			try{
-				server = serverSocket.accept();
-			}catch(IOException e){
-				System.out.println(e.getMessage());
-			}
-			// START LISTENING THREAD
-		}
+//		System.out.println(CompareIDrange.inrange("3c07", "6ca5", "3c09"));
+		System.out.println(ByteMath.minus("5000",
+				(int)Math.pow(2, 15)));
 	}
 }
 
