@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 
-x = ['7bad', 'ba69',  'c02e', 'c900']
+#x = ['8cd6', 'ce61',  'da2f', 'ecc9']
+x = ['ce61',  'da2f']#, 'ecc9']
 plt.plot(range(2**16), [0 for i in range(2**16)])
 for i in x:
 	plt.plot(int(i, 16), 0, 'r.')
