@@ -3,6 +3,7 @@ package peer;
 import java.util.*;
 import java.io.*;
 import java.net.*;
+import java.nio.file.*;
 
 import dep.NetAddr;
 import dep.ReadAddr;
@@ -17,6 +18,7 @@ public class Talk {
 			return null;
 		}
 	}
+
 	public static String[] talkPeer(NetAddr n, String[] msg){
 		TalkBase t = new TalkBase(n);
 		t.iniSendingMsg(msg);
@@ -26,7 +28,7 @@ public class Talk {
 			return null;
 		}
 	}
-	
+
 	public static String[] talkDis(String[] msg){
 		TalkBase t = new TalkBase();
 		t.iniSendingMsg(msg);
@@ -34,6 +36,46 @@ public class Talk {
 			return t.getReceivedMsg();
 		} else {
 			return null;
+		}
+	}
+	
+	public static void storeAt(String fileID, String filePath, String fullAddr) {
+		// Construct header messages
+		Path path = Paths.get(filePath);
+		String header = "STORE\n" + fileID + "\n" + path.getFileName().toString() + "\n";
+		
+		// Stream reading from file 
+		File file = new File(path.toString());        
+        //long length = file.length(); // Get the size of the file
+        byte[] bytes = new byte[4096];
+        InputStream fileIn = null;        
+		
+        // Start socket and send file by byte
+		NetAddr target = new NetAddr(fullAddr);
+		Socket client = null;
+		OutputStream socketOut = null;
+		
+		try {
+			client = new Socket(target.host, target.port);
+			fileIn = new FileInputStream(file);
+			socketOut = client.getOutputStream();
+			
+			// First write the header containing the command and file name
+			byte[] tmp = header.getBytes();
+			for (int i = 0; i != tmp.length; ++i) {
+				socketOut.write(tmp[i]);
+			}
+			
+			// File is following the header
+	        int count;
+	        while ((count = fileIn.read(bytes)) > 0) {
+	            socketOut.write(bytes, 0, count);
+	        }
+	        fileIn.close();
+	        socketOut.close();
+	        client.close();
+		} catch(IOException e){
+			e.printStackTrace();
 		}
 	}
 }

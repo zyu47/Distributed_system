@@ -1,0 +1,79 @@
+Server is started!
+Start to join the network
+Contacting peer 129.82.44.134:6666 to join the network
+Start to populate finger table
+The finger table is:
+	Entry 1:	3182	129.82.44.134:6666
+	Entry 2:	3182	129.82.44.134:6666
+	Entry 3:	3182	129.82.44.134:6666
+	Entry 4:	3182	129.82.44.134:6666
+	Entry 5:	3182	129.82.44.134:6666
+	Entry 6:	3182	129.82.44.134:6666
+	Entry 7:	3182	129.82.44.134:6666
+	Entry 8:	3182	129.82.44.134:6666
+	Entry 9:	3182	129.82.44.134:6666
+	Entry 10:	3182	129.82.44.134:6666
+	Entry 11:	3182	129.82.44.134:6666
+	Entry 12:	3182	129.82.44.134:6666
+	Entry 13:	3182	129.82.44.134:6666
+	Entry 14:	3182	129.82.44.134:6666
+	Entry 15:	3182	129.82.44.134:6666
+	Entry 16:	c40b	129.82.44.130:6667
+--------------------Diagnostic Infomation----------------------
+Self Info: c40b	129.82.44.130:6667
+Predecessor: 3182	129.82.44.134:6666
+Successor: e136	129.82.44.130:6669
+The finger table is:
+	Entry 1:	e136	129.82.44.130:6669
+	Entry 2:	e136	129.82.44.130:6669
+	Entry 3:	e136	129.82.44.130:6669
+	Entry 4:	e136	129.82.44.130:6669
+	Entry 5:	e136	129.82.44.130:6669
+	Entry 6:	e136	129.82.44.130:6669
+	Entry 7:	e136	129.82.44.130:6669
+	Entry 8:	e136	129.82.44.130:6669
+	Entry 9:	e136	129.82.44.130:6669
+	Entry 10:	e136	129.82.44.130:6669
+	Entry 11:	e136	129.82.44.130:6669
+	Entry 12:	e136	129.82.44.130:6669
+	Entry 13:	e136	129.82.44.130:6669
+	Entry 14:	1c63	129.82.44.134:6668
+	Entry 15:	1c63	129.82.44.134:6668
+	Entry 16:	c40b	129.82.44.130:6667
+Stored files are : 
+-----------------------------END-------------------------------
+2.txt is stored under /tmp
+3.txt is stored under /tmp
+--------------------Diagnostic Infomation----------------------
+Self Info: c40b	129.82.44.130:6667
+Predecessor: 3182	129.82.44.134:6666
+Successor: e136	129.82.44.130:6669
+The finger table is:
+	Entry 1:	e136	129.82.44.130:6669
+	Entry 2:	e136	129.82.44.130:6669
+	Entry 3:	e136	129.82.44.130:6669
+	Entry 4:	e136	129.82.44.130:6669
+	Entry 5:	e136	129.82.44.130:6669
+	Entry 6:	e136	129.82.44.130:6669
+	Entry 7:	e136	129.82.44.130:6669
+	Entry 8:	e136	129.82.44.130:6669
+	Entry 9:	e136	129.82.44.130:6669
+	Entry 10:	e136	129.82.44.130:6669
+	Entry 11:	e136	129.82.44.130:6669
+	Entry 12:	e136	129.82.44.130:6669
+	Entry 13:	e136	129.82.44.130:6669
+	Entry 14:	1c63	129.82.44.134:6668
+	Entry 15:	1c63	129.82.44.134:6668
+	Entry 16:	c40b	129.82.44.130:6667
+Stored files are : 
+	3.txt
+	2.txt
+-----------------------------END-------------------------------
+2.txt is successfully deleted
+2.txt is removed from /tmp
+Start to leave the network
+Server is now closed!
+3.txt is successfully deleted
+3.txt is removed from /tmp
+Initiating the leaving protocol
+Goodbye!

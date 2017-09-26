@@ -22,7 +22,8 @@ public class Server extends Thread{
 				server = serverSocket.accept();
 			}catch(IOException e){
 				if(e.getMessage().equals("Socket closed")){
-					System.out.println("Socket closed");
+//					System.out.println("Socket closed");
+					break;
 				} else {
 					e.printStackTrace();
 				}
@@ -40,15 +41,39 @@ class AcceptSocketThread extends Thread{
 	
 	public void run () {
 //		System.out.println("Start processing messages");
-		String[] receivedMsg= new String[3];
-		BufferedReader in = null;
+		String[] receivedMsg= {"", "", ""};
+		InputStream in = null;
 		PrintWriter out = null;
+		
+		byte[] byteArray = new byte[4096]; // Read byte from input
+		int count = 0;
+		int msgIndex = 0;
+		int stoppedAt = 0;
 		try {
-			in = new BufferedReader(new InputStreamReader(server.getInputStream()));
+			in = server.getInputStream();
 			out = new PrintWriter(server.getOutputStream());
 			
-			for (int i = 0; i != receivedMsg.length; ++i) {
-				receivedMsg[i] = in.readLine();
+//			for (int i = 0; i != receivedMsg.length; ++i) {
+//				receivedMsg[i] = in.readLine();
+//			}
+			
+			// Parse input by byte
+			while ((count = in.read(byteArray)) > 0) {
+				int i = 0;
+				for (; i != count; ++i) {
+					if (msgIndex >= 3) {
+						break;
+					}
+					if ((char) byteArray[i] == '\n') {
+						++msgIndex;
+						continue;
+					}
+					receivedMsg[msgIndex] += (char) byteArray[i];
+				}
+				if(msgIndex >= 3) {
+					stoppedAt = i;
+					break;
+				}
 			}
 		} catch (IOException e){
 			e.printStackTrace();
@@ -81,12 +106,24 @@ class AcceptSocketThread extends Thread{
 				out.println("");
 				break;
 				
-			case "UPDATEPREDFT":
-				Peer.updatePredFT(receivedMsg[1], receivedMsg[2]);
+			case "UPDATEPREDFTJOIN":
+				Peer.updatePredFT(receivedMsg[1], receivedMsg[2], true);
 				break;
 				
-			case "UPDATEFTENTRY":
-				Peer.updateFTEntry(receivedMsg[1], receivedMsg[2]);
+			case "UPDATEPREDFTLEAVE":
+				Peer.updatePredFT(receivedMsg[1], receivedMsg[2], false);
+				break;
+				
+			case "UPDATEFTENTRYJOIN":
+				Peer.updateFTEntry(receivedMsg[1], receivedMsg[2], true);
+				break;
+				
+			case "UPDATEFTENTRYLEAVE":
+				Peer.updateFTEntry(receivedMsg[1], receivedMsg[2], false);
+				break;
+				
+			case "STORE":
+				Peer.storeFile(receivedMsg[1], receivedMsg[2], in, byteArray, count, stoppedAt);
 				break;
 				
 			default:

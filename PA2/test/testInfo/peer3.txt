@@ -1,0 +1,74 @@
+Server is started!
+Start to join the network
+Contacting peer 129.82.44.134:6666 to join the network
+Start to populate finger table
+The finger table is:
+	Entry 1:	3182	129.82.44.134:6666
+	Entry 2:	3182	129.82.44.134:6666
+	Entry 3:	3182	129.82.44.134:6666
+	Entry 4:	3182	129.82.44.134:6666
+	Entry 5:	3182	129.82.44.134:6666
+	Entry 6:	3182	129.82.44.134:6666
+	Entry 7:	3182	129.82.44.134:6666
+	Entry 8:	3182	129.82.44.134:6666
+	Entry 9:	3182	129.82.44.134:6666
+	Entry 10:	3182	129.82.44.134:6666
+	Entry 11:	3182	129.82.44.134:6666
+	Entry 12:	3182	129.82.44.134:6666
+	Entry 13:	3182	129.82.44.134:6666
+	Entry 14:	c40b	129.82.44.130:6667
+	Entry 15:	c40b	129.82.44.130:6667
+	Entry 16:	c40b	129.82.44.130:6667
+--------------------Diagnostic Infomation----------------------
+Self Info: 1c63	129.82.44.134:6668
+Predecessor: e136	129.82.44.130:6669
+Successor: 3182	129.82.44.134:6666
+The finger table is:
+	Entry 1:	3182	129.82.44.134:6666
+	Entry 2:	3182	129.82.44.134:6666
+	Entry 3:	3182	129.82.44.134:6666
+	Entry 4:	3182	129.82.44.134:6666
+	Entry 5:	3182	129.82.44.134:6666
+	Entry 6:	3182	129.82.44.134:6666
+	Entry 7:	3182	129.82.44.134:6666
+	Entry 8:	3182	129.82.44.134:6666
+	Entry 9:	3182	129.82.44.134:6666
+	Entry 10:	3182	129.82.44.134:6666
+	Entry 11:	3182	129.82.44.134:6666
+	Entry 12:	3182	129.82.44.134:6666
+	Entry 13:	3182	129.82.44.134:6666
+	Entry 14:	c40b	129.82.44.130:6667
+	Entry 15:	c40b	129.82.44.130:6667
+	Entry 16:	c40b	129.82.44.130:6667
+Stored files are : 
+-----------------------------END-------------------------------
+--------------------Diagnostic Infomation----------------------
+Self Info: 1c63	129.82.44.134:6668
+Predecessor: e136	129.82.44.130:6669
+Successor: 3182	129.82.44.134:6666
+The finger table is:
+	Entry 1:	3182	129.82.44.134:6666
+	Entry 2:	3182	129.82.44.134:6666
+	Entry 3:	3182	129.82.44.134:6666
+	Entry 4:	3182	129.82.44.134:6666
+	Entry 5:	3182	129.82.44.134:6666
+	Entry 6:	3182	129.82.44.134:6666
+	Entry 7:	3182	129.82.44.134:6666
+	Entry 8:	3182	129.82.44.134:6666
+	Entry 9:	3182	129.82.44.134:6666
+	Entry 10:	3182	129.82.44.134:6666
+	Entry 11:	3182	129.82.44.134:6666
+	Entry 12:	3182	129.82.44.134:6666
+	Entry 13:	3182	129.82.44.134:6666
+	Entry 14:	c40b	129.82.44.130:6667
+	Entry 15:	c40b	129.82.44.130:6667
+	Entry 16:	c40b	129.82.44.130:6667
+Stored files are : 
+-----------------------------END-------------------------------
+Updating enetry 11 of my (1c63) finger table from 3182 to 5f6a
+Updating enetry 12 of my (1c63) finger table from 3182 to 5f6a
+Updating enetry 15 of my (1c63) finger table from c40b to e136
+Start to leave the network
+Server is now closed!
+Initiating the leaving protocol
+Goodbye!

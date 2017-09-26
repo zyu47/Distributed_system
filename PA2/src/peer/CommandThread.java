@@ -11,14 +11,7 @@ public class CommandThread extends Thread{
 			String command = sc.next();
 			switch (command) {
 				case "EXIT":
-					// TRANSFER FILES
-					// NOTIFY SUCCESSOR
-					// NOTIFY OTHER NODES
-					// UPDATE DISCOVERY
-					
-					// close the server
-					Peer.closeServer();
-					
+					Peer.startLeaving();					
 					break;
 					
 				case "PRINT":

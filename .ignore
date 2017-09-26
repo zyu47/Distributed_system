@@ -1,4 +1,5 @@
-./PA1/bin
+./PA1/bin/
 ./PA1/src/test/
 ./.cache/
 ./PA2/HW2.pdf
+./PA2/test/test.py
