@@ -6,13 +6,17 @@ public class CompareIDrange {
 		int small = Integer.parseInt(smallID, 16);
 		int large = Integer.parseInt(largeID, 16);
 		
+//		if (small == large) {
+//			if (test != small) {
+//				return true;
+//			} else {
+//				return false;
+//			}
+//		} else
 		if (small == large) {
-			if (test != small) {
-				return true;
-			} else {
-				return false;
-			}
-		} else if (small < large) {
+			return false;
+		}
+		if (small < large) {
 			return (test > small) && (large > test);
 		} else {
 			large += (int)Math.pow(2, 16);

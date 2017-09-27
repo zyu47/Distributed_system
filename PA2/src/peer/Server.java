@@ -122,6 +122,13 @@ class AcceptSocketThread extends Thread{
 				Peer.updateFTEntry(receivedMsg[1], receivedMsg[2], false);
 				break;
 				
+			case "RETURNPRED":
+				String[] info = Peer.getPredInfo();
+				out.println(info[0]);
+				out.println(info[1]);
+				out.println(info[2]);
+				break;
+				
 			case "STORE":
 				Peer.storeFile(receivedMsg[1], receivedMsg[2], in, byteArray, count, stoppedAt);
 				break;

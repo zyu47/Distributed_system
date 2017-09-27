@@ -17,7 +17,9 @@ import dep.*;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println(GetID.getHexID("1.txt"));
+//		System.out.println(GetID.getHexID("1.txt"));
+		System.out.println(ByteMath.minus("c1af", (int)Math.pow(2, 14)+1));
+//		System.out.println(CompareIDrange.inrange("81ae", "c1af", "81af"));
 //		Set<String> x = new HashSet<String>();
 //		x.add("abc");
 //		x.add("def");
