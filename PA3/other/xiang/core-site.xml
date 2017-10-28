@@ -1,6 +1,0 @@
-<configuration>
-    <property>
-        <name>fs.default.name</name>
-        <value>hdfs://jupiter:31101</value>
-    </property>
-</configuration>
