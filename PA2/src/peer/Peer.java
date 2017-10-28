@@ -471,7 +471,7 @@ public class Peer {
 	}
 	
 	private static synchronized void removeFileEntry (String fileID) {
-		String fileName = storedFiles.get(fileID);
+		//String fileName = storedFiles.get(fileID);
 		storedFiles.remove(fileID);
 //		System.out.println(fileName + " is removed from /tmp");
 	}
@@ -512,13 +512,15 @@ public class Peer {
 	
 	private static void moveAllFiles () {
 		boolean lastPeer = selfInfo.id.equals(fingerTable.get(0).id);
+		if (lastPeer) {
+			System.out.print("I am the last peer in the network! ");
+			System.out.println("All files will be lost");
+		}
 		for (String fileID : storedFiles.keySet()) {
 			if (!lastPeer) {
 				transferFile (fileID, fingerTable.get(0).addr);
 			}
 			else {
-				System.out.print("I am the last peer in the network! ");
-				System.out.println("All files will be lost");
 				removeFile(fileID);
 				removeFileEntry (fileID);
 			}

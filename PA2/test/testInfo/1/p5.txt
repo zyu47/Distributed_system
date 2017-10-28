@@ -1,0 +1,96 @@
+Server is started!
+Start to join the network
+Contacting peer 129.82.44.130:6667 to join the network
+Lookup path: c1af->21af->81af
+Start to populate finger table
+The finger table is:
+	Entry 1:	81af	129.82.44.134:6666
+	Entry 2:	81af	129.82.44.134:6666
+	Entry 3:	81af	129.82.44.134:6666
+	Entry 4:	81af	129.82.44.134:6666
+	Entry 5:	81af	129.82.44.134:6666
+	Entry 6:	81af	129.82.44.134:6666
+	Entry 7:	81af	129.82.44.134:6666
+	Entry 8:	81af	129.82.44.134:6666
+	Entry 9:	81af	129.82.44.134:6666
+	Entry 10:	81af	129.82.44.134:6666
+	Entry 11:	81af	129.82.44.134:6666
+	Entry 12:	81af	129.82.44.134:6666
+	Entry 13:	81af	129.82.44.134:6666
+	Entry 14:	81af	129.82.44.134:6666
+	Entry 15:	81af	129.82.44.134:6666
+	Entry 16:	c1af	129.82.44.130:6667
+-----Updating Entry 0
+-----Updating Entry 1
+Looked up: 41af
+-----Updating Entry 2
+Looked up: 41af
+-----Updating Entry 3
+Looked up: 41af
+-----Updating Entry 4
+Looked up: 41af
+-----Updating Entry 5
+Looked up: 41af
+-----Updating Entry 6
+Looked up: 41af
+-----Updating Entry 7
+Looked up: 41af
+-----Updating Entry 8
+Looked up: 41af
+-----Updating Entry 9
+Looked up: 41af
+-----Updating Entry 10
+Looked up: 41af
+-----Updating Entry 11
+Looked up: 41af
+-----Updating Entry 12
+Looked up: 41af
+-----Updating Entry 13
+Looked up: 41af
+-----Updating Entry 14
+Looked up: 21af
+-----Updating Entry 15
+Looked up: 21af
+3.txt is stored under /tmp
+7.txt is stored under /tmp
+15.txt is stored under /tmp
+8.txt is stored under /tmp
+Start to leave the network
+Server is now closed!
+Initiating the leaving protocol
+-----Updating Entry 0
+-----Updating Entry 1
+Looked up: 61af
+-----Updating Entry 2
+Looked up: 61af
+-----Updating Entry 3
+Looked up: 61af
+-----Updating Entry 4
+Looked up: 61af
+-----Updating Entry 5
+Looked up: 61af
+-----Updating Entry 6
+Looked up: 61af
+-----Updating Entry 7
+Looked up: 61af
+-----Updating Entry 8
+Looked up: 61af
+-----Updating Entry 9
+Looked up: 61af
+-----Updating Entry 10
+Looked up: 61af
+-----Updating Entry 11
+Looked up: 61af
+-----Updating Entry 12
+Looked up: 61af
+-----Updating Entry 13
+Looked up: 61af
+-----Updating Entry 14
+Looked up: 61af
+-----Updating Entry 15
+Looked up: 01af
+8.txt is successfully deleted
+3.txt is successfully deleted
+15.txt is successfully deleted
+7.txt is successfully deleted
+Goodbye!

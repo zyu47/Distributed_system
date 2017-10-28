@@ -1,6 +1,6 @@
 package store;
 
-import java.nio.file.*;
+//import java.nio.file.*;
 import java.util.*;
 
 public class Store {
@@ -10,7 +10,12 @@ public class Store {
 		String filePath = null;
 		
 		while((filePath = input.next()) != null) {
-			new StoreData(filePath).startStore();
+			String[] tmp = filePath.split("\\*");
+			if (tmp.length == 1) {
+				new StoreData(filePath).startStore();
+			} else {
+				new StoreData(tmp[0], tmp[1]).startStore();
+			}
 		}
 		input.close();
 		System.out.println("Done storing files!");

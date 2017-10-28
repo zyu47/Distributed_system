@@ -17,46 +17,12 @@ import dep.*;
 public class Test {
 
 	public static void main(String[] args) {
-//		System.out.println(GetID.getHexID("1.txt"));
-		System.out.println(ByteMath.minus("c1af", (int)Math.pow(2, 14)+1));
-//		System.out.println(CompareIDrange.inrange("81ae", "c1af", "81af"));
-//		Set<String> x = new HashSet<String>();
-//		x.add("abc");
-//		x.add("def");
-//		x.add("ghi");
-//		System.out.println(x);
-//		x.remove("abc");
-//		System.out.println(x);
-//		String msg = "UPDATE\n66e5\n127.34.5.9:6666\n";
-//		String anotherMsg = "abcdefg";
-//        // Start socket and send file by byte
-//		NetAddr target = new NetAddr("129.82.45.44:6666");
-//		Socket client = null;
-//		PrintWriter out = null;
-//		
-//		try {
-//			client = new Socket(target.host, target.port);
-//			out = new PrintWriter(client.getOutputStream());
-////			byte[] msgByte = msg.getBytes();
-////	        
-////			for (int i = 0; i != msgByte.length; ++i){
-////	            out.write(msgByte[i]);
-////	        }
-//
-//			out.println("STORE");
-//			out.println("FileName");
-//			out.println("");
-//			
-//			byte[] anotherByte = anotherMsg.getBytes();
-//			for (int i = 0; i != anotherByte.length; ++i){
-//				out.write(anotherByte[i]);
-//			}
-//			
-//	        out.close();
-//	        client.close();
-//		} catch(IOException e){
-//			e.printStackTrace();
-//		}
+		String s = "./test/folder/1.txt";
+		String[] x = s.split("\\*");
+		for (int i = 0; i != x.length; ++i) {
+			System.out.println(x[i]);
+			System.out.println(i);
+		}
 	}
 }
 

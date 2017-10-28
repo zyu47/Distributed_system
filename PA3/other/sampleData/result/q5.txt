@@ -1,0 +1,2405 @@
+chanson	0.46630483075728635	Sofia Karlsson	Andra sidan
+chanson	nan	Les Ogres De Barback	Femme du guerrier
+chanson	nan	Gerard Lenorman	Voici Les Clés
+chanson	nan	Patricia Kaas	Elle Voulait Jouer Cabaret
+chanson	0.5359538016656614	Olivia Ruiz	Vitrier
+chanson	0.3864772912554594	Isabelle Adjani	Entre Autre Pas En Traître
+chanson	0.36727341580934564	Julie Zenatti	A Quoi Ca Sert
+chanson	0.3552855364230894	Marlene Dietrich	No Love No Nothing
+chanson	0.2998774882739778	Marlene Dietrich	A Guy What Takes His Time En Anglais
+chanson	nan	Michèle Bernard	Canal de jonage
+gangster rap	0.48576115292501804	AZ	Aziatic (Outro)
+gangster rap	nan	A.Z.	Sosa (Explicit)
+gangster rap	nan	Mac Dre	This is My Year
+gangster rap	0.682449124231555	The Game / Nas	Letter To The King
+gangster rap	0.4051157216913865	Bad Azz	Too Many Choices
+gangster rap	0.21508031850922793	Messy Marv featuring Clover Geez	Still Ballin
+gangster rap	nan	Adr Lavey	In The Name of the Father
+gangster rap	nan	Hollowtip	Superstar (feat. J-Noxx)
+gangster rap	0.4081108835105221	Lost Boyz	Get Your Hustle On
+gangster rap	0.0	Bad Azz	Tha Stand
+hard rock	0.7507011977395635	Atomic Rooster	The Rock
+hard rock	nan	White Heart	In His Name
+hard rock	0.8008496908835327	Warrant	Cherry Pie
+hard rock	nan	Kiss	Stand (Album Version)
+hard rock	nan	UFO	Out In The Street (Live In Cleveland_ Ohio)
+hard rock	1.0	Led Zeppelin	Immigrant Song (Album Version)
+hard rock	0.7120790655281207	Jeff Beck	Angel [Footsteps] (Album Version)
+hard rock	0.6406840303493887	L.A. Guns	Magdalaine
+hard rock	0.6120549539686252	P.O.D.	Wildfire (Album Version)
+hard rock	0.5996603576264808	L.A. Guns	Some Lie For Love
+electronic	nan	Hatiras	The Anthem
+electronic	nan	Mannheim Steamroller	On The Edge Of Forever
+electronic	nan	Xose Manuel Budiño	Burbullas A Grella
+electronic	nan	Margaret Becker	O Come_ O Come Emmanuel
+electronic	nan	Kim English	Love That Jazz (Basements Boys Album Vers)
+electronic	nan	Michael Whalen	Gail Wakes Up
+electronic	nan	Casiotone For The Painfully Alone	Bad People
+electronic	0.5943624888400596	Kraftwerk	Titanium (2009 Digital Remaster)
+electronic	0.5159636307203983	Fever Ray	When I Grow Up
+electronic	nan	Aphasia	"mixture of noize (part two: ""walter sobchak"" - live extract)"
+downtempo	nan	Anne Dudley	Victims of the occupation
+downtempo	nan	Malkit Singh	Akh Larh Gayee
+downtempo	nan	Slackbaba	And The Beat Goes Om
+downtempo	nan	Gloria Lasso	Que Cosas_ Que Cosas
+downtempo	nan	Esion Jim	Never-ending
+downtempo	nan	Gloria Lasso	Magali
+downtempo	nan	Moss	There Alone Go I
+downtempo	nan	Atman	All Is One
+downtempo	nan	Malkit Singh	Nach Ke VEkha Bhabhiyie
+downtempo	nan	Rhian Sheehan	An Afternoon On the Moon (Jet Jaguar's Remix)
+hip hop	nan	Eric B. & Rakim	Follow The Leader
+hip hop	0.8475308982878319	Akon	Don't Matter
+hip hop	0.6093991023458866	Mobb Deep	Where Ya Heart At
+hip hop	0.5692756506754788	Emilia	You're My World
+hip hop	0.4944895175021134	Darwin Hobbs	Worshipper's Medley
+hip hop	nan	Rick Ross	Trouble in Mind
+hip hop	0.5778486206079895	Dynamite Deluxe	Zap Zap
+hip hop	nan	X-Ecutioners featuring Big Pun	The Drama (intro)
+hip hop	nan	Kanye West	Diamonds From Sierra Leone
+hip hop	nan	Pyranja	Nie Wieder (Toktok RMX)
+blues	0.0	Pee Wee Crayton	Old Fashioned Baby
+blues	nan	Groucho Marx	Show Fifteen with Bernard Sampson & Robert Sewell
+blues	nan	Big Maybelle	New Kind Of Mambo
+blues	0.5420847628074396	Otis Taylor	Hungry People
+blues	nan	Champion Jack Dupree With TS McPhee	No Meat Blues
+blues	nan	Blind Blake	Blake's Worried Blues
+blues	nan	Alfredo Gutiérrez	El niño de la calle
+blues	0.5923335672708461	Otis Taylor	Round and Round
+blues	0.5033812362063191	Robben Ford	Something For The Pain
+blues	nan	Albert King	Please Come Back To Me - Live
+black metal	nan	D.A.R.	Quiere Novio
+black metal	0.5786581877569713	Belphegor	The Sukkubus Lustrate
+black metal	nan	D.A.R.	Que paso
+black metal	nan	Cradle Of Filth	Summer Dying Fast
+black metal	0.5339103725510771	Limbonic Art	A Void Of Lifeless Dreams
+black metal	nan	Necrodaemon	The last havoc
+black metal	0.7099099374527287	Dark Fortress	Ghastly Indoctrination
+black metal	nan	Negura Bunget	Tara De dinicolo De Negura
+black metal	0.49271363957256076	Trivium	Shogun [with fade_ for special edition]
+black metal	nan	Canis Dirus	A Somber Wind from a Distant Shore (Album)
+rock	nan	Marty Robbins	A Castle In The Sky
+rock	nan	David Tao	Love Can
+rock	nan	Korn	Coming Undone (Sleazy Days Rock Electro Remix) (Acid Planet Remix -- France)
+rock	nan	THE AD LIBS	Johnny My Boy - Original
+rock	nan	Bomb Squad	Flipside
+rock	0.7590683433012374	The Clash	Inoculated City
+rock	0.7339908785242064	Eastmountainsouth	Hard Times
+rock	0.6943086880508273	Richard Hell & The Voidoids	Another World (Album Version)
+rock	nan	Super700	The Other Side
+rock	nan	Groucho Marx	Show Fifteen with Bernard Sampson & Robert Sewell
+gabba	nan	Delta 9	Infidel
+gabba	nan	Perez Prado_ His Orchestra	Abril en Portugal
+gabba	0.2893626978238255	Hoodfellas	If you Seek Amy
+gabba	0.0	DJ Primo	Give It All You Got
+gabba	nan	The Aftermath	Might As Well Laugh
+gabba	0.40790171721807383	Delta 9	In The Void
+gabba	0.21508031850922793	Ultraviolence	I Destructor (Lenny Dee Mix)
+gabba	0.21508031850922793	Ultraviolence	Murder Academy
+gabba	nan	3 Steps Ahead	My Mind Is Gone
+gabba	0.0	Ultraviolence	Stars (GROWTH Ultraviolence Mix)
+pop rock	nan	Hall & Oates	Perkiomen
+pop rock	nan	Christos Dantis	Pai Keros
+pop rock	nan	Patrick Samson	Io Che Non Vivo Senza Te
+pop rock	nan	Hall & Oates	Fall in Philadelphia
+pop rock	nan	Gloria Lasso	Que Cosas_ Que Cosas
+pop rock	0.6412287384848957	Tommy James And The Shondells	Out Of The Blue
+pop rock	nan	Mike And The Mechanics	Nobody's Perfect
+pop rock	nan	Neil Innes	Come Out Into The Open
+pop rock	nan	Gloria Lasso	Magali
+pop rock	nan	Small Faces	Itchycoo Park
+dirty south rap	0.0	Workhorse	Serus
+dirty south rap	0.0	089 Clique feat. Minnesota Snipe & Skinny Cueball	M-Town 2 M-Town
+dirty south rap	0.0	089 Clique feat. Prophet	Visions Of Death
+dirty south rap	0.26586104921065007	Workhorse	High Horse
+dirty south rap	nan	Dungeon Family	Follow The Light
+dirty south rap	0.0	Workhorse	My Friend the Blind
+dirty south rap	0.0	8Ball & MJG	Pimpin' Don't Fail Me Now [Featuring Jazze Pha and Juvenile] (Explicit Album Version)
+dirty south rap	0.2538347361322313	Workhorse	Flight of the Elephant
+post rock	nan	Knack	Everything I Do
+post rock	0.2623089972119452	Knack	A World Of My Own
+post rock	0.4287022625232594	Phantomsmasher	Bishop Hopping
+post rock	nan	Scissors for Sparrow	Top of the Hill_ Bottom of the Valley...Uhh!
+post rock	0.1939277643569876	Languis	Cable
+post rock	0.2538347361322313	Sigmatropic	The Blue Side of The Sun
+post rock	0.2623089972119452	Knack	Dance Of Romance
+post rock	0.26376758986854226	Caniche Hara-Kiri	Frigide
+post rock	0.33023468276864437	Knack	Seven Days Of Heaven
+power pop	nan	Stan	Luv
+power pop	nan	Dwight Twilley	Tomorrow Never Knows
+power pop	0.6994743254368799	Big Star	Till The End Of The Day (Alternate Mix)
+power pop	nan	Justin	Erica
+power pop	nan	The Katies	Tappin' Out (LP Version)
+power pop	nan	The Katies	She's My Marijuana (LP Version)
+power pop	nan	Justin	Wo You Jin Ri
+power pop	nan	Smash Palace	It's All Because
+power pop	nan	The Grip Weeds	Melancholia
+power pop	nan	Dons	Best Kept Secret
+new wave	0.4733465411087876	Ideal	Roter Rolls Royce
+new wave	nan	Falco	Junge Römer
+new wave	nan	The Jam	The Modern World
+new wave	nan	Frl.Menke	Sehnsuchtsexpress
+new wave	nan	Eurythmics	Better To Have Lost In Love (Than Never To Have Loved)
+new wave	nan	Falco	Brillantin' Brutal'
+new wave	0.4137398358601097	The Jam	Start!
+new wave	nan	Blondie	Rapture (Us Disco Version) (1999 Digital Remaster)
+new wave	nan	The Police	Man In A Suitcase
+new wave	nan	The Monroes	Eric
+classic rock	nan	Tony Ashton & Friends	Roadrunner / My Generation
+classic rock	nan	Small Faces	Itchycoo Park
+classic rock	nan	Small Faces	It's Too Late
+classic rock	0.7881621809787434	Dropkick Murphys	Johnny_ I Hardly Knew Ya
+classic rock	0.6515698255058158	Dropkick Murphys	The Burden (Album Version)
+classic rock	0.6054735403193996	Dropkick Murphys	Going Strong (Album Version)
+classic rock	0.5899462186541047	Dropkick Murphys	The Only Road (Album Version)
+classic rock	0.5892077255762758	Small Faces	My Mind's Eye
+classic rock	nan	Noel Harrison	The Last Thing On My Mind (Previously Unissued)
+classic rock	nan	Old Soul	Silent Night
+irish folk	0.7238390280638688	The Irish Rovers	Up Among The Heather
+irish folk	0.5187598979970994	The Chieftains	The Raggle Taggle Gypsy
+irish folk	nan	Tony Malone And The Rapparees	The west's awake
+irish folk	0.24927947737167888	Irish Tenors	My Love
+irish folk	0.20442937290715557	The Shamrock Singers	Fields Of Athenry
+irish folk	0.19285634606505803	Seamus Egan	McDermott's Fancy / Swans Among The Rushes / Chicago / The Swallow's Nest - (jig)
+irish folk	0.0	The Chieftains;Colin James	Cúnla/The Friar's Breeches
+irish folk	0.0	Mick Moloney	Bodhrán Solo
+irish folk	0.0	Mick Moloney	Medley
+irish folk	nan	Séamus Egan	McDermott's / Boys of Blue Hill
+electronica	nan	Laron aka Swan featuring Alexander East	Up All Night - Remix
+electronica	nan	Hot Chip	Ready For The Floor (Radio Edit)
+electronica	nan	Ashbrg	Night Shift
+electronica	nan	Gustavo Cerati	Tu Cicatriz En Mi
+electronica	0.7775964783734547	Deep Forest	Hunting
+electronica	0.7568148004580941	The Crystal Method	Keep Hope Alive
+electronica	nan	Faithless	I Want More - Part 1
+electronica	0.6934642475354277	Hot Chip	Hold On
+electronica	0.6854736381952535	Boards of Canada	Happy Cycling
+electronica	0.6049633995508662	Gustavo Cerati	La Excepcion
+jungle music	0.0	Tomorrow	Colonel Brown (1999 Digital Remaster)
+jungle music	0.21508031850922793	Tomorrow	Shy Boy (1999 Digital Remaster)
+jungle music	nan	J Bostron & Beretta	Now U Got It
+jungle music	nan	Tomorrow	Blow-Up (Outtake)
+jungle music	0.0	Monomonkey	Where To Hide?
+jungle music	nan	Kzss & Atma	Obsidian Sunrise
+psychedelic rock	0.0	Tomorrow	Colonel Brown (1999 Digital Remaster)
+psychedelic rock	0.21508031850922793	Tomorrow	Shy Boy (1999 Digital Remaster)
+psychedelic rock	nan	Tomorrow	Blow-Up (Outtake)
+folk	0.5316127691991754	Solas	Clothes Of Sand
+folk	0.476248227291196	The Clancy Brothers	Water Is Alright In Tay
+folk	nan	Groupa Med Lena Willemark	Skymning
+folk	0.19859681533293505	NAZCA PERU	Aurora
+folk	nan	The Clancy Brothers;Tommy Makem	In This Windy Old Weather
+folk	nan	Jeanne Robertson	Mumbling or hearing loss?
+folk	nan	Oesch's die Dritten	Die berüehmte drü Wörtli
+folk	nan	Mercedes Castro	Pedazo De Idiota
+folk	nan	Los Traileros Del Norte	Dolor
+folk	nan	Mercedes Castro	El Capiro
+country gospel	0.28517574266835705	Bill & Gloria Gaither	Jesus Hold My Hand (The Best of Homecoming - Volume 1 Version)
+country gospel	0.25187173663342577	Karen Peck And New River	Feels Good To Be Free
+country gospel	nan	Amy Lambert	Because He Loves Me
+country gospel	nan	Connie Smith	If I Talk To Him
+country gospel	0.278598087332016	Ivan Parker	"Then He Said_ ""Sing"
+country gospel	0.21508031850922793	Randy Travis	Wind In The Wire (Album Version)
+country gospel	0.21508031850922793	The Booth Brothers	Through The Eyes Of Faith
+country gospel	0.0	Ivan Parker	Close To The Well (Live)
+country gospel	0.0	Legacy Five	The Blood Covers It All (Live)
+country gospel	0.0	Ed Bruce	Ruby Don't Take Your Love To Town
+metalcore	0.7092378856009028	Evergreen Terrace	Please Hammer Don't Hurt 'Em
+metalcore	0.6120549539686252	Chimaira	Left For Dead (Album Version)
+metalcore	0.5375039041917102	Since The Flood	All For Nothing
+metalcore	0.5317220984213001	Since The Flood	Guardian Angel
+metalcore	0.5109620440021506	Evergreen Terrace	Look Up At The Stars And You're Gone
+metalcore	0.487956976897315	Tony Danza Tap Dance Extravaganza_ The	Cliff Burton Surprise
+metalcore	0.24642312781570433	Deathstar	Decline Of the Western Civilization
+metalcore	nan	Leo Dan	Con un poquitito de suerte
+metalcore	nan	Chimaira	Army Of Me (Album Version)
+metalcore	nan	Chimaira	Severed (demo) (Album Version)
+jump blues	0.0	Faye Adams	My Greatest Desire
+jump blues	0.0	Faye Adams	Crazy Mixed Up World
+jump blues	0.0	Big John Greer	Big John's A-Blowin'
+jump blues	nan	Alfredo Gutiérrez	El troyano
+jump blues	0.0	Big John Greer	Bottle It Up And Go
+jump blues	nan	Alfredo Gutiérrez	Dos Mujeres
+jump blues	nan	Alfredo Gutiérrez	Linda mariposa
+jump blues	nan	Buddy Johnson	Because - Part 1
+jump blues	0.5017260817454576	Buddy Johnson	Did You See Jackie Robinson Hit That Ball?
+jump blues	nan	Alfredo Gutiérrez	El niño de la calle
+dance pop	0.46818107091845745	Enrique Iglesias	Si Juras Regresar
+dance pop	nan	Jennifer Lopez	Ain't It Funny
+dance pop	nan	Christina Aguilera	Beautiful
+dance pop	nan	Mariah Carey Featuring Da Brat & JD	Honey
+dance pop	nan	Jennifer Lopez	Talk About Us
+dance pop	nan	Los Del Rio_ The D.E.Y.	Mi Gitana (feat. The Dey)
+dance pop	nan	Jennifer Lopez	We Gotta Talk
+dance pop	nan	Rihanna	SOS
+dance pop	0.6842238788529208	Jennifer Lopez	Still
+dance pop	0.5319831933414861	Rick Astley	You Move Me
+teen pop	nan	Jessica Simpson featuring Lil Bow Wow	Irresistible
+teen pop	nan	Jessica Simpson	Be
+teen pop	nan	Kelly Clarkson	Never Again
+teen pop	nan	Jessica Simpson	In This Skin
+teen pop	0.5819871566886738	Backstreet Boys	PDA
+teen pop	0.26586104921065007	Cali	Il Y A Une Question (Live)
+teen pop	0.0	Cali	Pour Jane (Live Acoustique)
+teen pop	nan	Natasha Bedingfield	These Words
+teen pop	nan	Backstreet Boys	Shape Of My Heart
+teen pop	nan	Backstreet Boys	The Call
+progressive trance	nan	BassTurk	Unutmam
+progressive trance	0.5135170285371385	Milk Inc.	Livin' A Lie (Video Mix)
+progressive trance	0.46054128135865785	Milk Inc.	Nothing To You
+progressive trance	0.21508031850922793	Milk Inc.	Losing Love (DJ Wout Remix)
+progressive trance	0.0	Shaman	For Tomorrow (live)
+progressive trance	nan	Endres	born again
+progressive trance	nan	Mario Piu	Communication
+progressive trance	0.43016063701845586	Milk Inc.	Breakin'
+progressive trance	0.21204540548371908	Mario Piu'	Communication (More Mix)
+progressive trance	0.0	Shaman	Battle Of The Tom Tom
+pop	nan	Beyoncé	Krazy In Luv
+pop	nan	Beyoncé	Ring The Alarm
+pop	nan	Fergie	Exit People
+pop	nan	Natalie Cole	Busted
+pop	nan	The Villas	To Be In Love
+pop	nan	Yahir	Amigo (Con el Coro de Infantes de la Basilica de Guadalupe)
+pop	nan	Jacky Cheung	Zai Ai Shang Ni
+pop	nan	Solomon	25 Variations And Fugue On A Theme By G.F. Handel For Piano_ Op. 24: Variation XVII
+pop	nan	Eason Chan	Xiang Zai Le Huo
+pop	nan	Taylor Swift	Should've Said No
+lovers rock	0.34092275586437804	John Holt	I'll Take A Melody
+lovers rock	0.3231121208952123	John Holt	I Need a Veggie
+lovers rock	nan	Beres Hammond Feat. Natural Black	Let The Good Times Roll
+lovers rock	nan	Peter Hunnigale	Ordinary Lives
+lovers rock	nan	Anthony Watson	I'm Gonna Take My Time
+lovers rock	0.3725300393660796	Beres Hammond	Call On The Father
+lovers rock	0.30416950343527516	Sly Dunbar	Casava Piece Riddim
+lovers rock	0.0	Beres Hammond	Missing You For A Mile
+lovers rock	nan	Anthony Watson	Missing You
+lovers rock	0.30416950343527516	Beres Hammond Feat. Jah Youth	Good Old Dancehall Vibes
+rave	nan	The Prodigy	Music Reach (1/2/3/4) (Remastered)
+rave	0.563246899280654	The Prodigy	What Evil Lurks
+rave	0.6331306997954909	The Prodigy	Charly (Trip Into Drum And Bass Version) (Remastered)
+rave	0.6733943356755118	The Prodigy	Wake Up Call (Album Version)
+rave	0.829983256879845	The Prodigy	Firestarter
+techno	nan	Goldfish	This is How It Goes (Timmy Trumpet Remix)
+techno	nan	Sleepy D	Sleepy F%#&in' D
+techno	0.663124801395723	The Presets	Yippiyo-Ay
+techno	0.563246899280654	The Prodigy	What Evil Lurks
+techno	nan	Intex Systems	Vapour Fragments
+techno	0.0	The Nightraver & The Magican	Drop the Bass
+techno	nan	Kako	Mi Bomba
+techno	nan	Lil Mz. 313 featuring DJ Rashad	Suk The Blood
+techno	0.829983256879845	The Prodigy	Firestarter
+techno	nan	Pepe Kalle	Roger Milla (Stadium Mix)
+tech house	nan	Sven Tasnadi	2190 Dias Contigo
+tech house	0.0	Christian Quast	Jugglin' Clown
+tech house	0.0	Theodor Zox	System of Play
+tech house	nan	Sven Tasnadi	Charisma
+tech house	nan	Juan Farcik	Laziness
+tech house	nan	Rockit	Some Kind of Record
+tech house	nan	Christian Quast	You Are!
+tech house	nan	Theodor Zox	What's in a number & Feed me lies remixes
+tech house	0.0	Christian Quast	You Are!
+tech house	nan	Christian Quast	You Are!
+comedy	nan	LaWanda Page	The Preacher & the Funeral
+comedy	nan	Adam Richmond	Pic & Run
+comedy	nan	Dan Cummins	Jiggle Once And Wait (Album Version)
+comedy	nan	Mario Rosenstock	Fast Eddie
+comedy	nan	Greg Vaccariello	Mom's Phone
+comedy	nan	Mario Rosenstock	Bertie's Pets (Bonus Material)
+comedy	nan	Mario Rosenstock	The Daddy
+comedy	nan	Dan Cummins	Chocolate Squirrelador (Album Version)
+comedy	nan	Mack and Jamie	Goofy Golf
+comedy	0.6180477257967241	Patton Oswalt	You Are Allowed 20 Birthday Parties (Album)
+folk-pop	nan	Neema	Angel [2004]
+folk-pop	0.7249104200991343	Tyrone Wells	Need
+folk-pop	nan	The Highwaymen	The Road Goes On Forever
+folk-pop	0.8825301516325301	Grizzly Bear	Little Brother
+folk-pop	nan	Slim Whitman	Cattle Call
+folk-pop	0.5667076416764733	Hem	When I Was Drinking
+folk-pop	nan	Grizzly Bear	Deep Blue Sea (Daniel Rossen home recording)
+folk-pop	nan	Noel Harrison	The Last Thing On My Mind (Previously Unissued)
+folk-pop	nan	Slim Whitman	China Doll
+folk-pop	nan	Venice	More Than One Love
+turnablism	nan	Blingtones	Baby U Acting Greezy (Ringtone_ Sonnerie)
+turnablism	nan	Daddy Dog	Bluesanova
+turnablism	nan	Will To Will	Take Me To Paradise (Nicky Scanni's Garage Mix)
+turnablism	nan	Lauren Wagner & Fred Weldy	Social Note
+turnablism	nan	Blingtones	Torero
+turnablism	nan	Blingtones	Gross Throw-up Burp (Sonnerie_ Ringtone)
+turnablism	nan	Ionics	Roll Back The Rug
+turnablism	nan	Blingtones	Stinky Breath
+turnablism	nan	Blingtones	Sonnerie lalaleulé hi houuu
+turnablism	nan	Blingtones	La boîte à hein biloute
+heavy metal	0.675615133932385	Killswitch Engage	Never Again (Album Version)
+heavy metal	0.6492125815569996	All Shall Persih	The True Beast
+heavy metal	nan	Nightwish	Kuolema Tekee Taiteilijan
+heavy metal	nan	In Extremo	Vollmond
+heavy metal	nan	Bullet For My Valentine	Suffocating Under Words Of Sorrow (What Can I Do)
+heavy metal	0.6796860547444804	Mago de Oz	Desde mi cielo
+heavy metal	nan	The Lord Weird Slough Feg	The Spinward Marches
+heavy metal	nan	Emperor	With Strength I Burn
+heavy metal	nan	Trivium	Into The Mouth Of Hell We March [Explicit]
+heavy metal	nan	Metsatöll	Kui rebeneb taevas
+chamber jazz	nan	Bill Douglas	Highland
+chamber jazz	0.541551997892655	Penguin Café Orchestra	Harmonic Necklace
+chamber jazz	0.5122536543033052	Penguin Café Orchestra	Horns Of The Bull
+chamber jazz	0.4454545254934259	R. Carlos Nakai	Canyon People (World)
+chamber jazz	0.42744657148843085	Bill Douglas	Karuna
+chamber jazz	0.3347065490692206	Will Ackerman	A Movie Of A Placid Lake On A Moonless Night In September - Reprise
+chamber jazz	0.2707759989463275	Penguin Café Orchestra	Bean Fields (Live) (2001 Digital Remaster)
+chamber jazz	nan	Penguin Café Orchestra	Bean Fields (Live) (2001 Digital Remaster)
+chamber jazz	0.3347065490692206	Will Ackerman	A Movie Of A Placid Lake On A Moonless Night in September
+chamber jazz	0.2707759989463275	Bill Douglas	Infant Dreams
+latin pop	nan	Los Iracundos	La Bambola
+latin pop	nan	Los Iracundos	Siempre Soy Tu Barquito De Papel
+latin pop	0.0	Los Iracundos	No Se Lo Que Me Da
+latin pop	0.0	Los Iracundos	Deja El Ultimo Baile Para Mi (Lascia L'Ultimo Ballo Per Me)
+latin pop	0.0	Jose Luis Perales	No Soy Uno Más
+latin pop	nan	Jose Luis Perales	El Amor
+latin pop	nan	Los Iracundos	Candilejas
+latin pop	nan	Los Iracundos	Adios...Borron Y Cuenta Nueva
+latin pop	nan	Los Iracundos	Adios Pampa Mia
+latin pop	nan	Jose Luis Perales	Samaritanas Del Amor
+post-grunge	nan	K's Choice	Another Year
+post-grunge	0.7752353624843904	Semisonic	Secret Smile
+post-grunge	nan	The Verve Pipe	La La
+post-grunge	0.72148704626083	Lit	Lovely Day
+post-grunge	nan	Open Hand	11th Street
+post-grunge	0.7071724242905096	Sister Hazel	Think About Me
+post-grunge	0.6823536176155617	Dishwalla	Moisture
+post-grunge	0.6675061388345216	K's Choice	A Sound That Only You Can Hear
+post-grunge	0.6237833373203672	Cowboy Mouth	Jenny Says
+post-grunge	0.5982421548680179	Sister Hazel	Cerilene
+flamenco	nan	Los Rumberos Catalanes	Yo Te Camelo
+flamenco	nan	Bambino_ Ivan Tirado	Amor Maldito
+flamenco	nan	Rocio Jurado	Mi Amante Amigo
+flamenco	nan	Juan Carmona	Nino ven pa'ca
+flamenco	nan	Los Chichos	Vuelve Junto A Mi
+flamenco	nan	Las Niñas	Ojú!!! (Nettlephonic Remix)
+flamenco	0.48456252996792964	Andy & Lucas	Dime Si Me Quieres
+flamenco	nan	Los Chunguitos	Por La Calle Abajo
+flamenco	nan	Lole y Manuel	Aljarafe
+flamenco	nan	Rocio Jurado	Paloma Negra
+jazz	nan	Tabu Ley Rochereau	Kassoule
+jazz	nan	Groucho Marx	Show Fifteen with Bernard Sampson & Robert Sewell
+jazz	nan	Charles Williams	From the East
+jazz	nan	Alfredo Gutiérrez	El niño de la calle
+jazz	nan	Virgil Moorefield	Healing Power
+jazz	0.4348380902608562	Intars Busulis	Probka (Latvia)
+jazz	0.42530424172042486	Richard Burton	Camelot
+jazz	nan	Pheeroan Aklaff	Oooh_ Pooh
+jazz	0.2623089972119452	Michael Gettel	River Run
+jazz	0.2538347361322313	Barbara Lusch	Why Don't You Do Right
+country	nan	Conway Twitty	Big Train
+country	nan	Johnny Carver	Goodtime Charlie's Got The Blues
+country	nan	Leland Martin	Stone Cold Fingers (Bonus Track)
+country	0.5859797661092777	Mark Wills	That's A Woman
+country	nan	Tracy Byrd	Walking To Jerusalem
+country	nan	The Gentle Good	Cri'r Adar Main
+country	nan	Tracy Byrd	Take Me Fishin'
+country	nan	John Wesley Ryles	Someday You Will
+country	0.573019827988094	Faith Hill	Red Umbrella (Album Version)
+country	0.40003965695463956	Lonestar	Somebody's Someone
+experimental rock	nan	David Bowie	Space Oddity (1997 Digital Remaster)
+experimental rock	nan	The Velvet Underground	I Heard Her Call My Name
+experimental rock	0.8399088879538184	Porcupine Tree	Remember Me Lover (Album Version)
+experimental rock	nan	Alternative TV	Lemons_ For Kevin
+experimental rock	0.863477373662886	Porcupine Tree	Strip The Soul (album version)
+experimental rock	0.8251735403780842	Porcupine Tree	Waiting
+experimental rock	0.8120292974672045	Porcupine Tree	Moon Loop (Improvisation)
+experimental rock	0.7778280250734869	Porcupine Tree	Music For The Head
+experimental rock	0.37627950218306316	John Cale	Song Of The Valley
+experimental rock	0.2625093513331886	David Bowie	Moss Garden (1999 Digital Remaster)
+club	0.5760022032616287	ATB	Believe In Me (Clubb Mix)
+club	0.5954787482467339	Basement Jaxx	Sfm
+club	0.8106300904205341	ATB	Marrakech
+club	nan	Basement Jaxx	Feelings Gone (feat. Sam Sparro) (Joachim Garraud Remix)
+club	0.3603705827121406	Basement Jaxx	La Photo
+club	0.637592628509215	Basement Jaxx	Twerk (feat. Yo Majesty)
+club	0.6454425456753486	Basement Jaxx	Jump N Shout Featuring Slarta John (Radio Edit)
+club	0.7397372826435874	ATB	Collides With Beauty
+world beat	0.0	Vusi Mahlasela	Miyela Afrika
+world beat	0.0	Ghorwane	Nudez
+world beat	0.0	Ghorwane	Matarlatanta
+world beat	0.0	Alturas	Turu wilakuy
+world beat	0.0	Vusi Mahlasela	Amdokwe
+world beat	0.0	Alturas	A ti
+world beat	0.26586104921065007	Vusi Mahlasela	Our Sand
+world beat	0.37598430150044215	Vusi Mahlasela	Pata Pata
+world beat	0.3943948561005826	Tshala Muana	Banda Yango
+emo	nan	Tweeterfriendly Music	Drop of Rain
+emo	0.8336581524268573	My Chemical Romance	Interlude (Album Version)
+emo	nan	DÉSOLÉ	Provisoirement
+emo	nan	Fall Out Boy	Dance_ Dance
+emo	nan	Leo Dan	Con un poquitito de suerte
+emo	0.8496786695669102	The Maine	You Left Me
+emo	nan	Silverstein	FRIENDS IN FALL RIVER  (LP Version)
+emo	0.823777512753036	Silverstein	Defend You (Album Version)
+emo	0.7876204040717483	Fall Out Boy	America's Suitehearts
+emo	0.7204315384741605	Fall Out Boy	The Carpal Tunnel Of Love
+soundtrack	nan	Dimitri Tiomkin	Villagers Galloping To Battle
+soundtrack	nan	Rolfe Kent	Bill's Speech - A New Kind of Warrior
+soundtrack	nan	J. Peter Robinson	Jake
+soundtrack	nan	Marco Beltrami	1001 Robots
+soundtrack	0.24924637674332656	Angelo Badalamenti	Vera Begs Dylan
+soundtrack	nan	Elmer Bernstein	Drown The Dog!
+soundtrack	nan	Sammi Cheng	Wo Ai Ni_ Zai Jian!
+soundtrack	0.5231661082108239	Gipsy Kings	Somos Gitanos
+soundtrack	nan	John Frizzell	DEFCON 4
+soundtrack	nan	Brian Tyler	Festival Of Holi
+jam band	0.2707759989463275	Little Feat	Down On The Farm (2006 Remastered Edit Version)
+jam band	0.30416950343527516	Little Feat	Day Or Night [Live Album Version]
+jam band	0.77657388291467	Gov't Mule	Broke Down On The Brazos (Album)
+jam band	nan	Blindman's Sun	The Fugitives
+instrumental pop	nan	Ray Conniff	Something To Remember You By
+instrumental pop	nan	Ray Conniff;Billy Butterfield	Alexander's Ragtime Band
+instrumental pop	nan	Roger Williams	The High and The Mighty
+instrumental pop	0.6525182172975935	Lee Ritenour / Jeff Mironov	A Little Bit Of This And A Little Bit Of That
+instrumental pop	0.5375039041917102	Floyd Cramer	Stood Up
+instrumental pop	0.26376758986854226	Henry Mancini	Stardust
+instrumental pop	nan	Lee Ritenour	Captain Fingers
+instrumental pop	nan	Semprini	Rhapsody In Blue (2003 Digital Remaster)
+instrumental pop	0.5989895579810494	Lee Ritenour	Is It You?
+instrumental pop	0.4890307973231366	Lee Ritenour	Can You Feel It?
+blues-rock	nan	Kane	My Heart's Desire
+blues-rock	nan	Grayson Capps	I See You
+blues-rock	nan	Coco Montoya	Gotta Mind To Travel
+blues-rock	nan	Hot Tuna	Death Don't Have No Mercy
+blues-rock	nan	Joanna Connor	Meditations
+blues-rock	0.6987084616730519	Taste	On The Boards
+blues-rock	nan	Ana Popovic	Shadow After Dark
+blues-rock	nan	Johnny Winter	Shed So Many Tears
+blues-rock	0.40790171721807383	Ana Popovic	U Complete Me (Blues Version - Bonus Track)
+blues-rock	0.3277366831778408	The Fabulous Thunderbirds	Let Me In
+ccm	nan	Audio Adrenaline	Some Kind Of Zombie (Criscoteque Remix)
+ccm	nan	Sounds Of Blackness	"Silent Night (Featuring Geoffrey Jones_ Terrence ""T-Bone"" Frierson_ Billy Steele)"
+ccm	nan	White Heart	In His Name
+ccm	0.48828987603734525	4Him	Wings
+ccm	0.42744657148843085	White Heart	Answer The Call (Powerhouse Album Version)
+ccm	nan	Connie Smith	If I Talk To Him
+ccm	0.4116700907181356	Cindy Morgan	Need (LP Version)
+ccm	0.2707759989463275	T-Bone	T-Bone
+ccm	nan	Nicholas	Poaki
+ccm	nan	Vickie Winans	Make Me Over
+disco	nan	John Wesley	Alone Together (Live Acoustic)
+disco	nan	The Chi-Lites	Intro
+disco	0.6782216268937635	Major Lance	Um_ Um_ Um_ Um_ Um_ Um (Curious Mind)
+disco	0.5692756506754788	Joe Bataan	Keep The Change
+disco	0.47391251750218427	The Chi-Lites	The Coldest Days Of My Life
+disco	0.3725300393660796	Steve Harvey	What Woman Really Wear To Bed
+disco	0.3231121208952123	John Wesley	Cuttin' the Tree
+disco	0.24111515090553323	Sheila Walsh	Circle Of Hands (For A Time Like This Album Version)
+disco	nan	Teena Marie	Playboy
+disco	nan	Cândido	Sentimentos Desiguais
+honky tonk	0.690290537919224	Hank Locklin	Send Me The Pillow You Dream On
+honky tonk	nan	Loretta Lynn	Away in a Manger
+honky tonk	nan	Al Dexter	I'll Wait for You Dear
+honky tonk	0.39200877147130697	Aaron Watson	Whiskey on the Fire
+honky tonk	nan	Hank Locklin	Who Do You Think You're Fooling
+honky tonk	0.3264782375027913	Johnny Cash	I Got Stripes (Live)
+honky tonk	nan	Loretta Lynn	I Can't Feel You Anymore
+honky tonk	nan	Chet Atkins	Knucklebuster
+honky tonk	0.0	Faron Young	I'll Be Yours
+honky tonk	nan	Faron Young	It's Four In The Morning
+drum and bass	0.4359541449935655	Defect & Quixotic	WristStraining Order
+drum and bass	nan	Dabbler	When Your Ready
+drum and bass	0.46054128135865785	Sub Focus	Follow The Light (Radio Edit)
+drum and bass	0.5216592580484611	Sub Focus	Juno
+zydeco	0.4961753356732933	Buckwheat Zydeco	Hot Tamale Baby
+zydeco	nan	Rockin' Dopsie_ Jr._ The Zydeco Twisters	Funky Butt
+zydeco	nan	Rockin' Dopsie_ Jr._ The Zydeco Twisters	Lucille
+zydeco	0.3671544445612405	The California Cajun Orchestra	Lake Charles Two-Step
+zydeco	0.319565986882865	Donna The Buffalo	Each & Every Direction
+zydeco	nan	Eddy Raven	I Know That Car
+zydeco	nan	C.J. Chenier	Banana Man
+zydeco	nan	Buckwheat Zydeco	Buck's Going Downtown (Album Version)
+zydeco	nan	Jude Taylor & His Burning Flames	The Thrill Is Gone
+zydeco	nan	Eddy Raven	I WANNA HEAR IT FROM YOU
+industrial metal	0.3603705827121406	Static-X	Love Dump (Clean Album Version)
+industrial metal	0.56142851762879	God Lives Underwater	Don't Know How To Be
+industrial metal	0.6249533671840265	Static-X	Night Terrors (Album Version)
+industrial metal	0.652010036818513	Static-X	Control It (Album Version)
+industrial metal	0.7101436595606722	Static-X	Love Dump (Demo Version)
+industrial metal	0.7915205534075423	Static-X	Transmission (Album Version)
+canadian	0.0	Undertakin' Daddies	Pictou County Coal
+canadian	0.0	Undertakin' Daddies	Two Wheels In the Ditch
+canadian	0.27074649435019904	Amber Nicholson	Tonight It's Just Me
+country rock	nan	Roy Drusky	Funny How Time Slips Away
+country rock	0.4574471670851005	Shania Twain	Two Hearts One Love
+country rock	nan	K.T. Oslin	The Legionnaire
+country rock	nan	Tommy Overstreet	Heart Of Dixie
+country rock	nan	Blue Rodeo	Million Miles
+country rock	nan	Roy Drusky	Second Hand Rose
+country rock	nan	Roy Drusky	Three Hearts In A Tangle
+country rock	nan	Tony Joe White	If I Ever Saw A Good Thing (Album Version)
+country rock	0.5676565867681245	Eagles	I Don't Want To Hear Any More
+country rock	0.42744657148843085	Blue Rodeo	Never Look Back
+christian rock	nan	White Heart	In His Name
+christian rock	nan	Petra	Angel Of Light (Never Say Die Album Version)
+christian rock	nan	White Heart	Edge Of The Dream (Emergency Broadcast Album Version)
+christian rock	nan	MxPx	Answer In The Question
+christian rock	0.6455430232748545	MxPx	Grey Skies Turn Blue
+christian rock	nan	Kevin Max	I Saw Three Ships
+christian rock	nan	MxPx	Drum Machine Joy
+christian rock	0.595926916265944	Kevin Max	Baby_ I'm Your Man
+christian rock	0.56142851762879	Petra	More Power To Ya
+christian rock	0.5240793228457125	Brian Littrell	Wish
+meditation	nan	Jane Winther	The Lords Prayer
+meditation	nan	David & Steve Gordon	Yoga de Sensualite
+meditation	nan	Jane Winther	Om
+meditation	nan	David & Steve Gordon	Evenglow
+meditation	nan	Steven Halpern	6th Chakra: Keynote A - Chakra Suite (Solo Electric Piano Plus Synths)
+meditation	nan	Jane Winther	Singing  Bowls_Saxophone & Voice
+meditation	nan	Kurt Tepperwein	Einleitung
+meditation	nan	Kurt Tepperwein	Subliminal mit Naturgeraeuschen
+meditation	nan	Jane Winther	Deep Voices
+meditation	nan	Aeoliah	Inner Chamber
+alternative rock	nan	Flink	Russian Doll
+alternative rock	nan	The Cardigans	Explode
+alternative rock	nan	3OH!3	CHOKECHAIN (Amended Album Version)
+alternative rock	nan	R.E.M.	So. Central Rain (2006 Digital Remaster)
+alternative rock	0.8256560998432283	Muse	Can't Take My Eyes Off You
+alternative rock	0.7763509764418469	Muse	Stockholm Syndrome
+alternative rock	0.7603477805470585	Muse	Supermassive Black Hole (Album Version)
+alternative rock	nan	The Raconteurs	Broken Boy Soldier (KCRW Version)
+alternative rock	nan	Future Leaders of the World	Spotlight
+alternative rock	0.7505830664836537	Muse	The Small Print
+deep house	0.6603811327118728	Bloomfield	Boulevard St. Germain
+deep house	0.5632303756862997	Novika	Mikawa Miya
+deep house	0.5627955951955527	Novika	Common Tear
+deep house	0.46048484498641545	Bloomfield	Quartier Latin
+deep house	nan	Christie Hennessy	The All-Ireland
+deep house	0.0	Anané	Plastic People (Original Mix)
+deep house	0.0	Vincenzo	Valium
+deep house	nan	Christie Hennessy	Rick's Cafe
+deep house	0.0	Vincenzo Bellini	Bellini: Norma: Vanne_ e li cela entrambi
+deep house	nan	Christie Hennessy	Roll Back The Clouds
+rap	nan	Fat Joe	Words With Fat Joe
+rap	nan	Cookies	Yan Chin
+rap	nan	Baby Bash / Grimm	Changed My Life
+rap	nan	Chico	Curvy Cola Bottle Body
+rap	nan	Brixx	7 Miles
+rap	nan	Fat Joe	Get It Poppin' [Featuring Nelly]  (Album Version - Exp. Version) [Serban Main 4/20/05]
+rap	nan	Twista	The Day After (featuring Syleena Johnson) (Explicit Chopped & Screwed Version)
+rap	0.8786199597186275	Lupe Fiasco	The Cool (Amended Album Version)
+rap	0.8029328751701087	Fabolous	Change You or Change Me (Amended Version)
+rap	0.7770489548596116	Drag-On / DMX	Niggas Die 4 Me
+salsa	nan	Tito Allen	A Veces Hablo De Ti
+salsa	nan	Alfredo Gutiérrez	El niño de la calle
+salsa	0.5033812362063191	Tranzas	Mientras me quieras
+salsa	nan	Sonora Carruseles	Que Suene Mi Campana
+salsa	nan	Sonora Santanera	Amor De Cabaret
+salsa	nan	Orquesta Sublime	Se Acabo El Carbon
+salsa	nan	Luisito Rosario	1 - 800 - Quiereme - Remix
+salsa	nan	Los Titanes	Dejaria Todo
+salsa	0.46833383497402453	Ricardo Lemvo	Yiri Yiri Bon
+salsa	0.46630483075728635	Los Van Van	Consuelate Como Yo
+soft rock	0.8234792303926979	Phil Collins	One More Night
+soft rock	nan	Phil Collins	Testify
+soft rock	nan	Phil Collins	Please Come Out Tonight
+soft rock	0.6953188147283269	Phil Collins	Two Hearts
+soft rock	0.6140061731412001	Phil Collins	Everyday
+soft rock	nan	Kenny Rogers	Reuben James
+soft rock	0.6485574713757069	Phil Collins	Dance Into The Light (LP Version)
+soft rock	0.5968407035530287	Phil Collins	I'm Not Moving
+soft rock	0.5897704239243252	Darryl Worley	Those Less Fortunate Than I
+soft rock	0.5519215149416955	Phil Collins	I Cannot Believe It's True
+hardcore punk	nan	Two Man Advantage	Pass The Puck
+hardcore punk	0.7748541268253589	The Misfits	Dig Up Her Bones
+hardcore punk	0.7045040795077733	Suicidal Tendencies	Monopoly On Sorrow
+hardcore punk	0.698494468201565	Bad Religion	Infected
+hardcore punk	nan	Black Flag	Jealous Again
+hardcore punk	nan	Murskahumppa	Lihava enkeli
+hardcore punk	nan	AFS	Mother's Day Part 1
+hardcore punk	0.7379276517071015	The Misfits	Halloween II
+hardcore punk	0.718391330289943	Set Your Goals	the fallen...
+hardcore punk	0.6782216268937635	Hoods	Coward
+garage rock	nan	The Tall Grass	Be & Flower
+garage rock	nan	The Raconteurs	Broken Boy Soldier (KCRW Version)
+garage rock	0.6459827035844169	Mando Diao	All My Senses
+garage rock	0.6442200776822847	Mando Diao	Annie's Angle
+garage rock	0.6164338179825393	Mando Diao	Misty Mountains
+garage rock	0.5797287486139356	The Oh Sees	It Killed Mom
+garage rock	0.555574792226142	Mando Diao	Popovic
+garage rock	0.4715782477005801	The Sonics	On The Road Again
+garage rock	0.4287022625232594	Kool Savas	Warum rappst du?
+garage rock	0.42512465831305757	The Sonics	Love Lights
+freakbeat	nan	Les Hou-Lops	Quand on est amoureux
+freakbeat	nan	Les Hou-Lops	Fauché
+freakbeat	nan	Les Hou-Lops	Hold me
+freakbeat	nan	The In Crowd / Jah Stitch	Baby My Love
+freakbeat	nan	23rd Turnoff	Michaelangelo
+freakbeat	nan	The In Crowd	Back A Yard
+freakbeat	nan	The Dee Jays	In The Midnight Hour
+freakbeat	nan	The Shirrows	Leave Me Be
+freakbeat	nan	Les Hou-Lops	T'as 16 ans demain
+freakbeat	nan	Les Hou-Lops	Pour toute la vie
+funk	nan	OutKast	Happy Valentine's Day
+funk	nan	Leroy Hutson	All Because Of You - Original
+funk	nan	Michael Jackson	We're Almost There
+funk	nan	Sam Baker	Just A Glance Away
+funk	0.9977583963402685	Donny Hathaway	This Christmas (LP Version)
+funk	0.769733162276249	OutKast	Wailin'
+funk	0.5069050641974842	Michael Jackson	Girl You're So Together
+funk	nan	Rance Allen Group	Heaven is Where The Heart Is
+funk	0.4944895175021134	Deodato	Night Cruiser (Album Version)
+funk	0.49271363957256076	Prince	Escape ( LP Version)
+bluegrass	nan	Bela Fleck And The Flecktones	Frontiers (LP Version)
+bluegrass	nan	Dolly Parton	Light Of A Clear Blue Morning
+bluegrass	nan	Dolly Parton	Letter To Heaven
+bluegrass	nan	Isaacs	Did You Ever Go Sailin'
+bluegrass	0.7239043346137317	Dixie Chicks	Give It Up Or Let Me Go
+bluegrass	0.5799382520658115	The Del McCoury Band	She Can't Burn Me Now
+bluegrass	nan	Jo-El Sonnier	Broken Hearted Side Of New Orleans
+bluegrass	nan	Bela Fleck And The Flecktones	Michelle (LP Version)
+bluegrass	0.7063174733904951	Dixie Chicks	Hole In My Head
+bluegrass	nan	The Waybacks	McHattie's Waltz
+progressive metal	nan	S.U.P	4tx.31b
+progressive metal	0.8247177707649386	The Mars Volta	Take The Veil Cerpin Taxt
+progressive metal	0.6106423776376482	The Gathering	Fear The Sea
+progressive metal	nan	The Gathering	Gaya's Dream
+progressive metal	nan	S.U.P	Insanity
+progressive metal	nan	Ashes to Ashes	Bury Me
+progressive metal	nan	S.U.P	Back From The Garden (Live)
+progressive metal	nan	Ashes to Ashes	Mind On
+progressive metal	nan	Gathering	Brampton To Roadhead
+progressive metal	nan	Ashes to Ashes	Pass The Earplugs
+shoegaze	0.0	Winterlight	Daybreak
+shoegaze	0.0	Plagia	Floripa
+shoegaze	0.6045544849203479	The Radio Dept	Mad About the Boy
+shoegaze	0.6825746483304002	The Radio Dept.	Closing Scene
+shoegaze	0.6994267281883303	M83	I'm Happy She Said
+shoegaze	0.7882107112018905	The Radio Department	I Don't Like It Like This
+shoegaze	0.78958341704847	M83	Let Men Burn Stars
+shoegaze	0.8520889177657484	M83	You Appearing
+ska punk	nan	Mighty Mighty Bosstones	Do Somethin' Crazy
+ska punk	0.6090439426773437	Mest	Tonight Will Last Forever (Album Version)
+ska punk	nan	Rancid	Meteor Of War (Album Version)
+ska punk	0.616797018841478	Rancid	Black Lung (Album Version)
+ska punk	0.6016862438536916	The Mighty Mighty Bosstones	Pictures To Prove It
+ska punk	0.5571877675186344	Spitfire	Tanzen
+ska punk	0.556739869245632	The Suicide Machines	Your Silence
+ska punk	0.5287824809425877	The Suicide Machines	Burning In The Aftermath
+ska punk	0.5135170285371385	Mighty Mighty Bosstones	Patricia
+ska punk	0.4890382091726831	Mighty Mighty Bosstones	Guns And The Young
+reggae	nan	Aswad	Rudeboy
+reggae	nan	Abijah	Children Of Love
+reggae	0.5445140018788506	Stephen Marley	Mind Control
+reggae	0.34580223396532944	Black History	Problem Inna the System
+reggae	nan	Jerry Lewis	Borgia Liquor
+reggae	nan	Johnny Osbourne	We Need Love
+reggae	nan	George Nooks	Better Way Of Life
+reggae	nan	Singing Melody	Player No More
+reggae	nan	Toots & The Maytals	Sweet & Dandy
+reggae	0.4609631614243544	Toots & The Maytals	She Will Never Let Me Down
+island music	nan	Ray Kane	Wa'ahila (Instrumental - Bonus Track)
+island music	nan	Ray Kane	Keiki Slack Key (Instrumental)
+island music	nan	Ray Kane	Nanea Kou Maka I Ka Le'ale'a
+island music	0.0	Princess Lover	Prends-Moi La Main
+los angeles	nan	Georges Parys	Levallois Monte Carlo
+los angeles	0.5375039041917102	Francisco Céspedes	Señora (bonus track)
+los angeles	0.19039963058422918	David Jalbert	Nocturne For Piano No. 8 In D Flat Major_ Op. 84 No. 8 (also in Huit pièces brèves_ Op. 84/8)
+los angeles	nan	Monique Morelli	Elsa
+los angeles	0.0	La Divina Pastora	Instrumental Traditional
+los angeles	nan	La Bergère	(Et puis) Elle allait
+los angeles	nan	SANSHIRO	Morgane regarde le ciel
+los angeles	nan	Monique Morelli	Mort
+los angeles	nan	SANSHIRO	Le système solaire
+los angeles	nan	El Tiempo	La Coloreteada
+brazilian jazz	nan	Sivuca & Clã Brasil	Visitando Zabelê
+brazilian jazz	nan	Sivuca	Rapaz De Bem
+brazilian jazz	0.20073636085884455	Djalma Correa	Percutindo
+brazilian jazz	0.0	Vana	Village Dance
+brazilian jazz	nan	Sivuca	Forró Praieiro
+brazilian jazz	nan	Yamandu Costa	Mafuá
+brazilian jazz	nan	Sivuca	Copacabana
+brazilian jazz	nan	Sivuca	Energia
+brazilian jazz	nan	Yamandu + Dominguinhos	Chorando Baixinho
+brazilian jazz	0.4348380902608562	Eliane Elias	The More I See You
+new age	0.0	Dave Eggar	Wave
+new age	0.0	Dave Eggar	Dream Of Ice
+new age	0.2538347361322313	Dave Eggar	Sorrow's Call
+new age	0.2623089972119452	Dave Eggar	Deep Blue
+oldies	0.4471357962861778	Esa Pakarinen	Lentävä kalakukko
+oldies	nan	Billie Jo Spears	What I've Got In Mind
+oldies	0.0	Esa Pakarinen	Miina ja Mikko markkinoilla
+oldies	0.0	Kenny Price	Biloxi
+oldies	nan	Gene Autry	Blueberry Hill
+oldies	nan	Billie Jo Spears	Misty Blue
+oldies	nan	Billie Jo Spears	Danny
+oldies	nan	Esa Pakarinen	Vanhapoika-Severi
+oldies	0.4944895175021134	Corb Lund	Horse Doctor_ Come Quick
+oldies	nan	Esa Pakarinen	Hengähä tok
+indie pop	nan	2raumwohnung	36 Grad (Paul van Dyk's Vandit Clubmix)
+indie pop	nan	Salieri	Now everybody's gone
+indie pop	0.6675061388345216	2raumwohnung	Lachen und weinen
+indie pop	0.6519357212419619	Ruby Isle	So Damn High (Will Eastman Club Edit)
+indie pop	0.6392484891503506	2raumwohnung	Mädchen mit Plan
+indie pop	0.5096409655518045	The Ruby Suns	Function Of The Sun
+indie pop	0.4944895175021134	Corb Lund	Horse Doctor_ Come Quick
+indie pop	0.46048484498641545	2raumwohnung	Rette Mich Später (Michael Ilbert Radio Mix)
+indie pop	nan	Dart	For The Good Times
+indie pop	nan	Old Soul	Silent Night
+indie rock	nan	Humanzi	Amsterdamaged
+indie rock	nan	Humanzi	Fix The Cracks
+indie rock	nan	The Cat's Miaow	Autumn
+indie rock	0.7349965733966964	Gym Class Heroes	To Bob Ross With Love (Album Version)
+indie rock	0.6720729764093734	Teenage Fanclub	The Sun Shines From You
+indie rock	nan	Tullycraft	Bee Sting Stings
+indie rock	nan	Busdriver	Beauty Supply And Demand
+indie rock	nan	Liars	Cycle Time
+indie rock	0.728377176857355	Foals	Red Socks Pugie
+indie rock	nan	Ruben Cossani	Piroschka
+folk metal	0.0	Bowen_ Robin Huw	All Through The Night (Album)
+folk metal	0.5090399144783007	Ulytau	Winter (Four Seasons)
+folk metal	0.600274215984207	Cadacross	Bring Out Your Dead
+breakcore	nan	Asure	Ugly MF
+breakcore	0.5500083601193787	Tim Exile	Family Galaxy
+breakcore	nan	Grup Knar	Burma Diginin Eger Er
+breakcore	0.5300256141714262	Tim Exile	Fortress
+breakcore	0.4697124313189556	Tim Exile	Oh Scat Mix Up
+breakcore	0.39200877147130697	Atari Teenage Riot	Live At Brixton Academy 1999
+breakcore	0.26376758986854226	Babylon Disco	Funk You
+breakcore	0.26376758986854226	Babylon Disco	Multiplayer
+breakcore	0.0	Grup Knar	Ay Nare Nare
+breakcore	0.0	Extasick	Misanthrope
+beat	0.0	Günter Noris	Tigerauge Rock
+beat	nan	Günter Noris	Was Machst Du Mit Dem Knie_ Lieber Hans?
+beat	nan	Günter Noris	Bye-Bye - Medley
+beat	0.0	Günter Noris	El Cumbanchero
+trance	nan	Java	Hawaï
+trance	nan	Ultra X	Break Em
+trance	0.5183405378823447	Cass Fox	Touch Me
+trance	nan	Liquid Spill	Words- Till the mornin' comes Mix
+trance	0.43703620411161354	Novaspace	Summer Of Love
+trance	nan	Leon Lai	Ji Yi De Hua Yuan
+trance	nan	Lot Lorien	Byal ravnec
+trance	nan	Leon Lai	Mei Zi
+trance	nan	Lara	Damit Du Dich in mich verliebst
+trance	nan	Larissa	Das Geheimrezept
+singer-songwriter	0.7339908785242064	Eastmountainsouth	Hard Times
+singer-songwriter	nan	Sharon Burch	Earth Child (World)
+singer-songwriter	0.5957540542599369	Phil Vassar	This Is My Life
+singer-songwriter	nan	Grayson Capps	I See You
+singer-songwriter	nan	Sharon Burch	Newborn Blessing (World)
+singer-songwriter	nan	Sophie B. Hawkins	32 Lines (Album Version)
+singer-songwriter	nan	Catherine Howe & Vo Fletcher	White Winter Hymnal
+singer-songwriter	nan	Jeff Talmadge	The Hard Part's Letting Go
+singer-songwriter	nan	Steve Chou	Wo Men De Fei Leng Cui
+singer-songwriter	0.6538114126980421	Roger Creager	The Everclear Song
+alternative country	nan	Julie Roberts	Unlove Me
+alternative country	nan	Julie Roberts	The Chance
+dance	nan	Leon Lai	Ji Yi De Hua Yuan
+dance	nan	Leon Lai	Mei Zi
+dance	nan	Leana	Pack Your Bags (Jake Benson Club Mix)
+dance	nan	Abrar - Ul - Haq	Hello Hello
+dance	nan	Despina Vandi	Ke T' Oniro Egine Efialtis
+dance	nan	Saman	Roorasty
+dance	nan	Vivian	Slipping Away
+dance	nan	Vivian	Better
+dance	nan	Los Amigos Invisibles	Nerio Compra Una Contestadora
+dance	0.4634896622372766	Los Amigos Invisibles	San Agustin
+r&b	0.7905668023581631	Dave Hollister	One Woman Man
+r&b	0.0	Guitar Slim	Won't You Spread Some Flowers On My Grave
+r&b	0.0	Dave Hollister	I Know I Can
+r&b	nan	Guitar Slim	When The Sun Goes Down
+r&b	nan	Guitar Slim	The Things That I Used To Do
+r&b	0.582918458497712	Screamin' Jay Hawkins	What's Gonna Happen On the 8th Day
+r&b	nan	Dave Hollister	Bad When U Broke
+r&b	nan	Screamin' Jay Hawkins	Talk About Me
+r&b	nan	Dave Hollister	I'm Wrong
+r&b	0.0	Guitar Slim	Hello_ How Ya Been? Goodbye  (LP Version)
+vaudeville	nan	Groucho Marx	Show Fifteen with Bernard Sampson & Robert Sewell
+vaudeville	nan	Harry Lauder	Shouther to Shouther (Shoulder to Shoulder)
+vaudeville	nan	Ethel Merman	Small World
+vaudeville	nan	Groucho Marx	Selling Jolson A Baseball Team
+vaudeville	nan	The Marx Brothers	Everyone says i love you
+vaudeville	nan	The Marx Brothers	End Title/Animal Crackers
+vaudeville	0.39628912318039405	The Marx Brothers	I'm Against It/Horse Feathers
+vaudeville	0.26695518627553855	Arthur Tracy	Marta (Rambling Rose Of The Woods)
+vaudeville	0.0	The Marx Brothers	You Must Do Your Best Tonight / I Represent/Animal Crackers
+vaudeville	0.0	Arthur Tracy	Where Are You?
+chicago blues	0.5355752222974167	Byther Smith	So Unhappy
+chicago blues	nan	Jazz Gillum	Me And My Buddy
+chicago blues	nan	Jazz Gillum	Boar Hog Blues
+chicago blues	0.4373517613872757	Byther Smith	I Wish My Mother Was Here
+chicago blues	nan	Jazz Gillum	You're Laughing Now
+chicago blues	nan	Jazz Gillum	Gillum Blues
+chicago blues	nan	Jazz Gillum	Little Woman
+chicago blues	nan	Jazz Gillum	Maybe You'll Love Me Too
+chicago blues	nan	Mighty Joe Young	Wishy Washy Woman
+ska	nan	Lily Allen Featuring Ours	22 (Vingt Deux) (Feat. Ours)
+ska	0.4675749482192641	Los Fabulosos Cadillacs	Twist Y Gritos (Twist & Shout)
+ska	nan	Lily Allen	22 (Acoustic)
+ska	0.74046782736251	Lily Allen	Everyone's At It
+ska	nan	Los Fabulosos	Galopera
+ska	0.6294932474867754	Los Fabulosos Cadillacs	Matador
+ska	0.5984285488801027	Los Fabulosos Cadillacs	Vos Sabes
+ska	nan	Lily Allen	LDN (Warbox Original Cut Dub)
+ska	0.6199162736998568	Móveis Coloniais de Acaju	Perca peso
+ska	nan	Less Than Jake	Fucked
+ballad	nan	Sergio Dalma	Te Quiero Mamma
+ballad	0.3864772912554594	Lara Fabian	Ramène Moi
+ballad	nan	Dyango	Todo Tiene Su Fin
+ballad	nan	Leon Lai	Ji Yi De Hua Yuan
+ballad	nan	Lot Lorien	Byal ravnec
+ballad	nan	Leon Lai	Mei Zi
+ballad	0.26695518627553855	Fredi	Laula kanssain
+ballad	nan	Leon Lai	Mei Tian Ai Ni Duo Yi Xie
+ballad	nan	Fredi	Liian vähän aikaa
+ballad	0.6417711932865512	Sergio Franchi	Silent Night
+bossa nova	nan	Moraes Moreira	Agradeça Ao Pelô
+bossa nova	nan	Moraes Moreira	Bateu No Paladar
+bossa nova	nan	João Gilberto	Manhã de Carnaval (Morning of the Carnaval) (Cantando As Músicas do Film Orfeo do Carnaval)
+bossa nova	nan	Brazilian Tropical Orchestra	If You Leave Me Now
+bossa nova	nan	Moraes Moreira	Boca Do Balao / Preta Pretinha / Juazeiro
+bossa nova	nan	Mario Telles	Nanã
+bossa nova	nan	Reginaldo Bessa	O Smaba Que Eu Não Fiz
+bossa nova	nan	Sergio Mendes	O Morro (Live At El Matador_ San Francisco)
+bossa nova	0.5317220984213001	João Gilberto	Eu E Meu Coracao
+bossa nova	nan	Brazilian Tropical Orchestra	Swan Lake
+soul	0.4314328727979488	Regina Belle	You Are Everything
+soul	nan	David Saylor	This Time
+soul	nan	Birmingham Jubilee Singers	Toot Toot Dixie Bound
+soul	0.26586104921065007	Ann Nesby	Tables Turn
+soul	nan	Birmingham Jubilee Singers	King Jesus Is My Captain
+soul	0.0	Birmingham Jubilee Singers	Queen Street Rag (144826)
+soul	nan	Birmingham Jubilee Singers	Rollin' Down To Jordan
+soul	nan	Sandra Mihanovich	Cuatro Estrofas
+soul	0.0	David Saylor	Big World
+soul	nan	David Saylor	Que Ves Por Tu Ventana
+grindcore	nan	Scalplock	Pedagogy for the Oppressed (Album Version)
+grindcore	nan	Scalplock	Protagonist (Album Version)
+grindcore	nan	Uphill Battle	Memory
+grindcore	nan	Brainchoke	1st World Hypocrisy
+grindcore	nan	Total Fucking Destruction	Enslaved By Propaganda
+grindcore	0.7314733570496581	Arsonists Get All The Girls	Violence in Fluid Triceratops
+grindcore	nan	Claudio	Simple Lullaby (Do Maj)
+grindcore	nan	Inhume	Inhume
+grindcore	nan	Inhume	Process to decelerate
+grindcore	nan	Asterisk*	Iron-head: Palestine
+alternative metal	nan	Epidemic	Catalyst (LP Version)
+alternative metal	nan	Slipknot	Everything Ends (Live version) (Album Version)
+alternative metal	nan	Bullet For My Valentine	Suffocating Under Words Of Sorrow (What Can I Do)
+alternative metal	nan	Trivium	Into The Mouth Of Hell We March [Explicit]
+alternative metal	0.7705788598807314	Motograter	Red (Main Version)
+alternative metal	nan	Ill Niño	Fallen (Album Version)
+alternative metal	nan	Slipknot	The Heretic Anthem (Live version) (Album Version)
+alternative metal	0.7215726608393865	unloco	Reckoning (Album Version)
+alternative metal	0.7174580887642233	Slipknot	Gently (Album Version)
+alternative metal	nan	Slipknot	Three Nil (live) (Album Version)
+filk	nan	Tim Wilson	I Think My Wife Is Running Around On Me (Taco Hell)
+filk	nan	Tim Wilson	Dale Darrell Waltrip Richard Petty Rusty Awesome Bill Irvin Gordon Earnhardt Smith...Johnson_ Jr. (Live)
+filk	nan	Tim Wilson	The Michael Vick Song
+filk	0.0	Tim Wilson	Naked Enough
+filk	0.0	Tim Wilson	Uncle B.S. - 1963
+filk	0.26586104921065007	Tim Wilson	It Takes A Village (To Raise A Nut) (Live)
+charanga	0.0	Orquesta Aragon	Fefita
+charanga	nan	Barbarito Diez	De Paris Un Caballero
+charanga	nan	Orquesta America	Boda de Oro
+charanga	0.0	Orquesta Broadway	Principe Nino - Original
+charanga	nan	Estrellas Cubanas	Fiel Enamorado
+charanga	0.24906579485370342	Barbarito Diez	La Sitiera
+charanga	0.0	Barbarito Diez	Flores Negras
+charanga	0.0	Sierra Maestra	No Me Llores Más
+charanga	nan	Conjunto Mar Azul	Dime
+charanga	0.0	Sierra Maestra	Abandonada / Blancas azucenas
+western swing	nan	Bob Wills	Linda Lou
+western swing	nan	Roy Rogers	Ride Ranger Ride
+western swing	nan	Hank Penny	Steel Guiter Stomp
+western swing	nan	Tex Williams	Smoke! Smoke! Smoke! (That Cigarette)
+western swing	nan	Moon Mullican	The Tie That Binds
+western swing	nan	Pee Wee King	Tennessee Central Number Nine
+western swing	nan	Harry Choates	Jolie Blon's Gone
+western swing	nan	Pee Wee King	Slow Poke
+western swing	0.26695518627553855	Jimmy Wyble	No More Blues
+western swing	nan	Tex Williams	Wild Card
+hard house	nan	James Scott Skinner	Triumph / Timour The Tartar / The Left Handed Fiddler / Speed The Plough / De'il Among The Tailors
+hard house	nan	Jay Tee & Baby Bash	All Over Me
+hard house	nan	Bill Murk	What a Friend We Have in Jesus
+hard house	0.6382279641323373	Headliners	Sag Ihnen Bescheid
+hard house	0.40003965695463956	Dave Weckl	Just An Illusion
+hard house	0.26695518627553855	Organ Donors	Tranceplant
+hard house	0.0	Headliners	Negativ Song
+hard house	0.0	Bill Murk	Morning Has Broken
+hard house	0.0	Bill Murk	Find us Faithful
+hard house	0.0	Organ Donors	Dr Kaotica
+post-hardcore	0.6624931608196217	Monty Are I	In This Legacy
+post-hardcore	nan	Showbread	The Pig
+post-hardcore	nan	Showbread	Nothing Matters Anymore
+post-hardcore	nan	Atreyu	The Remembrance Ballad (Album Version)
+post-hardcore	nan	At All Cost	These Nest Five Years
+post-hardcore	0.8280875088447087	Atreyu	Nevada's Grace (Album Version)
+post-hardcore	0.55616046371387	Unearth	Fuel the Fire
+post-hardcore	nan	Kruger	Narechenny Izgoem
+post-hardcore	nan	I Hate Sally	Martha Served
+post-hardcore	nan	DÉSOLÉ	Provisoirement
+greek	nan	Giorgos Marinis	Klaio Gia Sena (Niagaras)
+greek	nan	Stelios Dionisiou	To Sinnefo
+greek	nan	Nikos Kalaintzis	Gamilia Patinada
+greek	nan	Anna Meliti	Lefkes Selides
+greek	nan	Konstantinos Galanos	Oso Ego Kanenas
+greek	nan	Yiannis Tassios	Ti Patheno
+greek	nan	Dakis	Perasmena Mesanihta
+greek	nan	Vaggelis Perpiniadis	To Diazigio
+greek	nan	Manolis Famellos & I Podilates	Vals '89
+greek	nan	Dakis	Tha Mino Pia Sto Parelthon (2005 Digital Remaster)
+punk	nan	Generation X	Dancing With Myself (BBC In Concert 01/01/81)
+punk	nan	Dead To Me	Don't Lie
+punk	0.7493135106199446	Pennywise	Yell Out
+punk	nan	2 Minutos	Tema De Adrian
+punk	nan	ZombieSuckers	The Nightmare Begins
+punk	nan	Pennywise	6TH Avenue Nightmare
+punk	0.8670084912791706	AFI	Too Shy To Scream
+punk	0.8586304584012816	AFI	Summer Shudder
+punk	0.8369301219556046	AFI	Affliction
+punk	0.8139371977708156	AFI	Darling_ I Want To Destroy You
+southern rock	0.7461609129098018	Kings Of Leon	Ragoo
+southern rock	nan	D.O.W.N.	I Don't Give A F**K
+southern rock	0.7247888139301647	Kings Of Leon	Day Old Blues
+southern rock	0.5656665821993944	Kings Of Leon	My Party (Kenna Remix)
+southern rock	0.30416950343527516	Little Feat	Day Or Night [Live Album Version]
+southern rock	nan	Kings Of Leon	Knocked Up
+southern rock	0.9102250754999608	Kings Of Leon	Genius
+southern rock	0.6859402266976852	Kings Of Leon	Wicker Chair
+southern rock	0.6570749615380702	Kings Of Leon	Woo Hoo
+southern rock	0.2707759989463275	Little Feat	Down On The Farm (2006 Remastered Edit Version)
+cumbia	nan	Conjunto Mar Azul	Papel Quemado
+cumbia	nan	Pedro Laza Y Sus Pelayeros	La Panadera
+cumbia	0.0	Laura Leon	Sicilienne (by Francis Poulenc)
+cumbia	0.0	Mar Azul	Rancho Moreno
+cumbia	0.1922643816392289	Los Gaiteros de San Jacinto	El Corcovado (The Wood-Quail)
+cumbia	nan	Conjunto Mar Azul	Dime
+cumbia	0.0	Los Hispanos	El Aranero
+samba	0.5171489733498444	Mart'nália	Nas águas de Amaralina
+samba	0.0	Mart'nália	Brasil pandeiro
+samba	nan	Edmundo Ros	Happy Beat
+samba	nan	Pedro Luis e a Parede	In The Rain
+samba	nan	Luiz Bonfa	Manhã de Carnaval
+samba	nan	Clara Nunes	Sofrimento De Quem Ama (1997 Digital Remaster)
+samba	nan	Reginaldo Bessa	O Smaba Que Eu Não Fiz
+samba	nan	Clara Nunes	Nação
+samba	0.3231121208952123	Luiz Bonfa	Santeleco
+samba	nan	Luiz Bonfa	Samba De Duas Notas
+swedish	nan	Arne Weise	Sommarens sista mås
+swedish	nan	Ronny Eriksson	Spritlåten
+swedish	nan	Ronny Eriksson	En fet man
+swedish	0.0	Sven Scholander	Melangtäras intåg i Kallsta
+swedish	0.3277366831778408	The Fool'S Nose	The Last Song
+swedish	0.439202489315343	Jessica Myrberg	I Love Rock n´ Roll
+tejano	nan	Emilio	Mira Nina
+tejano	nan	Mazz	Calla
+tejano	0.5489508558007461	Selena	La Llamada
+tejano	nan	Selena	El Chico Del Apartamento 512
+tejano	0.5151324686206702	Emilio	Even If I Tried
+tejano	nan	Emilio	Stuck On Your Love
+tejano	nan	Michael Salgado	Surfriendo El Castigo
+tejano	0.5333708783158672	Selena	Techno Cumbia
+tejano	0.2623089972119452	Bobby Pulido	Alma De Metal
+tejano	0.0	Bobby Pulido	Mi Alma Esta Enamorada
+reggaeton	nan	Yolandita Monge	Soy Un Poco De Ti - Original
+reggaeton	nan	Yolandita Monge	Páginas del Alma
+reggaeton	nan	Baby Rasta & Gringo	Avisame
+reggaeton	0.7748162441456328	Daddy Yankee	Llamado De Emergencia
+reggaeton	0.4715782477005801	Daddy Yankee / May-Be	Que Vas A Hacer?
+reggaeton	nan	Baby Rasta & Gringo	Yo Quiero Contigo
+reggaeton	nan	Yolandita Monge	Cierra Los Ojos Y Juntos Recordemos - Original
+reggaeton	nan	Bimbo Band	Oh ! Tannenbaum
+reggaeton	nan	Baby Rasta & Gringo	Esto Es Real
+reggaeton	0.7449865097672015	Daddy Yankee	Descontrol
+world	0.0	Samba Mapangala and Orchestra Virunga	Siri
+world	0.0	Chango Spasiuk	De Bombacha Y Alpargatas
+world	nan	Karnig Sarkissian	"Inrtoduction ""Hing Hye Srder"
+world	0.24906579485370342	Chango Spasiuk	Autores Anonimos
+world	0.24906579485370342	Chango Spasiuk	Chamamé crudo
+progressive rock	nan	The Moody Blues	Tuesday Afternoon
+progressive rock	nan	Bruford	Forever Until Sunday
+progressive rock	nan	The Edgar Broughton Band	What Is A Woman For? (BBC In Concert)
+progressive rock	0.7692014288021497	Between The Buried And Me	Kickstart My Heart (Album Version)
+progressive rock	0.6559532315616005	Vangelis	Heaven And Hell (Part II)
+progressive rock	nan	Mind Furniture	Hoop of Flame (IV. Glimpse of a Chance)
+progressive rock	nan	The Edgar Broughton Band	Out Demons Out (Live) (2004 Digital Remaster)
+progressive rock	nan	Vangelis	3 + 3
+progressive rock	nan	Mystery	Faith
+progressive rock	nan	Mr Lab!	Would You Like
+blue-eyed soul	nan	Righteous Brothers	See That Girl
+blue-eyed soul	nan	The Box Tops	Soul Deep
+blue-eyed soul	nan	Wet Wet Wet	Goodnight Girl
+blue-eyed soul	nan	Wet Wet Wet	Weightless (Demo)
+blue-eyed soul	nan	Righteous Brothers	Little Latin Lupe Lu
+blue-eyed soul	0.56142851762879	Wet Wet Wet	Hear Me Now
+blue-eyed soul	nan	The Box Tops	Neon Rainbow
+blue-eyed soul	nan	The Box Tops	I Can Dig It
+blue-eyed soul	nan	James Hunter	Cowboy Ways
+blue-eyed soul	0.8486167609177898	Lighthouse Family	Ocean Drive
+acid jazz	0.0	O'2L	Little Edith
+acid jazz	nan	Arco Iris	Canción del Arco Iris
+acid jazz	0.5690490346799796	Los Amigos Invisibles	Ultra-Funk
+acid jazz	nan	Arco Iris	Felicidades
+acid jazz	0.4634896622372766	Los Amigos Invisibles	San Agustin
+acid jazz	nan	Los Amigos Invisibles	Nerio Compra Una Contestadora
+early music	nan	The Baltimore Consort	The Beautiful Shepherdess of Arcadia
+early music	nan	Lionel Rogg	Choral : Komm_ Heiliger Geist_ BuxWV 199 (Remasterisé En 2010)
+early music	nan	The Baltimore Consort	Howells Delight
+early music	0.21204540548371908	The Baltimore Consort	Howells Delight
+early music	nan	Lionel Rogg	Prelude And Fugue In C Major BWV 531 : Fugue
+early music	0.25583271296983257	Lionel Rogg	Prelude And Fugue In C Major BWV 545 : Prelude
+early music	nan	Lionel Rogg	Die Kunst der Fuge_ BWV 1080 (2007 Digital Remaster): Contrapunctus XVII - Inversus
+early music	nan	The Baltimore Consort	You Lasses and Lads
+early music	nan	Lionel Rogg	Fantasia In C Major BWV 570
+early music	nan	Lionel Rogg	Concerto in C major_ BWV 594 (after Vivaldi Op.7 No.5) (2007 Digital Remaster): I. 1st Movement
+easy listening	0.3347065490692206	Danny Wright	So Still (Album Version)
+easy listening	nan	Bert Kaempfert And His Orchestra	Games People Play
+easy listening	0.2331663339689613	Ed Ames	For Me And My Gal
+easy listening	0.21204540548371908	Ron Goodwin	Personal Tragedy
+easy listening	nan	Lionel Rogg	Choral : Komm_ Heiliger Geist_ BuxWV 199 (Remasterisé En 2010)
+easy listening	nan	Eddie Cantor	Charley_ My Boy
+easy listening	nan	The Knightsbridge Strings	The Little White Cloud That Cried
+easy listening	0.0	Johnny Pearson	Purple Haze
+easy listening	nan	Neeme Jarvi	Hary Janos Suite : VI. A csaszari udvar bevonulasa (Entrance of the Emperor and his Court)
+easy listening	nan	Bert Kaempfert And His Orchestra	Let's Go Home
+brill building pop	nan	Dionne Warwick	I've Been Loving You Too Long (LP Version)
+brill building pop	nan	Bobby Darin	Bullmoose (LP Version)
+brill building pop	nan	Neil Sedaka	Because Of You
+brill building pop	nan	Bobby Darin	Hi De Ho
+brill building pop	nan	Lesley Gore	It's My Party
+brill building pop	nan	Dionne Warwick	Let It Be Me
+brill building pop	0.37598430150044215	Neil Sedaka	Superbird
+brill building pop	nan	Bobby Darin	Intro. & Hello Young Lovers (Live) (2000 Digital Remaster)
+brill building pop	0.3775316449767025	Connie Francis	Baby's First Christmas
+brill building pop	0.3135621142479342	Connie Francis	You Were Only Fooling
+stand-up comedy	nan	Larry The Cable Guy	Bass Pro Shop & Wal-Mart
+stand-up comedy	0.368413732666965	Monique Marvez	No Bad Oral Sex / Dick Dessert
+latin jazz	0.6107154163197548	Lara & Reyes	Amor De Lejos
+latin jazz	0.37598430150044215	Vince Guaraldi	Room At The Bottom
+latin jazz	nan	Eddie Cano	Teach Me Tonight (Album Version)
+latin jazz	nan	Fania All Stars	Soul makossa
+latin jazz	nan	Nestor Torres	Ain't No Sunshine
+latin jazz	nan	Mongo Santamaria	Hush
+latin jazz	nan	Poncho Sanchez	Going Back To New Orleans
+latin jazz	0.319565986882865	Kooii	Here_ Swing_ Sing
+latin jazz	0.26695518627553855	Arturo Sandoval	Luna de miel en Guama
+latin jazz	0.21508031850922793	Gonzalo Rubalcaba	Cuatro Veinte
+soukous	0.3347065490692206	Kékélé	Dido
+soukous	0.26586104921065007	Kékélé	Yo Odeconer
+soukous	0.0	Franco	Die Tür die zum Glück führt
+soukous	nan	Papa Wemba	Zero
+soukous	0.1996827527957479	Colombiafrica - The Mystic Orchestra	Sambangole / Tres Golpes Na' Mas
+soukous	0.0	Papa Wemba	Dixième Commandement
+soukous	nan	Franco	Forever
+soukous	0.3522322250053423	Les Bantous De La Capitale	À Mon Avis
+soukous	nan	Kanda Bongo Man	Dyna
+soukous	nan	Patience Dabany	Abagui Alobi
+melodic death metal	nan	Devanic	You Live_ You Die
+melodic death metal	0.600274215984207	Cadacross	Bring Out Your Dead
+melodic death metal	nan	Devanic	I Am
+noise rock	nan	Butthole Surfers	22 Going On 23
+noise rock	0.7152801055797262	Butthole Surfers	Ulcer Breakout
+noise rock	0.6694130981384412	Butthole Surfers	Tongue
+noise rock	0.593943075901947	Butthole Surfers	"Barking Dogs (From ""Piouhgd"")"
+noise rock	0.5394108317014351	Butthole Surfers	All Day
+noise rock	0.5074898444446484	Melt Banana	Stick Out
+noise rock	0.4944895175021134	Butthole Surfers	Wichita Cathedral [live]
+noise rock	0.4649239941807177	PRE	Greasers
+noise rock	0.45404276609111616	Melt Banana	Talk Like POP
+noise rock	0.0	Melt Banana	"How To Say ""Rip Them Off""_ Repeat After Me"
+soul blues	0.0	Jimmy Burns	Rollin' And Tumblin'
+soul blues	0.0	"Bobby ""Blue"" Bland"	You Hit The Nail On The Head
+soul blues	0.0	Jimmy Burns	Groovin' With Jimmy
+soul blues	0.0	Bobby Bland	Drifting From Town To Town
+electric blues	0.0	Jimmy Burns	Rollin' And Tumblin'
+electric blues	0.0	Jimmy Burns	Groovin' With Jimmy
+zouk	nan	Patrick Saint-Eloi	Mo lanmou
+zouk	nan	V'ro	Softcore
+zouk	0.0	Patrick St-Eloi	Anvi Viv?
+zouk	nan	Leila Chicot	Tout bizwen (feat. Milca_ Synn'Tya_ Shaolin)
+zouk	nan	Koffi Olomidé	Bennie
+zouk	nan	Koffi Olomide	Elle Et Moi
+zouk	nan	Kassav'	Medley Final
+zouk	nan	Energy	Czwarty
+zouk	nan	Nichols	Dirty tarraxa 2 (feat. Neuza)
+zouk	nan	Nichols	Fica ma mi
+power metal	0.4471357962861778	Taking Dawn	Black Diamond
+power metal	0.6538155609750993	Turisas	Sahti Waari
+power metal	0.6603443825872879	Ensiferum	Warrior's Quest
+power metal	0.6822046615107683	Ensiferum	Into Battle
+power metal	0.6910425455861244	Ensiferum	Hero In A Dream
+smooth jazz	nan	Joe McBride	All In
+smooth jazz	nan	Gerald Veasley	Love Letter
+smooth jazz	nan	Fabián	Mis calles de arena
+smooth jazz	0.621195684059579	Nick Colionne	If You Ask Me
+smooth jazz	nan	Gloria	All the Way
+smooth jazz	0.621195684059579	Paul Brown	Side Steppin'
+smooth jazz	0.5835520993526545	Kenny G	I've Been Missin' You
+smooth jazz	0.5692756506754788	Soul Ballet	the Cool Down
+smooth jazz	0.5594727762897006	Kenny G Featuring Brian McKnight	Careless Whisper
+smooth jazz	nan	Kenny G	Don't Make Me Wait For Love
+death metal	nan	S.U.P	4tx.31b
+death metal	0.7158947963587176	Amorphis	Crimson Wave
+death metal	0.7079375399058409	Scar Symmetry	Abstracted
+death metal	0.6629861610396057	Eluveitie	(Do)Minion
+death metal	0.651392591692251	Behemoth	Before The Æons Came
+death metal	nan	Crematorium	Unlearn
+death metal	0.6665323790942675	A Different Breed of Killer	The Cleansing Apparatus
+death metal	0.6290718355952272	Hatebreed (int License)	Between Hell and A Heartbeat [Explicit]
+death metal	0.6254115257921741	Moonspell	Trebraruna
+death metal	0.6009697778877424	Hatebreed	Mark My Words (Album Version)
+melbourne	nan	Nightswimmer	Splitting The Seconds
+melbourne	nan	Her Majesty's Finest	Snapshot Samurai
+melbourne	nan	The Small Knives	The Line
+melbourne	nan	Her Majesty's Finest	Prof. Henry Stills
+melbourne	0.0	A Ghost Devotion	Need Not
+melbourne	0.0	Bionikworld	Party Favours
+melbourne	nan	Dave Graney & Clare Moore	You Put a Spell on Me
+melbourne	0.0	Bionikworld	Party Favours (Dee Dee's Flukey Remix)
+melbourne	0.0	Nightswimmer	A Brief Moment In The Sun
+melbourne	nan	Stiff Meat	Lonely
+celtic	nan	The Baltimore Consort	The Beautiful Shepherdess of Arcadia
+celtic	0.6130458357683207	Máire Brennan	Atlantic Shore
+celtic	0.5424865999791667	Mychael Danna & Jeff Danna	The Child Deirdre
+celtic	0.5187598979970994	The Chieftains	The Raggle Taggle Gypsy
+celtic	0.4944895175021134	Maire Brennan	Song Of David (LP Version)
+celtic	nan	The Chieftains	No. 6 The Coombe
+celtic	nan	Daniel Kobialka	Timeless Spirals
+celtic	nan	Jean Carnigan	Irish Medley - Jigs
+celtic	nan	Liam O'Flynn	Romeo's Exile
+celtic	nan	The Baltimore Consort	Howells Delight
+doom metal	nan	S.U.P	4tx.31b
+doom metal	0.7140474595136154	Crowbar	No Quarter
+doom metal	nan	D.O.W.N.	I Don't Give A F**K
+doom metal	nan	The Gathering	Gaya's Dream
+doom metal	0.6493981130367088	Swallow The Sun	...and Heavens Cried Blood
+doom metal	nan	S.U.P	Insanity
+doom metal	0.5153571791702523	Floor	Assassin
+doom metal	0.439202489315343	Silent Stream Of Godless Elegy	Theme III
+doom metal	nan	S.U.P	Back From The Garden (Live)
+doom metal	nan	Daylight Torn	Sebastian
+orchestra	0.0	Raymond Lefèvre	"Générique - ""le gendarme et les gendarmettes"
+orchestra	nan	Göteborgs Symfoniker / Neeme Järvi	Russian Easter Festival_ Overture_ Op.36
+orchestra	0.23962909777363708	James Last	Summer Rain
+orchestra	nan	James Last	Stuff Like That
+orchestra	0.0	David Rose & His Orchestra	One Love
+orchestra	nan	Arthur Fiedler	Doctrines
+orchestra	nan	James Last	Games That Lovers Play
+orchestra	0.0	Arthur Fiedler;Earl Wild;Pasquale Cardillo	Rhapsody In Blue
+orchestra	nan	Pedro Garcia & His Del Prado Orchestra	Policias Y Ladrones
+orchestra	0.4568588670423051	Orquestra	Tema Da Desilusão (Garota De Ipanema)
+mexico	0.0	Chanta Vielma	Rio Grnade
+mexico	nan	Los Nakos	Las Hermanas Granaditas
+mexico	0.0	Los Jaigüey	Confiar Es Perder
+mexico	nan	Los Nakos	Juana Democracia / Calipso Del Tlc
+indie	nan	Joy Division	Leaders Of Men
+indie	nan	Maria Forde	To Your Door
+indie	nan	Claire Elzière	Il fait déjà (Live)
+indie	nan	Joy Division	Passover
+indie	0.7602993828677649	Architecture In Helsinki	Need To Shout
+indie	0.6382979064233827	Aesop Rock	Flashflood
+indie	0.6310080588180911	Aesop Rock	Coma
+indie	0.5894388783115044	Architecture In Helsinki	Heart it Races (Yacht's I Should Coco Mix)
+indie	0.4830645596002331	Aesop Rock	N.Y. Electric / Hunter Interlude
+indie	0.46630483075728635	Joy Division	A Means To An End [Live at Birmingham University] [2007 Re-mastered]
+hard bop	0.40860938443984274	Stefon Harris	And This Too Shall Pass
+hard bop	0.3778192059947485	Stefon Harris	For You Mom & Dad
+hard bop	nan	Shelly Manne	Get Me To The Church On Time
+hard bop	nan	Stefon Harris	Alovi
+hard bop	0.4454545254934259	Kyle Eastwood	Samba de Paris
+hard bop	0.37598430150044215	Kyle Eastwood	How Y' All Doin'
+hard bop	0.27845917877986076	Stefon Harris	From the Gardner Meditations: African Tarantella
+hard bop	0.23962909777363708	Shelly Manne	Jubilation T. Cornpone
+hard bop	0.0	Vana	Village Dance
+hard bop	0.0	Renee Rosnes	Children's Song No. 3
+klezmer	0.21204540548371908	Kol Simcha	Nigun
+klezmer	0.3619211010027582	Kol Simcha	Why
+jug band	0.0	New Roanoke Jug Band	When Those Two Towers Fell
+jug band	nan	Suzy Thompson	Drunken's Man's Dream
+jug band	nan	The Even Dozen Jug Band	The Original Colossal Drag Rag
+jug band	nan	New Roanoke Jug Band	Cold Icy Floor
+jug band	nan	New Roanoke Jug Band	A Pretty Gal's Love
+jug band	nan	New Roanoke Jug Band	I've Been Cryin' Since You've Been Gone
+8-bit	nan	MN	The Truth
+pop rap	0.0	Murphy Lee / Zee	Murphy Lee
+pop rap	0.21508031850922793	Jupiter Rising	They Say (Album)
+pop rap	0.48456252996792964	Mase	Wanna Hurt Mase? (Album Version)
+pop rap	0.5861082454741207	Mase	My Harlem Lullaby (Album Version)
+pop rap	0.78688908521577	Mase	What You Want [feat. Total] (Album Version)
+pop rap	nan	brokeNCYDE	Schitzo
+pop rap	0.682112970641015	brokeNCYDE	Freaxxx
+progressive house	nan	Trafik	Disco Trafiko
+progressive house	0.4137398358601097	John Digweed	Warung Beach
+progressive house	nan	Darko	Danote
+progressive house	nan	Chris Rodriguez	Turn Around (LP Version)
+progressive house	nan	Moonface	G G Kah
+progressive house	nan	Tina Ann	Rules of Attraction (Chris Cox)
+progressive house	nan	Cedric Gervais Featuring Caroline	Spirit in My Life (Earnshaw's Instrumental)
+progressive house	0.319565986882865	Albin Myers	BOOM!!!
+progressive house	0.26586104921065007	Ben Watt feat. Estelle	Pop A Cap In Yo' Ass
+progressive house	0.21204540548371908	Cross Country	A Fall Song
+classical	nan	Gaetano Donizetti	Donizetti: Roberto Devereux: L'ore trascorrono...
+classical	0.0	Eduardo Fernandez	Estudio
+classical	nan	Maria Callas/Eugenio Fernandi/Elisabeth Schwarzkopf/Giuseppe Nessi/Nicola Zaccaria/Mario Borriello/Renato Ercolani/Piero de Palma/Giulio Mauri/Elisabetta Fusco/Pinuccia Perotti/Coro del Teatro alla Scala_ Milano/Orchestra del Teatro alla Scala_ Milano/Tul	Turandot (2008 Digital Remaster)_ Act III - Scene I: Nessum dorma!
+classical	nan	Columbia Symphony Orchestra;Igor Stravinsky	The Firebird/Apparition de L'Oiseau de Feu_ poursuivi par Ivan Tsarévitch
+classical	nan	Terry Muska	Lagrima
+classical	0.5662267608745746	Igor Stravinsky	Tango
+classical	nan	Eduardo Fernandez / Norbert Blume / English Chamber Orchestra / George Malcolm	1. Allegro
+classical	nan	Orchestra e Coro del Palacio de Bellas Artes Di Cittá del Messico_ Oliviero De Fabritiis_ Maria Call	Atto Quarto: 'La Fatal Pietra Sovra Me Si Chiuse...' (Radames) (Verdi)
+classical	nan	Igor Stravinsky;Columbia Symphony Orchestra	Le Sacre du Printemps (The Rite of Spring)/Part One: The Adoration of the Earth - Introduction
+classical	nan	Igor Stravinsky	The Owl and the Pussy-cat
+ambient	nan	Vivian Khor	Loves Parting
+ambient	nan	Hushabye Baby	Two of a Kind_ Workin' on a Full House
+ambient	nan	Paul Avgerinos	Song Without End
+ambient	nan	Hushabye Baby	You Had Me From Hello (Lullaby Rendition of Kenny Chesney)
+ambient	nan	Hushabye Baby	So Small (Lullaby Rendition of Carrie Underwood)
+ambient	0.5527051139046104	Uman	The White Spirit
+ambient	0.5187598979970994	Bruce BecVar	Razamataz
+ambient	0.23962909777363708	Uman	People of cloud nine
+ambient	0.22914410371660274	Bruce BecVar	Your Heart Can Sing
+ambient	0.0	Uman	On Fait Ce Qu'on Peut
+batucada	0.21508031850922793	Bangalafumenga	Baile Da Pesada
+glam rock	nan	David Bowie	Space Oddity (1997 Digital Remaster)
+glam rock	0.48711219486346274	Bryan Ferry	Don't Want To Know (1999 Digital Remaster)
+glam rock	0.4348380902608562	Bryan Ferry	Ja Nun Hons Pris
+glam rock	0.2622647418996766	Bryan Ferry	Going Down
+glam rock	nan	Bryan Ferry	2HB (1999 Digital Remaster)
+glam rock	0.4072330149011048	Bryan Ferry	Don't Worry Baby (1999 Digital Remaster)
+glam rock	0.2707759989463275	Bryan Ferry	"Slave To Love (7"" Version) (2009 Digital Remaster)"
+glam rock	0.21508031850922793	Sweet	Do It All Over Again
+glam rock	nan	Sweet	Airheads
+glam rock	0.2718839761869823	David Bowie	Time Will Crawl (Extended Dance Mix)
+art rock	nan	David Bowie	Space Oddity (1997 Digital Remaster)
+art rock	0.48711219486346274	Bryan Ferry	Don't Want To Know (1999 Digital Remaster)
+art rock	0.4348380902608562	Bryan Ferry	Ja Nun Hons Pris
+art rock	0.37627950218306316	John Cale	Song Of The Valley
+art rock	0.2622647418996766	Bryan Ferry	Going Down
+art rock	nan	David Gilmour Featuring Richard Wright	Arnold Layne
+art rock	nan	Bryan Ferry	2HB (1999 Digital Remaster)
+art rock	0.4072330149011048	Bryan Ferry	Don't Worry Baby (1999 Digital Remaster)
+art rock	0.2705834724852409	David Bowie	Baal's Hymn
+art rock	0.0	John Cale	Stainless Steel Gamelan
+cantonese pop	nan	Fiona Sit	She Hui Ge (Movie 2nd Song - Love Undercover 3)
+cantonese pop	nan	Edmond Leung	Ling Shi Shi Ji Fen
+cantonese pop	nan	Hacken Lee	Hun Qian De Nu Ren
+cantonese pop	nan	Alex Fong	Hao Lai Hao Qu
+cantonese pop	nan	Leo Ku	Tian Cai Yu Bai Chi Zhi Tian Cai Bai Chi Meng
+cantonese pop	nan	Fiona Sit	Xin Bu Liao Qing
+cantonese pop	nan	Vic Chou	Ni De Ti Wen
+cantonese pop	nan	Janice Vidal	Water-Liked
+cantonese pop	nan	Kary Ng	Lian Ai Tian Chi
+cantonese pop	nan	Leo Ku	Ai De Jie Shi
+ranchera	nan	Flor Silvestre	Gaviota Traidora
+ranchera	nan	Los Barón De Apodaca	Ese Que Traes A Tu Lado
+ranchera	nan	Flor Silvestre	Llorando Por Amor
+ranchera	nan	Flor Silvestre	Que Viva El Amor
+ranchera	nan	Pablo Montero	Cuando Calienta El Sol
+ranchera	nan	Flor Silvestre	Aquel Amor
+ranchera	0.25187462521753956	Pablo Montero	Jarabe De Pico
+ranchera	nan	Flor Silvestre	Caricia Y Herida
+ranchera	0.6128610945061752	Beto y sus Canarios	Noche Eterna
+ranchera	0.23621627901094303	Pablo Montero	Amor Bonito
+thrash metal	0.0	Los Originales De San Juan	Domingo Valdovinos
+thrash metal	0.0	Los Originales De San Juan	Soy De Oaxaca
+thrash metal	0.0	Los Originales De San Juan	Joaquin Torres Jr.
+thrash metal	0.21508031850922793	Demonbreed	Hell Will Reign
+thrash metal	0.21508031850922793	Demonbreed	Lifewalk
+thrash metal	0.2707759989463275	Demonbreed	Blood Will Fall
+thrash metal	0.4471357962861778	Taking Dawn	Black Diamond
+thrash metal	nan	Los Originales De San Juan	Librado Maldonado
+thrash metal	0.5187598979970994	Byzantine	Absolute Horizon
+thrash metal	nan	Los Originales De San Juan	Con La Misma Tijera
+vocal jazz	0.2681897967803107	Helen O'Connell	The Sweetest Sounds
+vocal jazz	nan	Mills Brothers	Youre nobody till somebody loves you
+vocal jazz	0.483143415218757	Ann Hampton Callaway	For All We Know
+vocal jazz	0.5324538746917311	Ann Hampton Callaway	Time After Time
+vocal jazz	nan	Luciana Souza	Azul Contente
+vocal jazz	nan	Luciana Souza	Argument
+vocal jazz	nan	Ann Hampton Callaway;Laura Benanti;Michael Gruber;Everett Bradley	Stompin' at the Savoy
+vocal jazz	0.0	Ann Hampton Callaway	Fallin in Love Again
+vocal jazz	0.0	Marilyn Scott	Take Me With You
+vocal jazz	0.6101227561229483	Ann Hampton Callaway	Skylark
+jazz blues	nan	Word	Il rosso
+jazz blues	nan	Word	Amalgama
+gospel	0.319565986882865	Marvin Sapp	Smile
+gospel	nan	Mississippi Mass Choir	It Came To Pass (Part II)
+gospel	0.5057510376110472	Mississippi Mass Choir	It's Good To Know Jesus
+gospel	nan	Rev. Timothy Wright	I Know A Man
+gospel	0.37598430150044215	Mississippi Mass Choir	Having You There
+gospel	0.3007531555896651	Marvin Sapp	Whosoever Will (LP Version)
+gospel	0.26586104921065007	Walter Hawkins	Never Alone
+gospel	0.0	The Brooklyn Tabernacle Choir	Everything I Desire
+gospel	0.0	The Brooklyn Tabernacle Choir	All That You Need
+gospel	nan	Douglas Miller	You Can Make It (Album Version)
+jazz funk	nan	Stanley Clarke	Cruisin'
+jazz funk	nan	Christian McBride	D Shuffle Jam (Part 2)
+jazz funk	nan	Steve Smith	Blue Cave
+jazz funk	nan	Hiram Bullock	Voodoo Chile
+jazz funk	nan	Marcus Miller	Your Amazing Grace (feat. Raul Midón)
+jazz funk	0.6090439426773437	Marcus Miller	Outro Duction
+jazz funk	0.5654510121736983	Marcus Miller	Running Through My Dreams
+jazz funk	nan	Marcus Miller	3 Deuces
+jazz funk	nan	Galactic	Cafe deClouet
+jazz funk	0.5363780228724114	Liquid Soul	Dysfunction
+rockabilly	nan	Charlie Rich	Only Me
+rockabilly	0.0	Commander Cody And His Lost Planet Airmen	Riot In Cell Block #9
+rockabilly	nan	Commander Cody And His Lost Planet Airmen	Hawaii Blues (Album Version)
+rockabilly	nan	Commander Cody & His Lost Planet Airmen	Sister Sue
+rockabilly	0.37598430150044215	Jerry Reed	Woman Shy
+rockabilly	0.2998774882739778	Charlie Rich	You Don't Know Me
+rockabilly	0.0	Jessie Lee Miller	All or Nothin' Gal
+rockabilly	0.0	Commander Cody And His Lost Planet Airmen	Cajun Baby (LP Version)
+rockabilly	0.0	Frenchy	Baby_ It's Gonna Cost You
+rockabilly	0.0	Frenchy	Smith & Wesson
+symphony	nan	Saarbrücken Radio Symphony Orchestra	Phase (1972)
+symphony	nan	Bamberg Symphony Orchestra and Hans Swarowsky	Hungarian Dances_ WoO 1: No. 12 in D Minor: Presto
+symphony	nan	Shirley Caesar	It's In The Book (Album Version)
+symphony	nan	Shirley Caesar	Wait On The Lord  (LP Version)
+symphony	0.0	Dennis O'Neill	Oh! quand je dors
+symphony	0.0	Shirley Caesar	Cornerstone
+symphony	nan	Dennis O'Neill	Tre sonetti di Petrarca: III. I' vidi in terra angelici costumi - sonnet 156
+symphony	nan	Shirley Caesar	Healed (LP Version)
+symphony	nan	Shirley Caesar	Angels We Have Heard On High (Album Version)
+roots rock	0.39110250480018915	Session Americana	Ice Cream Man
+roots rock	nan	The LeRoi Brothers	Flash_ Crash and Thunder
+roots rock	nan	Dave Alvin	All Night Worker
+roots rock	0.37598430150044215	Dave Alvin	Somewhere In Time
+roots rock	0.2690718402592736	The Cate Brothers	Am I Losing You
+roots rock	0.24528429567180604	Webb Wilder	Too Cool for Love
+roots rock	nan	The Cate Brothers	Radioland
+roots rock	0.3347065490692206	Sue Foley	She Don't Belong To You
+roots rock	0.2476897040472777	The Cate Brothers	Let's Start All Over
+roots rock	0.24509741423379555	The Cate Brothers	Let It Be
+psychobilly	nan	Dark Shadows	Departure / End Title (Love Theme From Night Of Dark Shadows)
+psychobilly	nan	Dark Shadows	Carolyn & Barnabas
+psychobilly	0.0	The Stolen Minks	I Hate You
+psychobilly	0.0	The Stolen Minks	Your Broken Heart
+psychobilly	nan	Dark Shadows	Love Theme From Night Of Dark Shadows (unused Version)
+psychobilly	nan	Dark Shadows	The Taking Of Angelique
+ragtime	nan	Joshua Rifkin	Paragon Rag  (LP Version)
+ragtime	nan	London Theatre Orchestra	If Ever I Would Leave You
+ragtime	nan	The London Theatre Orchestra	War Of The Worlds
+ragtime	nan	Jim Kweskin	Kaloobafak [I'm Confessin' (That I Love You)] (LP Version)
+ragtime	nan	Jim Kweskin	When I Was A Cowboy (Western Plains) (LP Version)
+ragtime	0.2579500637754611	Jim Kweskin	If You're A Viper (LP Version)
+ragtime	0.0	Jim Kweskin	Eight More Miles To Louisville
+ragtime	nan	Joshua Rifkin	Réjouissance [I'll Cry Instead]
+ragtime	0.0	The London Theatre Orchestra	The Man From U.N.C.L.E.
+ragtime	nan	The London Theatre Orchestra	Amthran Na Bh Fiann (Ireland)
+texas blues	nan	Groucho Marx	Show Fifteen with Bernard Sampson & Robert Sewell
+texas blues	0.6420910376375009	Fenton Robinson	Somebody Loan Me A Dime
+texas blues	nan	Clarence Gatemouth Brown	Up Jumped The Devil - Live
+texas blues	nan	Groucho Marx	Selling Jolson A Baseball Team
+texas blues	nan	Freddie King	Key To The Highway
+texas blues	0.42744657148843085	Albert Collins	Same Old Thing
+texas blues	0.3347065490692206	Freddie King	Rock Me Baby
+texas blues	nan	Pee Wee Crayton	Fiddle Dee Dee - Original
+texas blues	0.24906579485370342	Mance Lipscomb	Shine On Harvest Moon (Previously Unreleased)
+texas blues	0.0	Pee Wee Crayton	Pee Wee's Boogie
+trip hop	nan	Scheich	I Like
+trip hop	nan	DJ Harry	Shadows
+trip hop	nan	Pacha Massive	Don't let go
+trip hop	0.5580332287263351	Pacha Massive	Drive
+trip hop	0.52549711888017	Vanessa Daou	Smoke
+trip hop	0.4943573242520118	LORE	Haunting
+trip hop	0.4454545254934259	Vanessa Daou	Evening
+trip hop	0.26695518627553855	Vanessa Daou	Life Force
+trip hop	0.0	Vanessa Daou	Joe Sent Me
+trip hop	nan	Pacha Massive	Take The Wheel
+tango	nan	Erkki Junkkarinen	Rakkautta Kööpenhaminassa - Förälskad i Köpenhamn -
+tango	nan	Emilio Tuero	Nostalgia
+tango	0.4348380902608562	Quadro Nuevo	Swing Vagabond
+tango	0.3725300393660796	Quadro Nuevo	Nature Boy
+tango	nan	El Poder del Norte	Negocio Prohibido
+tango	0.30416950343527516	Quadro Nuevo	La Muneca de Alcazar
+tango	0.24906579485370342	Juan Carlos Baglietto	Amor Siciliano
+tango	0.0	Vicious Mary	Keysage
+tango	0.0	Erkki Junkkarinen	Rakkauden satu - Histoire d'un Amour -
+tango	nan	Juan Carlos Baglietto	Todo A Mi Favor
+gypsy jazz	nan	Rupa & the April Fishes	C'est Moi
+gypsy jazz	nan	Hot Club Of Detroit	Night Time
+gypsy jazz	0.0	Serge Desaunay	La polka des grenouilles
+gypsy jazz	nan	Hot Club Of Detroit	God Rest Ye Merry Gentlemen
+gypsy jazz	nan	Groucho Marx	Selling Jolson A Baseball Team
+gypsy jazz	nan	Groucho Marx	Show Fifteen with Bernard Sampson & Robert Sewell
+roots reggae	nan	Royal S	I.A.I
+roots reggae	0.6070366907455167	Burning Spear	The Invasion (Aka Black Wa Da Da)
+roots reggae	0.5216592580484611	Burning Spear	Walking In Dub
+roots reggae	0.43965465970686407	Steel Pulse	We Can Do It
+roots reggae	nan	Mystic Revelation of Rastafari	Song
+roots reggae	nan	Royal S	Personne Stop (feat. Nixon)
+roots reggae	nan	Cedric Myton	Wisdom
+roots reggae	nan	Steel Pulse	Ku Klux Klan
+roots reggae	0.5912913733878069	Steel Pulse	Man No Sober (LP Version)
+roots reggae	0.4961753356732933	Burning Spear	It's A Long Way Around
+new jack swing	0.34580223396532944	Boyz II Men	On Bended Knee
+new jack swing	nan	Boyz II Men	Motownphilly
+new jack swing	0.5835661256558552	Boyz II Men	In My Life
+new jack swing	0.5864521192309557	Mint Condition	Call Me
+piedmont blues	0.0	John Cephas & Phil Wiggins	Twelve Gates To The City
+piedmont blues	0.3335548072764493	Howard Armstrong	My Four Reasons
+ghetto tech	nan	DJ X-Change	Shawty Say
+ghetto tech	nan	:Blacks On :Blondes	Superconstellation
+ghetto tech	0.0	Artie Fishel & The Promised Band	Watermelon Man (What A Mellow Goy)
+ghetto tech	nan	Laron aka Swan featuring Alexander East	Up All Night - Remix
+ghetto tech	nan	DJ X-Change featuring Joey A	Drop Low
+ghetto tech	nan	DJ X-Change featuring DJ Omega	At the Club
+ghetto tech	0.0	DJ Phiene	Thump Thump Da Box
+ghetto tech	nan	Stockhausen Waterman	String 'Em Up
+ghetto tech	nan	Lil Mz. 313 featuring DJ Rashad	Suk The Blood
+ghetto tech	nan	DJ Rashad	Flame It Up
+dub	nan	Gertrudis	La Nit De Reis
+dub	0.5035762243251369	Ice	Time Will Tell
+dub	0.3775316449767025	Gertrudis	Carita De Rosa
+dub	0.34092275586437804	Vuneny	Curse Of Sound (Dub Mix)
+dub	0.3277535954183684	The Dreamtree Project	Bliss
+dub	0.30416950343527516	Manjul	Any Wich Way (Freedom Must Come)
+dub	0.26695518627553855	Headhunter	Signs Of Insanity
+dub	0.21204540548371908	Stress Assassin	EU A4
+dub	nan	Anthony Watson	I'm Gonna Take My Time
+dub	0.2998774882739778	Gertrudis	Quitxalla
+nu jazz	0.5445771023940188	David Benoit	Frieda
+nu jazz	0.5076694722644626	Ximena Sarinana	Mediocre (Version original)
+nu jazz	0.0	Smidi Beats	All Shook Up
+nu jazz	0.0	Hard Romantic	Romanza
+nu jazz	0.0	Hard Romantic	Sincerely_
+nu jazz	0.0	Ismael Dueñas	You do something to me
+nu jazz	nan	Smidi Beats	Grin'in In Ya Face
+nu jazz	nan	Ismael Dueñas	Strange meeting
+nu jazz	nan	Sabda Brahma	Jahuu_ Gandiva laulaa!
+nu jazz	nan	Sabda Brahma	Highest State of Consciousness
+qawwali	nan	Faiz Ali Faiz	Lagian ne maujan
+qawwali	nan	Faiz Ali Faiz	Sohna Nee Sohna Data
+qawwali	nan	Faiz Ali Faiz	Meeran Sad Laeen Je Toon
+southern gospel	nan	The Jackson Southernaires	When We All Get To Heaven
+southern gospel	nan	Jake Hess	So Many Reasons
+southern gospel	nan	Jeff And Sheri Easter	The Moon And I (Ordinary Day Album Version)
+southern gospel	nan	The Paynes	When He Was On The Cross (I Was On His Mind)
+southern gospel	nan	Jeff & Sheri Easter	There Is a Way
+southern gospel	nan	The Steeles	The Story Goes On
+southern gospel	nan	Janet Paschal	He'll Deliver Me
+southern gospel	nan	The Jackson Southernaires	Keep On Doing What I'm Doing
+southern gospel	0.33489874390177266	Gold City	Mighty Army Band
+southern gospel	0.26737845919239467	Brian Free & Assurance	Emmaus
+europop	nan	Paso Doble	Herz an herz (Live Version)
+europop	nan	Gloria Lasso	Que Cosas_ Que Cosas
+europop	nan	Gloria Lasso	Magali
+europop	nan	Gloria Lasso	Termina La Feria
+europop	0.0	Jean Gabin	C'est moi le mari
+europop	nan	Gloria Lasso	Dos Arbolitos (Ranchera)
+europop	nan	Paso Doble	Kleine Killer
+europop	nan	Gloria Lasso	Le Pull Over
+europop	nan	Gloria Lasso	Gitana
+europop	nan	Massiel	Acordeón
+opera	0.0	Rhian Lois	My Man's Gone Now
+opera	nan	Alfredo Kraus/Tatiana Troyanos/London Philharmonic Orchestra/Michel Plasson	Werther (1997 Digital Remaster)_ PREMIER ACTE/ACT ONE/ERSTES AKT: Mon âme a reconnu votre âme(Werther/Charlotte)
+opera	nan	Herbert von Karajan and Turin RAI Symphony Orchestra	Symphony No. 7 in A Major_ Op. 92: I. Poco sostenuto - Vivace
+opera	nan	Herbert Von Karajan	Si Mi Chiamano Mimila Boheme Act1 Remast
+opera	nan	Herbert Von Karajan	Conc Orchestre Sz.116/Allegretto (2eme Mvt)
+opera	nan	Alfredo Kraus - Orquesta de Conciertos de Madrid - Pablo Sorozábal	El último romántico: romanza de tenor
+opera	nan	Ramón Vargas	Granada
+opera	nan	Ramón Vargas_ Sängerknaben Luzerner Kantorei_ Henk Geuke_ Concilium Musicum Wien & Paul Angerer	Adeste fideles
+opera	nan	Patrizia Pace/Waltraud Meier/Frank Lopardo/James Morris/Swedish Radio Choir/Stockholm Chamber Choir/Berliner Philharmoniker/Riccardo Muti	Mass No. 19 in D minor_ 'Requiem' K626: Lacrimosa
+opera	nan	Marilyn Horne	"Agrippina : Act 3 ""Bel piacere è godere fido amor!"" [Poppea]"
+merengue	0.22504466868040668	Gisselle	Me Decidi
+merengue	nan	Alfredo Gutiérrez	El troyano
+merengue	0.6837701119912555	Olga Tañón	Como Olvidar (Merengue Versión)
+merengue	nan	Alfredo Gutiérrez	Dos Mujeres
+merengue	0.0	Olga Tañon	Ojos Negros
+merengue	0.0	Banda La Bocana	Vida De Mi Vida
+merengue	0.24330701817322903	Gisselle	Prefiero Decir Adios
+merengue	nan	Alfredo Gutiérrez	Linda mariposa
+merengue	nan	Gisselle	Tocame
+merengue	nan	Alfredo Gutiérrez	El niño de la calle
+gaita	0.21204540548371908	Cristina Pato - Mutenrohi	Bag á l'ame
+gaita	0.0	Susana Seivane	Xoanina
+gaita	0.0	Rincon Morales	Gaita Gaitero
+gaita	0.0	Susana Seivane	Para Milladoiro
+gaita	nan	Gran Coquivacoa	Hechizo
+gaita	0.2998774882739778	Maracaibo 15	18 De Noviembre
+gaita	0.28445791888207367	Gaiteros de Pillopo	El Barbero
+gaita	nan	Gran Coquivacoa_ Neguito Borjas	Serenata de un gaitero
+gaita	nan	Gran Coquivacoa	Versos Gaiteros
+gaita	nan	La Billo_ Los Melódicos	Para Que Recordar
+world music	nan	Lot Lorien	Byal ravnec
+world music	nan	Pepe Kalle	Roger Milla (Stadium Mix)
+world music	nan	Megadrums	Suar Agung
+world music	0.2334994855627058	Rajery	Mihodina ny tany
+world music	nan	Brigada Victor Jara	Parto em terras distantes
+world music	nan	Grup Knar	Burma Diginin Eger Er
+world music	0.48456252996792964	Dobet Gnahoré	Evigne
+world music	nan	Ale Möller	Sandpolskan
+world music	0.0	Ghorwane	Matarlatanta
+world music	0.0	Grup Knar	Ay Nare Nare
+detroit techno	0.0	Mr.De'	Throw
+detroit techno	0.0	Mr.De'	The Vine
+detroit techno	nan	DJ Omega	Pop dat shit
+detroit techno	nan	DJ Omega	E. Warren
+detroit techno	nan	DJ Omega	Shake That Thang
+detroit techno	nan	DJ Omega	Grown & Sexy
+electro	nan	:Blacks On :Blondes	Superconstellation
+electro	nan	Willie Clancy	Double Jig: The Rolling Wave
+electro	nan	Zombie Girl	We Are The Ones (Lounge Version)
+electro	nan	Curtis	Not Going Back Again
+electro	0.6034409947366194	Panzer AG	bereit
+electro	nan	3OH!3	CHOKECHAIN (Amended Album Version)
+electro	nan	Mr. De'	Please Belive It
+electro	nan	Will To Will	Take Me To Paradise (Nicky Scanni's Garage Mix)
+electro	nan	Lexi	Dial Me
+electro	nan	Willie Clancy	Jig: A Chailleach_ do Mharais Mé
+future jazz	nan	Grupo Batuque	Ole Ola
+future jazz	nan	José Roberto Bertrami	Sheds And Weeds (Barracos E Arbustos)
+future jazz	0.2998774882739778	Nic Endo	Future Prospects
+future jazz	nan	Grupo Batuque	Cavasamba Um (Edit)
+future jazz	nan	Grupo Batuque	Percussio Livre
+celtic rock	nan	The Elders	Moore Street Girls
+celtic rock	0.37598430150044215	The Elders	Send a Prayer
+celtic rock	nan	The Elders	Fire in the Hole
+celtic rock	0.21990668461970456	Connemara Stone Company	Dragonfly
+celtic rock	0.4454545254934259	The Elders	Gonna Take a Miracle
+celtic rock	0.5317220984213001	The Elders	Buzz's Jig
+folk rock	nan	Simon & Garfunkel	Old Friends
+folk rock	nan	Pentangle	Hole In The Coal
+folk rock	nan	Simon & Garfunkel	Patterns
+folk rock	0.7025515850048525	Bob Dylan	Simple Twist Of Fate
+folk rock	nan	Bob Dylan	Trying To Get To Heaven
+folk rock	0.7881621809787434	Dropkick Murphys	Johnny_ I Hardly Knew Ya
+folk rock	nan	Simon & Garfunkel	A Simple Desultory Philippic (Or How I Was Robert McNamara'd Into Submission)
+folk rock	0.6515698255058158	Dropkick Murphys	The Burden (Album Version)
+folk rock	0.6378288661822131	Korpiklaani	Isku Pitkästä Ilosta
+folk rock	0.6054735403193996	Dropkick Murphys	Going Strong (Album Version)
+grunge	nan	Fleet Foxes	English House
+grunge	nan	D.O.W.N.	I Don't Give A F**K
+grunge	0.7039660846759993	Melvins	Nude With Boots
+grunge	nan	Moist	Far Beyond The Endless
+grunge	0.8490198855797514	Temple Of The Dog	Hunger Strike
+grunge	nan	Hot Live Guys	I'm A Killer
+grunge	0.7439437252233494	Tad	Stumblin' Man (Album)
+grunge	0.7388149958620513	Silverchair	The Door
+grunge	0.6642869343270507	Silverchair	Suicidal Dream
+grunge	0.6569172267179438	Every Time I Die	After One Quarter Of A Revolution
+german	0.0	Vorstadtkinder	Los!
+german	nan	Johann Köhnich	Die Gesellschaft
+german	nan	Django Asül	Pränatalabhärtung
+german	nan	Django Asül	Agenda Zwei Null Eins Null
+classic	0.2998774882739778	Kuijken Kwartet	Introitus: Requiem: Dies Irae
+classic	0.3231121208952123	Kuijken Kwartet	Introitus: Requiem: Agnus Dei
+piano blues	0.0	Otis Spann	Monkey Faced Woman
+piano blues	0.3347065490692206	Otis Spann	Spann's Boogie
+piano blues	0.4051157216913865	Otis Spann	Can't Do Me No Good
+piano blues	0.42744657148843085	Otis Spann	No More Doggin'
+piano blues	0.6806556311410517	Otis Spann	Evil Ways
+piano blues	nan	Otis Spann	Must Have Been The Devil
+piano blues	nan	Otis Spann	Someday Baby
+piano blues	nan	Otis Spann	Half Ain't Been Told
+french pop	nan	Fred Merpol	N'ayez crainte mesdames
+french pop	nan	Alain-François	En silence
+french pop	nan	Pascal Sangla	Assis par terre
+french pop	0.296758333468172	Herbstrock	Halt mich
+french pop	0.0	Pascal Sangla	Une petite pause
+french pop	0.0	Théophil	Anti fashion victime
+french pop	nan	Alain-François	The frog song
+french pop	0.23148849455515036	Tony Mathews	(Coming With) Loving on My Mind
+french pop	nan	Dine et Déon	Géraldine
+french pop	nan	Fred Merpol	Glisse
+guitar	nan	Antonio Koudele	Track BALLERINA GIRL
+guitar	nan	Thomas Battenstein	East West
+guitar	nan	Antonio Koudele	Once Upon A Time
+guitar	nan	Thomas Battenstein	Macht hoch die Tür
+guitar	nan	Antonio Koudele	Track TAKE FIVE
+guitar	nan	Antonio Bribiesca	Anillo de compromiso
+guitar	nan	Thomas Battenstein	Jag Vet En Dejlig Rosa
+guitar	nan	Thomas Battenstein	Nun singet und seid froh
+guitar	nan	Antonio Koudele	TU MIRADA
+guitar	nan	Thomas Battenstein	Sympathy
+pop folk	nan	Giorgos Tsalikis	Polles Fores
+pop folk	nan	Antonis Remos	To Agalma
+pop folk	nan	Antonis Remos	Min Tou Milate Tou Pediou
+pop folk	nan	Angela Dimitriou	Ta Methismena S' Agapo
+pop folk	nan	Lili Ivanova	Pokrusa
+pop folk	nan	Irini Merkouri	Magiki Vradia
+pop folk	nan	Angela Dimitriou	Den Mporo Na Figo
+pop folk	nan	Kati	Il Tempo Non Torna Più
+pop folk	nan	Natassa Theodoridou	Sou Vazo Diskola
+pop folk	nan	Angela Dimitriou	To Pouli
+modern laika	nan	Giorgos Tsalikis	Polles Fores
+modern laika	nan	Antonis Remos	To Agalma
+modern laika	nan	Antonis Remos	Min Tou Milate Tou Pediou
+modern laika	nan	Angela Dimitriou	Ta Methismena S' Agapo
+modern laika	nan	Irini Merkouri	Magiki Vradia
+modern laika	nan	Angela Dimitriou	Den Mporo Na Figo
+modern laika	nan	Natassa Theodoridou	Sou Vazo Diskola
+modern laika	nan	Angela Dimitriou	To Pouli
+modern laika	nan	Natassa Theodoridou	Endeka Para
+modern laika	nan	Irini Merkouri	Ela Edo Kardia Mou
+cabaret	0.30416950343527516	Charlie Khan	Beautiful When You're Green
+cabaret	0.0	Bülent Ceylan	Bülent & Mompfreed: Mompfreedonium
+cabaret	nan	Cotton Candy	Hot Weiners (All The Way)
+cabaret	nan	Charlie Khan	Cheshire Grin
+cabaret	nan	Cotton Candy	The Windsor Tap Recap
+cabaret	0.40003965695463956	Patrick Bruel	Au Bout De La Marelle
+cabaret	0.0	Mademoiselle Sane	La petite boite en fer
+cabaret	nan	Bülent Ceylan	Harald: Trinkhalleluja
+cabaret	nan	Patrick Bruel	L'Appart
+cabaret	nan	Lari White	The One Who Lives Inside Your Heart
+hip house	0.0	Time Factory	Seize the day
+hip house	nan	Time Factory	Fleeting sound
+hip house	nan	Fast Eddie	Put On Your Rubbers
+hip house	nan	Fast Eddie featuring Kool Rock	Turn Up The Bass
+hip house	nan	Tyree	My M.B. Thang
+hip house	nan	Fast Eddie	Yo Yo Get Funky
+hip house	nan	Sleepy D	Sleepy F%#&in' D
+fusion	nan	Vincent Bruley	Ombre Et Lumière
+fusion	nan	Vincent Bruley	Souffle 2
+fusion	nan	Manuel & The Music Of The Mountains	Umbrellas Of Cherbourg
+fusion	0.0	Diego Vasallo	Dos imposibles
+choro	nan	Turibio Santos	Dengoso
+choro	0.0	Gabriel Grossi	Rebuliço
+choro	0.0	Gabriel Grossi	Cai dentro
+choro	0.20517490132070126	Camerata Brasil	Italian Concerto in F_ BWV 971 - Allegro
+eurodance	nan	The Tamperer	Feel In The House
+eurodance	nan	Green and Yellow	Sweet Child O' Mine (Alternate Mix)
+eurodance	nan	JK	Go On
+eurodance	nan	Flexy	Toca Me (Album Version)
+eurodance	nan	Top Of The Poppers	Money Money Money
+eurodance	nan	Sin Plomo	It's You (Thinking of you)
+eurodance	0.38330805475797713	Edelweiss	The Kangaroo Theory
+eurodance	nan	Ketty DB	Spacer
+eurodance	0.0	JK	You Make Me Feel Good 
+eurodance	nan	Sin Plomo	Why can't we live together
+free jazz	nan	Albert Ayler	Music Is The Healing Force Of The Universe
+free jazz	nan	Art Ensemble Of Chicago	He Took A Cab To Neptune
+free jazz	nan	Mat Maneri	Iron Man
+free jazz	0.0	Hal Russell	For Free
+free jazz	nan	The Revolutionary Ensemble	911-544
+free jazz	0.0	Giuseppi Logan	Bop Moon
+free jazz	0.0	The Cosmosamatics	Serene
+free jazz	nan	Art Ensemble Of Chicago	Sirius Calling
+free jazz	0.0	Oliver Lake Quintet	Only If You Live There
+free jazz	nan	The Cosmosamatics	12 Seasons of Love
+dance rock	nan	U2	40
+dance rock	nan	An Cafe	Portraying Light With Rainbow Colored Crayon
+dance rock	nan	David Bowie	Space Oddity (1997 Digital Remaster)
+dance rock	nan	An Cafe	Pipopapo Telpathy
+dance rock	nan	Love and Rockets	Sweet Lover Hangover
+dance rock	nan	U2	Vertigo
+dance rock	0.8736187597898523	Public Image Ltd	This Is Not A Love Song
+dance rock	0.7899387035813549	Public Image Ltd	The Order Of Death
+dance rock	0.7140465527721864	The B-52's	Wig
+dance rock	0.7034022195100851	Public Image Ltd	The Suit
+country blues	nan	Groucho Marx	Show Fifteen with Bernard Sampson & Robert Sewell
+country blues	nan	Blind Blake	Blake's Worried Blues
+country blues	nan	Blind Blake	Too Tight Blues No. 2
+country blues	nan	Groucho Marx	Selling Jolson A Baseball Team
+country blues	0.4944895175021134	Corb Lund	Horse Doctor_ Come Quick
+country blues	0.319565986882865	Paul Geremia	Tootie Blues
+country blues	nan	Blind Blake	Dry Bone Shuffle
+country blues	0.0	Blind Blake & The Royal Victoria Hotel Calypsos	Bahama Lullaby
+country blues	nan	Blind Blake	Ain't Gonna Do That No More
+country blues	0.2740735781033903	Jan Howard	Bad Seed
+no wave	0.3231121208952123	Diamanda Galas	Dark End Of The Street
+no wave	nan	Diamanda Galas	Vena Cava 8
+religious music	0.0	Olivier Messiaen	Livre D'orgue (1951) : VII Soixante-Quatre Durées (Remasterisé En 2008)
+religious music	nan	Harry Lauder	Portobello Lass
+religious music	0.26586104921065007	Byron Cage featuring Tye Tribbett	In The Midst
+religious music	nan	Olivier Messiaen	Les Corps Glorieux (7 Visions De La Vie Des Ressuscités) (1939) : VII Le Mystère De La Sainte-Trinité
+religious music	nan	Timothy Byram-Wigfield	Les Corps Glorieux: III. L'Ange aux parfums
+religious music	nan	Harry Lauder	Shouther to Shouther (Shoulder to Shoulder)
+religious music	nan	Olivier Messiaen	La Nativité Du Seigneur (1935) - 9 Méditations : I La Vierge Et L'enfant
+lo-fi	0.0	Supertalented	Fax Me
+dubstep	0.0	Bone Loc	King Bong
+dubstep	nan	Caspa	Back to '93
+dubstep	nan	Kaskaad	Mohawk Hunt
+dubstep	nan	FSTZ	Facemelt
+dubstep	0.6380226697341338	Digital Mystikz	Molten
+dubstep	0.6053318871530874	Vex'd	Oceans
+dubstep	0.583748834895779	Benga	The Future
+dubstep	nan	Sub Swara	Constructing the Absence
+dubstep	nan	Mr Dubz	Diss Location
+dubstep	0.633809245209902	Vex'd	Disposition (feat. Jest)
+new beat	nan	Confetti's	C Day (Maxi Club Version)
+new beat	0.36727341580934564	Utopia	Magic Dragon Theatre
+new beat	nan	Alex	Cumpagno 'e cella
+new beat	nan	Utopia	On My Feet Again
+new beat	0.0	Taboo	Sous la Tour Eiffel
+new beat	nan	Taboo	Dab_dab_doo-Party In The Jungle
+new beat	0.3775316449767025	Utopia	Hiroshima
+new beat	nan	Dirty Harry	The Fortway
+new beat	nan	Space Opera	Awake IV
+new beat	0.0	Alex	Love Selecta (feat Iffectz & Marwa)
+bubblegum pop	nan	The Charms	Mr. Goose
+bubblegum pop	nan	The Charms	Ascolta mio dio
+bubblegum pop	nan	The Charms	See you on Sunday
+breakbeat	nan	Rated R	Keepin It Real (Skit)
+breakbeat	nan	Baby D	Let Me Be Your Fantasy
+breakbeat	0.5225281303758282	Plump DJs	Contact 00
+breakbeat	nan	Devine and emilyPLAY	Turn It Up
+breakbeat	nan	Mush	Test 72
+breakbeat	nan	Will To Will	Take Me To Paradise (Nicky Scanni's Garage Mix)
+breakbeat	nan	Mush	Test 72
+breakbeat	0.6068072928412985	Cirrus	She kills
+breakbeat	0.5835712631362558	Plump DJs	Weighed Down
+breakbeat	0.319565986882865	Deekline & Wizard	Sun Is Shining
+brutal death metal	nan	Choir & Great Symphony Orchestra of the All-Union Radio_ N. Shpiller_ S. Krassovsky_ V. Gagarina & N	Requiem Mass_ K. 626_ 1791: Agnus Dei (Larghetto) (Mozart)
+brutal death metal	nan	Leo Dan	Con un poquitito de suerte
+straight edge	0.24642312781570433	Deathstar	Decline Of the Western Civilization
+straight edge	0.24771546220109708	Deathstar	Represent
+acoustic	0.0	Jauida	I don't Want to Be Alone Tonight
+acoustic	0.56142851762879	Nicho Hinojosa	Tus Viejas Cartas
+acoustic	0.5622820772272303	Nicho Hinojosa	Tomame O Dejame
+chicago soul	nan	Gene Chandler	Rainbow '65 (part 2) - Live
+chicago soul	0.3867901771390143	The Five Stairsteps	Playgirl's Love
+chicago soul	0.2707759989463275	The Impressions	You'll Never Find
+chicago soul	nan	Carl Davis	Cranford: Holbrook
+chicago soul	nan	The Impressions	This Is My Country
+chicago soul	nan	Carl Davis	Cranford: Deborah's Vigil
+chicago soul	0.513189736125819	Barbara Carr	Don't Knock Love
+chicago soul	0.39200877147130697	The Impressions	The Girl I Find (LP Version)
+chicago soul	0.25587266802926767	Gene Chandler	Festival Of Love
+chicago soul	0.0	Gene Chandler	I Hate to Be the One to Say
+rumba	0.541960900681993	Las Ketchup	Tengo Un Novio Tántriko
+rumba	nan	Los Munequitos de Matanzas	El Chisme De La Cuchara
+rumba	nan	Ai Ai Ai	Com Una Flama
+rumba	nan	Carlos Embales - Cutumba	A una mamita
+rumba	0.30416950343527516	Wendo Kolosoy	Soki Olingi Ngai
+rumba	0.2603382425674305	Los Muñequitos De Matanzas	Te Ando Buscando
+rumba	0.0	Peret	Mi Raza
+rumba	nan	Gato Perez	Ja Soc Aqui
+rumba	nan	Peret	Clavo Y Martillo
+rumba	nan	Mr. Kilombo	De la mano de un chulo
+alternative	0.6874706409090017	Daniel Johnston	Story Of An Artist (Don't Be Scared)
+alternative	0.6852749016984653	Daniel Johnston	Desperate Man Blues
+alternative	0.6451594473715897	Ricardo Arjona	La mujer que no sone (Album)
+alternative	0.6403706648883718	Ricardo Arjona	Ayudame Freud
+alternative	0.5527051139046104	Daniel Johnston	To Go Home
+alternative	0.5114243256864599	Daniel Johnston	Oh No
+alternative	0.46048484498641545	Daniel Johnston	Rock Around The Christmas Tree
+alternative	0.42744657148843085	Daniel Johnston	Come To Me Tonight
+alternative	0.21204540548371908	Love Jones	I Like Young Girls
+alternative	0.0	Perrocker	Salsa pa tí
+marrabenta	0.0	Ghorwane	Nudez
+marrabenta	0.0	Ghorwane	Matarlatanta
+mozambique	0.0	Ghorwane	Nudez
+mozambique	0.0	Ghorwane	Matarlatanta
+glam	0.0	Matteo Bonfanti e i maledetti	Plaza de Mayo
+glam	nan	ZENFU	Großraumbrand
+glam	nan	ZENFU	Tanz
+indietronica	nan	Erik Tronic	Kyotronics
+indietronica	0.0	lextrical	Synthetic Dream
+indietronica	nan	Riamiwo	valid
+indietronica	0.0	Mt. Wilson Repeater	The Conversation
+chill-out	nan	Koordinate Of Wonders	Castle of KoFW
+chill-out	0.0	The Frequency	Ego is the drug/3am
+chill-out	0.21508031850922793	The Frequency	Own Me
+chill-out	nan	The Frequency	Stop It
+chill-out	nan	Mr Lab!	Would You Like
+chill-out	0.0	Alain Morisod	Besame Mucho
+chill-out	0.0	Alain Morisod	L'Amour en Heritage
+chill-out	nan	Dhamika	Peace Prayer
+chill-out	nan	Cantara	Ubi Caritas
+chill-out	nan	Kasia Stankiewicz	Zolte Slonie
+louisiana blues	nan	Alfredo Gutiérrez	El troyano
+louisiana blues	nan	Alfredo Gutiérrez	Dos Mujeres
+louisiana blues	nan	Alfredo Gutiérrez	Linda mariposa
+louisiana blues	nan	Alfredo Gutiérrez	El niño de la calle
+east coast blues	nan	Alfredo Gutiérrez	El troyano
+east coast blues	nan	Alfredo Gutiérrez	Dos Mujeres
+east coast blues	nan	Mr. Blue	Thanks God I'm A Country Boy
+east coast blues	nan	Alfredo Gutiérrez	Linda mariposa
+east coast blues	nan	Alfredo Gutiérrez	El niño de la calle
+vallenato	nan	Alfredo Gutiérrez	El troyano
+vallenato	0.4507622416414992	Carlos Vives	Decimas
+vallenato	nan	Alfredo Gutiérrez	Dos Mujeres
+vallenato	nan	Alfredo Gutiérrez	Linda mariposa
+vallenato	0.30416950343527516	Carlos Vives	Si Es Que Te Vas
+vallenato	0.3277366831778408	Carlos Vives	Cancion De Amor Eterno
+vallenato	nan	Alfredo Gutiérrez	El niño de la calle
+bolero	nan	Alfredo Gutiérrez	El troyano
+bolero	nan	Alfredo Gutiérrez	Dos Mujeres
+bolero	nan	Los Tres Diamantes	Begin The Beguine
+bolero	nan	Alfredo Gutiérrez	Linda mariposa
+bolero	nan	Carlos Embales - Cutumba	A una mamita
+bolero	nan	Alfredo Gutiérrez	El niño de la calle
+pop punk	nan	Stellar Kart	I Give Up (Album Version)
+pop punk	nan	Avril Lavigne	Unwanted
+pop punk	nan	Avril Lavigne	How Does It Feel
+pop punk	nan	Fall Out Boy	Dance_ Dance
+pop punk	0.9271325462531762	Avril Lavigne	Innocence
+pop punk	0.9271121219755104	All Time Low	Umbrella
+pop punk	0.8496786695669102	The Maine	You Left Me
+pop punk	0.8484638848807815	Paramore	Emergency (Album Version)
+pop punk	0.7876204040717483	Fall Out Boy	America's Suitehearts
+pop punk	0.7204315384741605	Fall Out Boy	The Carpal Tunnel Of Love
+screamo	nan	Bullet For My Valentine	Suffocating Under Words Of Sorrow (What Can I Do)
+screamo	0.7419137317645699	Eyes Set to Kill	Liar in the Glass
+screamo	0.6569172267179438	Every Time I Die	After One Quarter Of A Revolution
+screamo	0.6503150761565025	Eyes Set to Kill	Play The Part
+screamo	0.6394509608606281	Attack Attack	Outro
+screamo	0.513189736125819	Bullet For My Valentine	4 Words (To Choke Upon)
+screamo	nan	Drop Dead_ Gorgeous	Are You Happy (Album Version)
+screamo	nan	Leo Dan	Con un poquitito de suerte
+screamo	0.6351645979611786	Every Time I Die	Depressionista
+screamo	0.5297306072289015	Every Time I Die	Your Touch Versus Death
+chinese music	nan	Jerry Yan	Pei Chen Pin
+chinese music	nan	Daniel Chan	Duo Liu Yi Hui
+chinese music	nan	Dan Shen_ Gruppo Vocale Cantemus_ Ensemble Airone_ Luigi Marzola	Miserere: XVII. Quoniam Si Voluisses
+chinese music	nan	Ken Chu	Dai Wo Li Kai
+chinese music	nan	Edmond Leung	Ling Shi Shi Ji Fen
+chinese music	nan	Leon Lai	Ji Yi De Hua Yuan
+chinese music	nan	Leon Lai	Mei Zi
+chinese music	0.0	David Mingyue Liang	Youlan_ Lonely Orchid (solo guqin)
+chinese music	nan	Vic Chou	Ni De Ti Wen
+chinese music	nan	Ken Chu	Ai Bu Hui Yi Zhi Deng Ni
+suomi rock	nan	Murskahumppa	Ota kiinni
+suomi rock	nan	Murskahumppa	Mikä mun päässä nykii
+suomi rock	0.0	Murskahumppa	Mua rakastan
+suomi rock	nan	Murskahumppa	Poikamies (2009)
+suomi rock	nan	Murskahumppa	Lihava enkeli
+suomi rock	0.0	Murskahumppa	Stora kusetus
+humppa	nan	Erkki Junkkarinen	Rakkautta Kööpenhaminassa - Förälskad i Köpenhamn -
+humppa	0.0	Murskahumppa	Stora kusetus
+humppa	nan	Teijo Joutsela and Humppa-Veikot	Kesäilta Saimaalla
+humppa	nan	Murskahumppa	Lihava enkeli
+humppa	nan	Tulipunaruusut	Hiekkaa (polvere)
+humppa	0.0	Erkki Junkkarinen	Rakkauden satu - Histoire d'un Amour -
+humppa	nan	Murskahumppa	Poikamies (2009)
+humppa	nan	Tulipunaruusut	Ilta Oulunjoella
+humppa	0.0	Murskahumppa	Mua rakastan
+humppa	nan	Murskahumppa	Mikä mun päässä nykii
+delta blues	nan	Mississippi Fred McDowell	You Gotta Move
+modern rock	nan	The Lord Henry	Is This Legal
+modern rock	nan	Poptart Monkeys	Butterflies
+modern rock	nan	Annie Minogue Band	Love Goes Down (Part Deux)
+modern rock	nan	David Taylor	Concertino for Bass Trombone and Trombone Choir
+modern rock	0.570919570892124	Loudon Wainwright III	How Old Are You
+modern rock	0.5101193140330347	Loudon Wainwright III	Human Cannonball
+modern rock	0.387026531891994	Loudon Wainwright III	Rowena
+modern rock	0.2707759989463275	Rusted Shut	Borin Fuckin Town
+modern rock	0.1932639031875779	The Lord Henry	So So So
+modern rock	0.0	Elvira	Momentum
+ost	nan	X-tv	Skate alone
+ost	nan	X-tv	Aftertaste
+requiem	nan	Sir Neville Marriner	4 Sea Interludes Op. 33a: Storm
+requiem	nan	Academy/Marriner	Andante Cantabile (String Quartet No 1 In D Major
+requiem	nan	Sir Neville Marriner	Ancient Airs and Dances (1996 Digital Remaster)_ Suite No. 2: III.  Campanae parisienses (anon.) - Aria (Marin Mersenne)
+requiem	nan	Michèle Crider;Eleonora Jankovic;Vincenzo La Scola;Riccardo Muti	Mefistofele/La luna immobile
+requiem	0.0	Lynette Schultz	Take Me Down To LA
+requiem	0.0	Vienna Concert House Orchestra_ Wiener Sängerknaben_ Ferdinand Grossmann	Requiem Mass in D Minor_ K. 626: VIII. Lacrimosa dies illae
+requiem	0.5889221675559065	Sir Neville Marriner	Two Elegiac Melodies Op. 34: 2. The Last Spring
+requiem	nan	Jesus Otero - Luny Tunes	Nivel De Mafia
+requiem	nan	Michèle Crider;Vincenzo La Scola;Samuel Ramey;Riccardo Muti	Mefistofele/Spunta... l'aurora pallida...
+french	nan	Oldelaf et Monsieur D	Ouragan
+french	nan	Oldelaf et Monsieur D	La fête à la prison
+french	0.0	Oldelaf et Monsieur D	Rue de Nantes
+bachata	0.0	Andy Andy	La Culpa
+bachata	0.0	Andy Andy	Vida
+bachata	0.3347065490692206	Toby Love	Happy Valentine's
+bachata	nan	Toby Love featuring Julio Voltio	We Got It (Cadillac)
+bachata	0.0	Toby Love Feat. Girlz Talk	Yo Quiero Saber
+bachata	0.4051157216913865	Toby Love	Irreplaceable
+bachata	0.7824529659480108	Toby Love featuring Rakim & Ken-Y	Tengo Un Amor
+bachata	nan	Andy Andy	Maldito Amor Featuring Tito El Bambino (Version Urbana)
+quiet storm	nan	Lionel Richie	Tonight Will Be Alright
+quiet storm	0.23962909777363708	Debra Laws	On My Own (LP Version)
+quiet storm	0.43965465970686407	Lionel Richie	In My Dreams
+classic country	nan	Donna Fargo	Superman
+classic country	0.46264318259167037	Jimmy Wakely	Beautiful Brown eyes
+classic country	0.0	The Oak Ridge Boys	God's Hands
+classic country	0.0	Jimmy Wakely	Midnight Wind
+classic country	nan	Oak Ridge Boys	Unworthy of His Love
+classic country	nan	Jimmy Wakely	Standing Outside of Heaven
+classic country	nan	Oak Ridge Boys	Hide Thou Me
+classic country	0.2740735781033903	Jan Howard	Bad Seed
+classic country	nan	Jimmy Wakely	Mine All Mine
+classic country	nan	Oak Ridge Boys	My Saviour Is Lord
+neo soul	0.34580223396532944	Chacho	Meteorito
+heartland rock	0.319565986882865	Joe Grushecky	A Good Life
+heartland rock	nan	Joe Grushecky	Cracking Under Pressure 83
+heartland rock	0.0	Joe Grushecky	How Long
+heartland rock	nan	Joe Grushecky	A Fool's Advice
+heartland rock	nan	Joe Grushecky	Firewater
+heartland rock	nan	The Incurables	Scared
+heartland rock	0.7519686030008843	Tom Petty And The Heartbreakers	Christmas All Over Again
+heartland rock	0.6216210728285284	Tom Petty	Wildflowers (Album Version)
+heartland rock	nan	John Mellencamp	Peaceful World
+heartland rock	0.4507622416414992	John Mellencamp	Down And Out In Paradise
+musette	nan	Marc Perrone	Locaccmaccam
+musette	nan	Edouard Duleu	Virtuosite Musette
+musette	nan	André Blot	Breiz Ma bro
+musette	0.0	Marc Perrone	Padam padam
+musette	nan	Marc Perrone	La marine
+musette	0.0	Serge Desaunay	La polka des grenouilles
+musette	nan	Marc Perrone	Sirène
+musette	nan	Oztara	La Route Est Belle
+musette	0.19858671590744398	S. Solis y Orquesta	La Vida En Rosa
+musette	nan	Acorps de Rue	Chanson Réaliste
+bhangra	nan	XLNC	Vaisakhi Wala Mela
+bhangra	nan	Sukshinder Shinda	Jumke
+bhangra	nan	Jazzy B	Das Guru
+bhangra	0.4069802842235656	Daler Mehndi	Gora Gora Badan
+bhangra	0.3636860433915299	Daler Mehndi;Chitra	Rang De Basanti
+bhangra	0.2884816426560289	Sukhbir	Balle Balle
+bhangra	nan	Pardesi	Akhan Nay Sharab
+bhangra	0.2707759989463275	Jazzy B	Soorma
+bhangra	0.0	Kuldeep Paras	Ek Pegh
+bhangra	0.0	Pardesi	Pardesi Pind Wich Ageya
+desi	nan	XLNC	Pichleh Janam Dee
+desi	nan	Sukhwinder Singh;Jaspinder Narula	Menu Lagan Lagi
+desi	nan	Sukhwinder Singh	O Raaje
+desi	0.0	Kuldeep Paras	Ek Pegh
+desi	nan	XLNC	Vaisakhi Wala Mela
+hardstyle	nan	XLNC	Pichleh Janam Dee
+hardstyle	nan	XLNC	Vaisakhi Wala Mela
+hard trance	nan	XLNC	Pichleh Janam Dee
+hard trance	nan	Tayfun	Gözlerinde Hüzün
+hard trance	nan	Mark Ashley	Operation Love
+hard trance	nan	Mark Ashley	I've never been so Lonely
+hard trance	nan	Stimulator	78 Stimulator
+hard trance	nan	BassTurk	Unutmam
+hard trance	nan	XLNC	Vaisakhi Wala Mela
+rock 'n roll	0.0	Johnny Kidd And The Pirates	Watermelon Man
+rock 'n roll	0.34580223396532944	Everly Brothers	Oh What A Feeling
+rock 'n roll	nan	Screaming Jay Hawkins	I Need You
+stoner rock	0.0	Royal Bubble Orchestra	Too Bad
+stoner rock	0.5763152923787652	Truckfighters	Traffic
+nu metal	0.7705788598807314	Motograter	Red (Main Version)
+nu metal	nan	(hed) p.e.	A Soldiers Intro
+nu metal	0.6058550313785807	Methods Of Mayhem / Scott Kirkland	Narcotic
+nu metal	0.4733465411087876	QBO	Magico
+nu metal	0.37598430150044215	Hotwire	Not Today
+nu metal	0.3347065490692206	Dark new Day	Free (Album Version)
+nu metal	0.2623089972119452	Liquid Gang	Drama  (LP Version)
+nu metal	0.20639691576396524	Onesidezero	Awake (Album Version)
+nu metal	0.0	Hot Wire	Like A Prayer (Tribute To Madonna)
+nu metal	0.0	Hotwire	Colorblind
+chanson francaise	0.0	Dictafone	Distractions
+chanson francaise	nan	Nicolas Bacchus	Préliminaires_ par Philippe Pagès (feat. Philippe Pagès)
+chanson francaise	nan	Patrick Eudeline	La Nuit
+chanson francaise	0.0	Jean-Claude Darnal	Mélusine
+chanson francaise	nan	Nicolas Bacchus	Peter Pan (j'veux pas être jeune) [feat. Les Pistons Flingueurs]
+chanson francaise	nan	Darcelys	Un Petit Cabanon Pas Plus Grand Qu'Un Mouchoir De Poche
+chanson francaise	nan	Brice Kapel	Aloha
+chanson francaise	nan	Nicolas Bacchus	Josy
+chanson francaise	0.21508031850922793	Dictafone	Shrinking
+chanson francaise	nan	Brice Kapel	Lo
+lullaby	0.0	Mariano Yanani	Adagio (Albinoni)
+lullaby	0.0	Mariano Yanani	Stuck In A Moment You can't Get Out Of
+lullaby	nan	María Elena Walsh	La Mona Jacinta
+lullaby	0.0	Mons Leidvin Takle	Du Er Venta I Himlen
+lullaby	nan	Mariano Yanani	Air_ Siote No. 3 (J.S. Bach)
+lullaby	nan	Mariano Yanani	Could You Be Love
+lullaby	nan	Mons Leidvin Takle	Dansende Foran Speilet
+lullaby	nan	Mariano Yanani	Cancion De Cuna_ Op. 49_ No. 4 (Brahms)
+lullaby	nan	Mariano Yanani	When We Dance
+lullaby	0.3552855364230894	Rockabye Baby!	You Still Believe in Me
+boy band	nan	2-Gether feat. Sarinah	Feelin` Alone
+shock rock	0.3231121208952123	Dave Brockie Experience	Slips Of Paper
+shock rock	0.3552855364230894	Dave Brockie Experience	The Dance Of Europe
+shock rock	0.4287022625232594	Dave Brockie Experience	Too Much Stuff
+boogaloo	nan	The Harvey Averne Dozen	The Think Drink Theme
+boogaloo	nan	Bobby Valentin	Yo Soy Abacua
+boogaloo	0.5346552398673797	El Gran Combo De Puerto Rico	No Hay Manera
+tribal house	nan	The Bongo Man	Titan
+tribal house	nan	Mario Garcia	Mis Sueños feat Norma Castro
+tribal house	nan	Casa Bulga	Afraid Of Change (Tribal Vocal Mix)
+tribal house	nan	Del Horno	Once
+death core	0.0	Crematorium	A Disconsolate Winter Landscape
+death core	0.3347065490692206	Crematorium	Dying Under A Binary Star
+death core	0.626520938818931	Salt The Wound	Mutations
+death core	0.6352914598603203	Salt The Wound	The Beginning
+death core	0.6386581337361044	Salt The Wound	From My Hands
+death core	0.7314733570496581	Arsonists Get All The Girls	Violence in Fluid Triceratops
+death core	0.7550682767153579	Arsonists Get All The Girls	Skiff For The Suits
+death core	nan	Crematorium	Unlearn
+death core	nan	Salt The Wound	I Swear the Visine is for my Allergies
+turbo folk	nan	Ana Bekuta	Kako mi je pitas sad
+stoner metal	0.46054128135865785	Bongzilla	Witch Weed (Live)
+stoner metal	nan	Bongzilla	666lb. Bongsession
+stoner metal	0.5367888864406624	Bongzilla	Champagne & Reefer
+stoner metal	0.5486780555679608	Bongzilla	Cutdown
+stoner metal	0.5813177450559872	Weedeater	Monkey Junction
+stoner metal	nan	Bongzilla	Stone a Pig
+stoner metal	nan	Hey Colossus	45 Pounds
+stoner metal	nan	Hey Colossus	The Book of Disquiet
+glam metal	nan	Diamond Rexx	Fire
+dance-punk	0.20221697433354605	The Jane Shermans	Ammunition
+dance-punk	0.22154865991439518	Punk'd Royal	Young Urbans
+dance-punk	0.3603705827121406	Youves	On Probation
+dance-punk	0.38293509007501925	Youves	Another Djemba Djemba
+dance-punk	0.476435219642529	All Leather	As The Hog Pisseth
+dance-punk	0.48093421280893994	All Leather	Please Jesus_ Send Me Someone To Fuck
+dance-punk	nan	All Leather	We're Skrewed (Otto Von Schirach My Supernatural Motorcycle Gang Will Knife U Open Piss & Shit All Over Your Organic Starbucks =iPhone Bank Account Lifeless Lifestyle Remix)
+british	nan	Orlando Pops Orchestra	The Yellow Rose Of Texas (From Giants)
+british	nan	Orlando Pops Orchestra	Strangers In The Night
+british	nan	Orlando Pops Orchestra and Andrew Lane	Main Theme from Jaws
+british	nan	Orlando Pops Orchestra	El Manisero
+british	nan	Orlando Pops Orchestra	Zip-A-Dee-Doo-Dah (Song of the South)
+speed metal	0.0	Paris Musette	Passion
+northern soul	0.3532613542649873	Walter Jackson	What Would You Do
+northern soul	nan	Walter Jackson	Its Cool
+northern soul	nan	Fontella Bass	Rescue Me
+northern soul	0.0	Walter Jackson; Arranged & conducted by Riley Hampton	Moonlight In Vermont
+northern soul	0.36727341580934564	Walter Jackson	My Ship Is Comin' In
+northern soul	0.42744657148843085	Fontella Bass	You've Lost That Lovin' Feelin'
+northern soul	nan	Gene Latter	Groove It
+northern soul	0.5479529419800353	Fontella Bass	I Can't Rest
+german pop	nan	Massiel	Acordeón
+german pop	nan	Sanna Nielsen	Då är det jul
+german pop	nan	Solistiyhtye Suomi	Teräslintu
+german pop	nan	Yölintu	Täysikasvuinen mies
+german pop	nan	Solistiyhtye Suomi	Rumpu lyö
+german pop	nan	Kari Tapio	Syvä meri (Oceano)
+german pop	nan	Jenney	Ich vermiss dich (Radio Mix)
+german pop	nan	Jenney	Gib deinem Herzen ein Zeichen (Radio Mix)
+german pop	nan	Kari Tapio	Rakkauden veteraani
+german pop	nan	Solistiyhtye Suomi	Yksinäisin
+california	nan	George Lopez	Kids Now
+california	nan	George Lopez	Dogs
+california	nan	George Lopez	Mas P**' (America'S Mexican)
+california	nan	George Lopez	Vibrators
+california	nan	George Lopez	Memmer?... U Memmer!
+california	nan	George Lopez	Only For The Young
+california	nan	George Lopez	Kids In the Store
+california	nan	George Lopez	Memories
+california	nan	George Lopez	Church Hangover
+latin	nan	Hélio Ziskind	Telê
+latin	0.6011547871312662	"Ricky Martin Feat. La Mari de ""Chambao"	Tu Recuerdo
+latin	nan	Hélio Ziskind	Era um dia desses
+latin	nan	Hélio Ziskind	Centopéia
+latin	nan	Hélio Ziskind	Carre Cutia
+latin	0.5519215149416955	Ricky Martin	Fuego De Noche_ Nieve De Día
+latin	0.22914410371660274	Hélio Ziskind	Cocoricó (Abertura)
+latin	nan	Hélio Ziskind	A história do incêndio do jequitibá de Carangola (Part 1)
+latin	0.6684064897236877	Ricky Martin	She's All I Ever Had
+latin	nan	Los Del Sol	Club Tropicana
+polka	nan	Polkaholix	Krause seine Kreuzpolka
+polka	nan	Polkaholix	Machopolka
+polka	nan	Rummage	Megatrend
+brazilian pop music	nan	Quinteto Violado	Galope A Beira Mar
+brazilian pop music	nan	Maysa	Eu E A Brisa (2000 Digital Remaster)
+brazilian pop music	0.6030245814555001	Zeca Baleiro	Proibida Pra Mim (Grazon)
+brazilian pop music	0.5171489733498444	Mart'nália	Nas águas de Amaralina
+brazilian pop music	nan	Yamandu Costa	Mafuá
+brazilian pop music	nan	Quinteto Violado	A Burrinha
+brazilian pop music	nan	Gal Costa	Wave
+brazilian pop music	nan	Gal Costa	Camisa Amarela
+brazilian pop music	nan	Quinteto Violado	Olha Pro Ceu
+brazilian pop music	0.3775316449767025	Paula Santoro	The Girl From Ipanema (Garota De Ipanema)
+patriotic	nan	The Sun Harbor's Chorus-Documentary Recordings	Navy hymn
+patriotic	0.25721609185808514	The Sun Harbor's Chorus-Documentary Recordings	US Air Force
+patriotic	0.24099189058358852	The Sun Harbor's Chorus-Documentary Recordings	Marine's hymn
+patriotic	nan	Angela Lashley	Too Far From The Tree
+patriotic	0.22914410371660274	The Sun Harbor's Chorus-Documentary Recordings	We Started Together
+patriotic	0.0	The Sun Harbor's Chorus-Documentary Recordings	The Air Force song : Evening colors sequence
+patriotic	0.0	US Coast Guard Band	America The Beautiful
+patriotic	0.0	The Antripodean Collective	The Very Conscious
+patriotic	nan	US Coast Guard Band	Independentia
+patriotic	nan	US Coast Guard Band	Fanfare For Freedom
+swiss	0.0	Le Vangle	Ronde Lune
+mambo	nan	Tito Rodriguez	En La Soledad
+mambo	nan	Tito Rodriguez	Mango Del Monte
+mambo	0.0	Tito Rodriguez	Me Lo Dijo Adela
+mambo	0.0	Tito Rodriguez_ Louie Ramirez	La Piel de Tu Alma
+mambo	0.0	Tito Rodriguez	El Tirabuzón
+female vocalist	0.0	Mindy McCready	Be With Me
+female vocalist	0.5114243256864599	Mindy McCready	Breakin' It
+female vocalist	0.6559532315616005	Mindy McCready	You'll Never Know
+female vocalist	0.729612115172794	Mindy McCready	Guys Do It All The Time
+female vocalist	nan	Mindy McCready	Ten Thousand Angels
+video game music	0.0	Robin Beanland	Test Of The Terrarium
+video game music	0.2998774882739778	Robin Beanland/Dweezil Zappa/Nile Rodgers/Rabbit In The Moon	Conker The King
+video game music	0.40987661230731964	Tilman Sillescu	Escape From The Underrealm
+oi	0.49783321457002905	Bruisers	Never Fall
+oi	nan	4 Skins	A.C.A.B. (Bumper Sessions)
+oi	nan	U.K. Subs	Warhead (Live in Croatia_ 1993)
+oi	0.21508031850922793	UK Subs	Sk8 Tough
+oi	0.0	Melanie And The Secret Army	Held Der Tastatur
+oi	nan	U.K. Subs	Fear of Girls (Live in Croatia_ 1993)
+oi	nan	UK Subs	Tomorrows Girls (Live)
+oi	nan	4 Skins	Bread Or Blood (Single)
+oi	nan	4 Skins	Chaos (Live - Bridgehouse Tapes)
+oi	nan	Bruisers	2 Fists Full Of Nothing
+experimental pop	0.36727341580934564	Roj	Clear Channels
+experimental pop	0.40148671142756037	Roj	The Process Revealed
+game	nan	Coolio Da Unda Dogg	Do Or Die
+avantgarde metal	nan	Vulture Industries	The Benevolent Path
+avantgarde metal	0.0	Vicious Mary	Keysage
+hardcore techno	nan	Ec8or	Cocain Ducks
+hardcore techno	nan	Ec8or	I'm A Tomorrow
+j pop	nan	Checkers	Can't Find My Sadie
+j pop	nan	Checkers	Oh Oh Oh Baby
+j pop	nan	Checkers	Don't Stop Dan
+chamber music	nan	Philip Glass	The Kiss: Chris & The Model Airplane
+chamber music	nan	Philip Glass	Left Alone...
+chamber music	nan	Philip Glass	Concerto For Saxophone (Quartet Version): Movement IV
+chamber music	nan	Philip Glass	The Kiss: Golden Coins
+digital hardcore	0.0	The Bureau De Change	Seasick
+digital hardcore	0.0	IYOV	I See War
+digital hardcore	0.0	Extasick	Misanthrope
+digital hardcore	0.0	Grup Knar	Ay Nare Nare
+digital hardcore	0.0	IYOV	Hipster Haircut
+digital hardcore	0.48093421280893994	All Leather	Please Jesus_ Send Me Someone To Fuck
+digital hardcore	nan	Grup Knar	Burma Diginin Eger Er
+digital hardcore	0.476435219642529	All Leather	As The Hog Pisseth
+digital hardcore	nan	All Leather	We're Skrewed (Otto Von Schirach My Supernatural Motorcycle Gang Will Knife U Open Piss & Shit All Over Your Organic Starbucks =iPhone Bank Account Lifeless Lifestyle Remix)
+digital hardcore	nan	Asure	Ugly MF
+concerto	nan	Premiums	All I Really Want
+concerto	nan	Laura Mikkola	Variations On a Theme of Haendel_ Op.24: 17
+dancehall	nan	J.C. Lodge	You Are The One
+dancehall	nan	Ini Kamoze	Here Comes The Hotstepper
+dancehall	nan	Ini Kamoze	Here Comes The Hotstepper
+dancehall	nan	J.C. Lodge	Dub It
+dancehall	0.6853982601238167	Tony Matterhorn	Dutty Wine
+dancehall	0.5479529419800353	Super Cat	Oh It's You
+dancehall	0.48456252996792964	Super Cat	Them No Care
+dancehall	0.4787262884803349	Mavado	Real McKoy Feat. Busy Signal
+dancehall	nan	Elephant Man	Head Gone/Wine Up Uh Self (Album Version)
+dancehall	nan	Elephant Man	Bruk Out and Wine
+dirty rap	0.0	Smut Peddlers	"Nova (originally from ""failure"")"
+dirty rap	nan	Smut Peddlers	Chicken Strips (THE DEMOS version)
+dirty rap	0.0	Chapta_ Stage McCloud_ SupaStarr & Tony Manshino	Get F#%ked Up
+dirty rap	0.34092275586437804	Smut Peddlers	Playstation Generation
+frevo	0.0	Spok Frevo Orquestra	Folião Ausente
+frevo	nan	Spok Frevo Orquestra	Passo De Anjo
+free improvisation	0.26586104921065007	Spunk	Marbles
+free improvisation	nan	Derek Bailey	M 14
+mariachi	0.21508031850922793	Mariachi Silvestre Vargas	Cielito lindo
+mariachi	nan	Los Originales De San Juan	Librado Maldonado
+mariachi	0.0	Los Originales De San Juan	Domingo Valdovinos
+mariachi	nan	Los Originales De San Juan	Con La Misma Tijera
+mariachi	0.0	Los Originales De San Juan	Soy De Oaxaca
+mariachi	0.0	Los Originales De San Juan	Joaquin Torres Jr.
+mariachi	nan	Los Barón De Apodaca	Ese Que Traes A Tu Lado
+happy hardcore	nan	Mr Brown	So Say I
+happy hardcore	nan	Mr Brown	The Roof Song
+happy hardcore	0.0	Smiley	Come On Shake My Feelin'
+happy hardcore	nan	Monty	Les Reves D´enfants
+happy hardcore	0.0	Spitfire	Feverish
+happy hardcore	nan	Wonderland	You
+happy hardcore	0.5571877675186344	Spitfire	Tanzen
+christian music	nan	Damita	Pray (Album Version)
+christian music	0.0	The Perrys	By Faith I Can Touch Him Now
+christian music	0.0	The Perrys	When They Ring The Bells Of Heaven
+christian music	0.0	The Perrys	I'll Pray For You
+christian music	0.0	The Perrys	I'm Living In Canaan Now
+christian music	nan	The Perrys	He's Leading The Way
+christian music	nan	The Perrys	Run And Tell
+dj	nan	Vrse Murphy	Cremona (Instrumental)
+dj	nan	Vrse Murphy	Wrong Decision (Instrumental)
+twee pop	0.0	Baby Grand	Melodica
+twee pop	0.5278181365564875	My Little Airport	Leo_ Are You Still Jumping Out Of Windows In Expensive Clothes?
+slack key guitar	nan	Leonard Kwan	Kanaka 'o Mose
+slack key guitar	0.0	Leonard Kwan	Hawaiian Chimes
+instrumental rock	nan	King Curtis	The Lone Prairie
+instrumental rock	nan	King Curtis	Lil Brother (LP Version)
+instrumental rock	nan	Joe Satriani	Midnight
+instrumental rock	nan	"Dave ""Baby"" Cortez"	The Happy Organ
+instrumental rock	nan	Joe Satriani	Echo
+instrumental rock	nan	King Curtis	Ode To Billie Joe  (Live @ Fillmore West)
+instrumental rock	nan	Joe Satriani	House Full Of Bullets
+instrumental rock	nan	King Curtis	Misty
+instrumental rock	0.6624931608196217	King Curtis	A Whiter Shade Of Pale (Live @ Fillmore West)
+instrumental rock	0.5937951136677091	Joe Satriani	Just Like Lightnin'
+southern soul	nan	King Curtis with Jack Dupree	Everything's Gonna Be Alright (Live Version)
+southern soul	0.6624931608196217	King Curtis	A Whiter Shade Of Pale (Live @ Fillmore West)
+southern soul	nan	King Curtis	Misty
+southern soul	nan	King Curtis	Ode To Billie Joe  (Live @ Fillmore West)
+southern soul	nan	King Curtis	Lil Brother (LP Version)
+southern soul	nan	King Curtis	The Lone Prairie
+pinoy rock	0.21204540548371908	6CycleMind	Across The Universe
+pinoy rock	nan	6CycleMind	Talkin' Bout A Revolution
+kizomba	0.30599288651581996	Daan Junior	Tout moun sou do
+zouklove	0.24762576384321291	Sonia Dersion	Urgence
+zouklove	0.30599288651581996	Daan Junior	Tout moun sou do
+yodel	0.0	Elton Britt	Little Silver Bells
+parody	nan	Groucho Marx	Show Fifteen with Bernard Sampson & Robert Sewell
+parody	nan	Jope Ruonansuu	Aulis Gerlander
+parody	nan	Jope Ruonansuu	Rant Kanaria
+parody	nan	Dame Edna Everage with Carl Davis conducting the London Symphony Orchestra and The New Antipodean Singers	Song Of Australia - Canto 6 (2009 Digital Remaster)
+parody	nan	Groucho Marx	Selling Jolson A Baseball Team
+parody	nan	Jope Ruonansuu	Työnnä kännykkä hanuriin
+parody	nan	Jope Ruonansuu	Aattelepa ite
+parody	nan	Jope Ruonansuu	Matti Ja Teppo
+parody	0.3347065490692206	Spinal Tap	The Majesty Of Rock
+parody	nan	Jope Ruonansuu	Uu-Pee-Ämmät
+harmonica blues	0.26695518627553855	Kim Wilson	Love Attack
+harmonica blues	0.3775316449767025	Kim Wilson	Got To Let You Go
+harmonica blues	nan	Groucho Marx	Selling Jolson A Baseball Team
+harmonica blues	nan	Groucho Marx	Show Fifteen with Bernard Sampson & Robert Sewell
+bulerias	0.0	Rocio Jurado	Noe Cuando El Diluvio (Sevillanas Biblicas)
+bulerias	nan	Rocio Jurado	Paloma Negra
+bulerias	0.0	Rocio Jurado	Va Por Usted
+bulerias	nan	Rocio Jurado	Mi Amante Amigo
+freestyle	0.19878534876524423	Nadine Renee	Next Time
+alternative dance	0.0	Shout Out Out Out Out	How Do I Maintain Pt. II
+alternative dance	0.5414929887003981	Entre Ríos	Altas Horas
+alternative dance	0.663373594083872	Entre Ríos	Cerca & Extraño
+soul jazz	nan	Andrae Crouch	Ive Got Confidence
+soul jazz	nan	Andrae Crouch	Jesus Is the Lord
+soul jazz	nan	Andrae Crouch	Praises
+soul jazz	nan	Andraé Crouch & Solid Gospel	My Tribute (to God Be The Glory)
+japanese	0.647247126954782	Mawatari Matsuko	Hohoemi No Bakudan (YUUYUUHAKUSO Opening Theme)
+japanese	nan	Ken Yokoyama	I'm Not Afraid When I'm With You
+japanese	0.0	Yuko Kanzaki	Seikurabe (Karaoke)
+chalga	nan	Lili Ivanova	Izgaryam
+chalga	nan	Lili Ivanova	Pak shte te obicham
+chalga	nan	Kati	Il Tempo Non Torna Più
+chalga	nan	Lili Ivanova	Pokrusa
+free music	0.0	Roger Subirana	Un Res Pyr
+free music	0.0	The Hit Factory	Explode (Instrumental)
+free music	nan	The Hit Factory	Im Moving On
+thrash core	0.0	Bullethole	Now I Know
+doo-wop	0.2538347361322313	JERRY WALLACE	You'll Never Know
+doo-wop	nan	Groucho Marx	Selling Jolson A Baseball Team
+doo-wop	nan	Groucho Marx	Show Fifteen with Bernard Sampson & Robert Sewell
+melodic hardcore	0.4471357962861778	Take It Back!	These Days
+uk garage	0.0	Hotwire	Colorblind
+uk garage	0.0	Hot Wire	Like A Prayer (Tribute To Madonna)
+uk garage	0.37598430150044215	Hotwire	Not Today
+congo	0.368413732666965	Madilu System	Bruno Dika
+congo	nan	Emeneya	Maloba pamba
+congo	nan	Pamelo Mounk'a	On ne meurt qu'une fois
+congo	nan	Madilu System	Autoroute
+congo	0.3135621142479342	Les Bantous De La Capitale	Masuwa
+congo	0.349166902124596	Madilu System	Vincent
+congo	0.3522322250053423	Les Bantous De La Capitale	À Mon Avis
+swing	0.0	Hollywood Bowl Orchestra / John Mauceri	John Dunbar Theme [Dances with Wolves]
+swing	nan	Clarence Profit	Tropical Nights
+glitch	nan	Terminal 11 feat. b.b0Nd	In Place Of Love [edit]
+swamp blues	nan	Kenny Neal	Since I Met You Baby
+swamp blues	nan	Lightnin' Slim	My Babe
+swamp blues	nan	Kenny Neal	Strike While the Iron is Hot
+chicago house	nan	DJ Spinn	Feelin You
+chicago house	nan	DJ Spinn	Bounce Back
+chicago house	nan	DJ Spinn featuring Traxman	Lil Mama Getdown
+chicago house	0.0	DJ Spinn and DJ Rashad	Like It's Hot
+chicago house	nan	DJ Spinn	Times Up
+disco house	nan	:Blacks On :Blondes	Sublime Control
+disco house	nan	Stockhausen Waterman	String 'Em Up
+disco house	nan	:Blacks On :Blondes	Superconstellation
+mondiovision	nan	Viki Mosholiou	Kimisou Palikari (TH' Allaxi To Feggari) (2004 Digital Remaster)
+mondiovision	nan	Viki Mosholiou	I Adara_ To Lenaki Ki I Rinio (Fuss_ Lenaki And Rinio) (2006 Digital Remaster)
+synth punk	0.0	The Skabs	Woe is Woman
+hymns	0.0	The Perrys	By Faith I Can Touch Him Now
+hymns	0.0	The Perrys	When They Ring The Bells Of Heaven
+hymns	0.0	The Perrys	I'll Pray For You
+hymns	0.0	The Perrys	I'm Living In Canaan Now
+hymns	nan	The Perrys	He's Leading The Way
+hymns	nan	The Perrys	Run And Tell
+karaoke	nan	Los Originales De San Juan	Librado Maldonado
+karaoke	0.0	Los Originales De San Juan	Domingo Valdovinos
+karaoke	nan	Los Originales De San Juan	Con La Misma Tijera
+karaoke	0.0	Los Originales De San Juan	Soy De Oaxaca
+karaoke	0.0	Los Originales De San Juan	Joaquin Torres Jr.
+space age pop	nan	Jorgen Ingmann	Oceans Of Love (LP Version)
+space age pop	nan	Henri Rene And His Orchestra	Petite Fleur (Instrumental) (1996 Digital Remaster)
+space age pop	nan	The Mystic Moods Orchestra	Gay Ranchero
+space age pop	nan	The Mystic Moods Orchestra	Visions
+space age pop	nan	Frank Chacksfield & His Orchestra	Misty Valley
+space age pop	0.37598430150044215	Frank Chacksfield	Terry's Theme from Limelight
+space age pop	nan	Pedro Garcia & His Del Prado Orchestra	Policias Y Ladrones
+classic female blues	nan	Ma Rainey	Ma Rainey's Black Bottom
+classic female blues	nan	Suzy Thompson	Drunken's Man's Dream
+classic female blues	nan	Ma Rainey	Night Time Blues
+classic female blues	0.0	Ma Rainey & Her Tub Jug Washboard Band	Hear Me Talkin' To You
+classic female blues	nan	Ma Rainey	Hear Me Talking To You
+americana	0.40790171721807383	Josh Turner	What It Ain't
+americana	0.43790988872736875	Josh Turner	Softly And Tenderly
+bel canto	0.0	Dennis O'Neill	Oh! quand je dors
+bel canto	0.46054128135865785	Joan Sutherland	Handel: Alcina: Tornami a vagheggiar
+bel canto	nan	Dennis O'Neill	Tre sonetti di Petrarca: III. I' vidi in terra angelici costumi - sonnet 156
+italian disco	nan	Ross	I Promise My Heart
+gothic metal	nan	Alas	Silencio De Aguas Profundas
+gothic metal	nan	Gathering	Brampton To Roadhead
+gothic metal	nan	Daylight Torn	Sebastian
+chamber pop	0.6030245814555001	The Antlers	Stairs To the Attic
+chamber pop	0.6132348005574969	The Antlers	The Carrying Arms
+electroclash	nan	Varios	Subida y entrada al cante
+electroclash	nan	Varios	Te Parto el Alma (inter. El Tariacuri)
+electroclash	nan	Varios	II Allegro
+electroclash	0.2998774882739778	Varios	Zurezko Olerkia
+electroclash	nan	Varios	Cuerda viva
+arabesque	0.0	Ragheb Alama	A'chek Ouyounik (2009 Digital Remaster)
+arabesque	0.0	Ragheb Alama	Al'amadalah Assa'bah (2004 Digital Remaster)
+arabesque	0.2998774882739778	Ebru Gündes	Seni Unuturum
+arabesque	0.40003965695463956	Ragheb Alama	Gheera Away
+arabesque	nan	Ragheb Alama	Albi Eshiha
+rock steady	0.2623089972119452	Dave And Ansel Collins	Two Four One
+sonata	nan	Massimiliano Damerini	Sonata I.X.1905: I. Preduycha (Janácek)
+math-core	0.487956976897315	Tony Danza Tap Dance Extravaganza_ The	Cliff Burton Surprise
+math-core	0.7314733570496581	Arsonists Get All The Girls	Violence in Fluid Triceratops
+math-core	0.7550682767153579	Arsonists Get All The Girls	Skiff For The Suits
+rap rock	0.46736563132813813	Boondox	Nothing To Lose
+exotica	0.0	Rene Touzet	Mi Son Maracaibo
+exotica	nan	Frank Chacksfield & His Orchestra	Misty Valley
+exotica	0.37598430150044215	Frank Chacksfield	Terry's Theme from Limelight
+exotica	nan	Pedro Garcia & His Del Prado Orchestra	Policias Y Ladrones
+exotica	0.0	Rene Touzet	Delirio
+sludge metal	0.5412805467096234	"Buzzov¬""en"	I Don't Like You
+sludge metal	nan	Baroness	Wanderlust
+sludge metal	0.3347065490692206	Melvins	You've Never Been Right - (Live In Boston_ MA 2008)
+sludge metal	0.6508087753109134	Baroness	Grad
+sludge metal	0.7039660846759993	Melvins	Nude With Boots
+sludge metal	0.7421853190586772	Baroness	The Sweetest Curse
+gothic rock	nan	Swans Of Avon	Shining
+gothic rock	nan	Swans Of Avon	When Heaven Falls
+christian	0.0	Go Fish	I Believe In You (More Than A Story Album Version)
+vocal house	0.26586104921065007	The Bucketheads	Little Louie Bonus
+vocal house	0.37598430150044215	The Bucketheads	Sayin' Dope
+ethnic	0.3402410785830734	Jah Debda	Eastern Magic
+ethnic	nan	Various Indian Tribes	Mountain By The Sea (Tribe Unknown)
+viking metal	nan	TYR	Grial II
+viking metal	0.5971087960725365	Black Messiah	Gullveig
+dark ambient	nan	Controlled Dissonance	All Purpose Experiment
+dark ambient	0.0	Eldar	Dat Dere
+dark ambient	0.37598430150044215	Eldar	Estate
+brazil	0.0	Flávio José	É Sempre Assim
+brazil	0.0	Flávio José	Jogo Limpo
+trip rock	nan	Gathering	Brampton To Roadhead
+blackened death metal	0.5382004517463866	Abysmal Dawn	Compulsory Resurrection
+blackened death metal	0.540493129382015	Abysmal Dawn	Programmed to Consume
+electropop	nan	Planetakis	Letters to Norway
+electropop	0.36727341580934564	Eclier	Alpha River
+spanish	nan	Pep Laguarda & Tapineria	Caseta del Plater
+spanish	nan	Konexion	Apostasie
+swamp pop	nan	Rod Bernard	Cajun Honey (Cajun Lovin' Style)
+swamp pop	nan	Tommy McLain	Let It Be Me
+swamp rock	nan	Rod Bernard	Cajun Honey (Cajun Lovin' Style)
+swamp rock	0.21508031850922793	Starless & Bible Black	Hermione
+san francisco bay area	nan	M Sane	"Unda Da Influence"" (Snippets)"
+san francisco bay area	0.21508031850922793	Jeff Massanari Trio	Closin' Moes
+urban	nan	Buckeye Politicians	Ride On The Rhythm
+lounge music	0.42530424172042486	Joe Graves & The Diggers	Witchcraft (1997 Digital Remaster)
+finish	nan	Rauni Pekkala	Miesten tähden
+math rock	nan	Orthrelm	Scelxenak
+speed garage	nan	Old Soul	Silent Night
+guitarist	0.21508031850922793	Jeff Massanari Trio	Closin' Moes
+marimba	nan	Blindman's Sun	The Fugitives
+marimba	nan	Marimba Alma De Chiapas De Juan Palacios	Atotonilco
+rebetika	nan	George Dalaras	Ammohostos
+highlife	nan	African Rhythm Messengers	baby Wayo
+british invasion	nan	The In Crowd	Back A Yard
+british invasion	nan	The In Crowd / Jah Stitch	Baby My Love
+british pop	0.4944895175021134	Corb Lund	Horse Doctor_ Come Quick
+alternative hip hop	0.0	HardNox	Going Out Tonight
+alternative hip hop	nan	HardNox	White Girl Who Can Dance
+alternative hip hop	nan	HardNox	Fly Away (Instrumental)
+kirtan	nan	Daniel Paul	Coming Back For More feat. Colin Corvez
+contemporary classical music	nan	Scott Glasgow	Space Station Liberty
+contemporary classical music	nan	Scott Glasgow	Hunted
+contemporary classical music	nan	Scott Glasgow	Solemn
+funk rock	nan	Bomb Squad	Never Be (Bonus Track)
+funk rock	0.26695518627553855	Bomb Squad	BOMB SQUAD
+funk rock	0.37952332442218817	Craig Wedren	Alone in Love
+funk rock	nan	Bomb Squad	Flipside
+industrial rock	nan	Die Symphony	Ugly Like Me (Demo Version)
+space rock	0.6908158027635983	Caspian	The Dropsonde
+metal	0.2707759989463275	Mindless Self Indulgence	Never Wanted to Dance (Live In London)
+jazz rap	0.0	Chops	Give It To 'Em
+power violence	nan	Widespread Bloodshed	Wepons Of Mass Deception (Album)
+grime	nan	Various Production	Lost (Actress Remix)
+grime	nan	Various Production	Wot U Say
+grime	nan	Various Production	Bside
+nu-soul	0.0	Corey / Shaquille O'Neal	MVP
+chorus	0.0	Los Morros Del Norte	Raza Cristalera
+power electronics	0.42512465831305757	Taint	Hex Breaker
+serialism	nan	Milan Band	Ciao Milan
+neofolk	nan	Lot Lorien	Byal ravnec
+jazz fusion	nan	Bruford	Forever Until Sunday
+celtic fusion	nan	Clannad	Cumha Eoghain Rua Ui Neill (Lament For Owen Roe)
+ragga jungle	nan	Juggler	How It Feels

@@ -9,6 +9,11 @@ import dep.*;
 import peer.*;
 
 public class StoreData {
+	public StoreData(String s, String id) {
+		path = Paths.get(s);
+		fileID = id;
+	}
+	
 	public StoreData(String s) {
 		path = Paths.get(s);
 		fileID = GetID.getHexID(path.getFileName().toString());
