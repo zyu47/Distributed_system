@@ -14,7 +14,7 @@ public class HeaderMSG {
 	}
 	public HeaderMSG (String a, String b, int c) {
 		this(a, b);
-		headerMsg[3] += c;
+		headerMsg[2] = Integer.toString(c);
 	}
 	public HeaderMSG(String a, String b, long c) {
 		this(a, b);

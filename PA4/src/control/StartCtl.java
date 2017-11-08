@@ -9,7 +9,11 @@ import dep.ReadControllerAddr;
 public class StartCtl {
 
 	public static void main (String[] args) {
-		Controller ctrlObj = new Controller();
+		Controller ctrlObj = null;
+		if (args.length >= 1 && args[0].equals("r")) 
+			ctrlObj = new Controller(true);
+		else 
+			ctrlObj = new Controller(false);
 		
 		int ctrlPort= ReadControllerAddr.getControllerAddr().port;
 		ServerSocket serversocket= null;
@@ -31,7 +35,7 @@ public class StartCtl {
 			}
 		}
 	}
-
+	
 }
 
 class DebugCtrl extends Thread{

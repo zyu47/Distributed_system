@@ -24,21 +24,25 @@ public class ClientStore {
 		File file = new File(path.toString());
 		if (file.exists()) {
 	        int fileLen = (int) file.length(); // Get the size of the file
-	        int chunkSz = (int) Math.ceil(fileLen*1.0/65536); // The number of 64KB size chunk
+	        int chunkNum = (int) Math.ceil(fileLen*1.0/65536); // The number of 64KB size chunk
 	        
 	        try {
 	        	fileIn = new FileInputStream(file);
 		        // For each chunk, get 3 server addresses, and send data 
-		        for (int chunkID = 0; chunkID != chunkSz; ++chunkID) {
+		        for (int chunkID = 0; chunkID != chunkNum; ++chunkID) {
 	    			getStoringServers();
-	    			storeToServers(chunkID);
+	    			if (chunkID == chunkNum - 1)
+	    				storeToServers(chunkID, fileIn.available());
+	    			else
+	    				storeToServers(chunkID, 65536);
 		        }
 		        fileIn.close();
 		    	System.out.println("Succeed to store file " + fileName);
 		    } catch (IOException e) {
-		    	System.out.println("Fail to store file " + fileName);
+//		    	System.out.println("Fail to store file " + fileName);
+		    	e.printStackTrace();
 		    }
-			talkCtrl.closeSocketClient();
+//			talkCtrl.closeSocketClient();
 		} else {
 			System.out.println("Cannot find local file!");
 		}
@@ -46,25 +50,31 @@ public class ClientStore {
 	
 	private void getStoringServers () throws IOException{
 //		System.out.println("Testing getting servers...");
-		
+		talkCtrl.trySocketClient();
 		HeaderMSG hmsg = new HeaderMSG("STORE");
 		talkCtrl.trySendHeader(hmsg.headerMsg);
 		for (int i = 0; i != StoreServers.length; ++i) {
-			String server_tmp = talkCtrl.tryGetString();
+			String server_tmp = null;
 //			System.out.println("Testing received address: " + server_tmp);
-			if (server_tmp != null && server_tmp != "NULL")
+			if ((server_tmp = talkCtrl.tryGetString())!= null && server_tmp != "NULL") {
+				System.out.println(server_tmp);
 				StoreServers[i] = new NetAddr(server_tmp);
+			}
 			else
 				throw new IOException();
 		}
+		talkCtrl.closeSocketClient();
 	}
 	
-	private void storeToServers (int chunkID) throws IOException{
+	private void storeToServers (int chunkID, int chunkSz) throws IOException{
 		// Send header first
 //		System.out.println("Testing ClientStore storeToServers...");
-		HeaderMSG hmsg = new HeaderMSG("STORE", fileName, chunkID + "_" + StoreServers[1].getFullAddr() + StoreServers[2].getFullAddr());
+		HeaderMSG hmsg = new HeaderMSG("STORE", fileName, chunkID + "_" + StoreServers[1].getFullAddr() + "_" + StoreServers[2].getFullAddr());
+		
+		hmsg.headerMsg[1] = hmsg.headerMsg[1] + "*" + chunkSz;
 		
 		SocketClient talkServer = new SocketClient(StoreServers[0], 1);
+		talkServer.trySocketClient();
 		talkServer.trySendHeader(hmsg.headerMsg);
 		
         byte[] bytes = new byte[8192]; // 8K buffer

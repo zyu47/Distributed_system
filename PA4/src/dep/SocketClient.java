@@ -21,7 +21,7 @@ public class SocketClient {
 	public SocketClient (NetAddr a, int t) {
 		addr = a;
 		times = t;
-		trySocketClient();
+//		trySocketClient();
 	}	
 	
 	public SocketClient (String fulladdr, int t) {
@@ -33,7 +33,7 @@ public class SocketClient {
 	 * @param times		How many times to try connecting, -1 means forever
 	 * @return			<code>true</code> if connect successfully, otherwise <code>false</code>
 	 */
-	private void trySocketClient () {
+	public void trySocketClient () {
 //		System.out.println("Testing SocketClient trySocketClient ...");
 		int tried = 0;
 		while (tried != times) {
@@ -57,15 +57,15 @@ public class SocketClient {
 				}
 			}
 		}
-		if (client == null)
-			System.out.println("Cannot connect to: " + addr.getFullAddr());
-		else
-			System.out.println("Successfully connected to: " + addr.getFullAddr());
+//		if (client == null)
+//			System.out.println("Cannot connect to: " + addr.getFullAddr());
+//		else
+//			System.out.println("Successfully connected to: " + addr.getFullAddr());
 	}
 	
-//	public boolean isConnected () {
-//		return client != null && client.isConnected();
-//	}
+	public boolean isConnected () {
+		return client != null && client.isConnected();
+	}
 	
 	/**
 	 * 
@@ -104,6 +104,10 @@ public class SocketClient {
 		return in.read(recByte);
 	}
 	
+	public int tryGetByte (byte[] recByte, int off, int len) throws IOException {
+		return in.read(recByte, off, len);
+	}
+	
 	public String tryGetString () throws IOException{
 		return read_in.readLine();
 	}
@@ -111,6 +115,7 @@ public class SocketClient {
 	public void closeSocketClient () {
 		try {
 			client.close();
+//			System.out.println(CurrentTimeStamp.getFullTimeStamp() + " SocketClient closed!");
 		} catch (IOException e) {
 			//e.printStackTrace();
 		}

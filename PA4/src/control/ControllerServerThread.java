@@ -1,6 +1,7 @@
 package control;
 
 import java.net.*;
+import java.util.Vector;
 
 import dep.*;
 
@@ -30,9 +31,40 @@ public class ControllerServerThread extends SocketServerThread{
 				closeConnection();
 				break;
 				
+			case "RETRIEVE_CHUNK":
+				servers = ctrl.getChunkServers(header[1], header[2]);
+				sendLine(servers);
+				closeConnection();
+				break;
+				
 			case "JOINED":
 				ctrl.addServer(header[1], header[2]);
 				break;
+				
+			case "STORED":
+				String[] fileName_split = header[1].split("\\*"); // fileName, chunkID
+				String[] addr_split = header[2].split("\\*"); // Address, freeSpace
+//				System.out.println(header[1] + " from " + header[2]);
+				ctrl.updateAll(fileName_split[0], fileName_split[1],
+						addr_split[0], addr_split[1]);
+				break;
+				
+			case "MAHEARTBEAT":
+				Vector<String> msg = readAllLine();
+				ctrl.processMajorHB(header[1], header[2], msg);
+				System.out.println("Major heart beat processed" + header[1]);
+				break;
+				
+			case "MIHEARTBEAT":
+				if (ctrl.processMinorHB(header[1], header[2])) {
+					sendOneLine("SENDMAJORHEARTBEAT");
+					System.out.println("Minor heart beat - with major" + header[1]);
+				} else {
+					sendOneLine("");
+//					System.out.println("Minor heart beat - no major" + header[1]);
+				}
+				break;
+				
 		}
 	}
 	

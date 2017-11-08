@@ -7,6 +7,7 @@ import java.net.Socket;
 public class StartFileServer {
 
 	public static void main(String[] args) {
+		// Get port number
 		int port = Integer.parseInt(args[0]);
 		FileServer fs = new FileServer(port);
 		
@@ -21,6 +22,12 @@ public class StartFileServer {
 		// Report to controller that this server joined
 		fs.reportJoin();
 		
+		// Major heart beat thread
+		new FileServerHeartBeat(fs).start();
+		
+		//debugging
+//		new Debugging(fs).start();
+		
 		// Listen on serversocket, 
 		Socket socket = null;
 		while (true) {
@@ -33,4 +40,24 @@ public class StartFileServer {
 		}
 	}
 
+}
+
+class Debugging extends Thread {
+	public Debugging (FileServer f) {
+		fs = f;
+	}
+	
+	public void run () {
+
+		while (true) {
+			fs.debug();
+			try{
+				Thread.sleep(2000);
+			} catch(InterruptedException ex){
+				ex.printStackTrace();
+			}
+		}
+	}
+	
+	private FileServer fs;
 }
