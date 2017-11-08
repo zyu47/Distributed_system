@@ -24,6 +24,8 @@ public class StartCtl {
 			e.printStackTrace();
 		}
 		
+		new ControllerHeartBeat(ctrlObj).start(); // heart beat to detect server failure
+		
 		new DebugCtrl(ctrlObj).start(); // For printing out information for debugging
 		
 		while (true) {
@@ -46,7 +48,8 @@ class DebugCtrl extends Thread{
 	
 	public void run () {
 		while (true) {
-			c.printDebugInfo();
+//			c.printDebugInfo();
+			c.printDebugInfoSimp();
 			try{
 				Thread.sleep(2000);
 			} catch(InterruptedException ex){

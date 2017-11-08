@@ -13,31 +13,26 @@ public class ClientRetrieve {
 		talkCtrl = new SocketClient(ctrlAddr, -1);
 	}
 	
-	public void retrieve () {
+	public void retrieve () throws IOException{
 //		System.out.println("Testing retrieve files");
-		try {
-			// Get the list of servers first
-			getStoringServers();
-			
-			//testing
+		// Get the list of servers first
+		getStoringServers();
+		
+		//testing
 //			for (int i = 0; i != storingServers.size(); ++i) {
 //				System.out.println(storingServers.get(i));
 //			}
-				
-			// Open a filestream to write to file
-			fileOut = new FileOutputStream("/tmp/" + fileName);
 			
-			// For each server (a chunk), retrieve chunk and write to file
-			for (int i = 0; i != storingServers.size(); ++i) {
-				writeChunk(i);
-			}
-			
-			// Close everything
-			fileOut.close();
-			System.out.println("File " + fileName + " is stored under /tmp");
-		} catch (IOException e) {
-			System.out.println("Fail to retrieve file " + fileName);
+		// Open a filestream to write to file
+		fileOut = new FileOutputStream("/tmp/" + fileName);
+		
+		// For each server (a chunk), retrieve chunk and write to file
+		for (int i = 0; i != storingServers.size(); ++i) {
+			writeChunk(i);
 		}
+		// Close everything
+		fileOut.close();
+		System.out.println("File " + fileName + " is stored under /tmp");
 	}
 	
 	private void getStoringServers () throws IOException {
@@ -68,9 +63,11 @@ public class ClientRetrieve {
 		// If cannot, try connect other two servers to retrieve
 		// If cannot, throw IOException
 		if (!writeChunk(storingServers.get(chunkID), chunkID)) {
-			if (!getRightChunk(chunkID)) {
-				throw new IOException();
-			}
+			System.out.println("Problem in retrieving/writing chunk " + chunkID);
+			throw new IOException();
+//			if (!getRightChunk(chunkID)) {
+//				throw new IOException();
+//			}
 		}
 	} 
 	

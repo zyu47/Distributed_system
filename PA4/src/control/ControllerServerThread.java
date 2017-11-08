@@ -32,6 +32,7 @@ public class ControllerServerThread extends SocketServerThread{
 				break;
 				
 			case "RETRIEVE_CHUNK":
+			case "FIX":
 				servers = ctrl.getChunkServers(header[1], header[2]);
 				sendLine(servers);
 				closeConnection();

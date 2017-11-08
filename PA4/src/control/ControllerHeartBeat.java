@@ -8,11 +8,15 @@ public class ControllerHeartBeat extends Thread {
 	}
 	
 	public void run () {
-		try{
-			Thread.sleep(5000);
-//			Thread.sleep(30000); 
-		} catch(InterruptedException ex){
-			ex.printStackTrace();
+		while (true) {
+			try{
+				Thread.sleep(5000);
+	//			Thread.sleep(30000); 
+			} catch(InterruptedException ex){
+				ex.printStackTrace();
+			}
+			ctrl.heartBeat();
+			System.out.println("Controller heartbeat");
 		}
 	}
 }

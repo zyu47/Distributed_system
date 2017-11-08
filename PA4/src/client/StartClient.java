@@ -1,5 +1,6 @@
 package client;
 
+import java.io.IOException;
 import java.util.*;
 
 import dep.*;
@@ -26,7 +27,11 @@ public class StartClient {
 				
 			case "Retrieve":
 				ClientRetrieve cr = new ClientRetrieve(commands[1], ctrlAddr);
-				cr.retrieve();
+				try {
+					cr.retrieve();
+				} catch (IOException e) {
+					System.out.println("Fail to retrieve file " + commands[1]);
+				}
 				break;
 				
 			case "Exit":

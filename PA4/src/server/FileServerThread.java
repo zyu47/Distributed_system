@@ -28,6 +28,18 @@ public class FileServerThread extends SocketServerThread{
 			case "PROBE":
 				probe(header[1], header[2]);
 				break;
+				
+			case "COPY":
+				String[] chunkID_split = header[2].split("\\*");
+				fs.copyToServerMeta(header[1], chunkID_split[0], chunkID_split[1]);
+				fs.copyToServerChunk(header[1], chunkID_split[0], chunkID_split[1]);
+				break;
+				
+			case "STOREMETA":
+				String[] version_split = header[1].split("\\*");
+				String[] chunkID_split2 = header[2].split("\\*");
+				fs.storeChunkMeta(version_split[0], version_split[1], chunkID_split2[0], chunkID_split2[1]);
+				break;
 		}
 	}
 	
@@ -89,38 +101,46 @@ public class FileServerThread extends SocketServerThread{
 			br.close();
 			sendByte(IntByte.intToByteArray(chunkSzTrue));
 			
-			FileInputStream fIn = new FileInputStream("/tmp/" + header[1] + "_chunk" + header[2]);
+			FileInputStream fIn = new FileInputStream(new File("/tmp/" + header[1] + "_chunk" + header[2]));
+			System.out.println(fIn.available());
 			byte[] sha = new byte[20];
-			int slice_no = 0;
+//			int slice_no = 0;
 			int sha_cnt = 0;
 			while ((sha_cnt = fIn.read(sha)) > 0) { // read each SHA-1 byte
 				if (sha_cnt != 20) {
 					//Something wrong, initialize fixing current slice
-					fs.fixSlice(header[1], header[2], slice_no);
-					break;
+					fIn.close();
+					closeConnection();
+					throw new FileCorruptException("");
 				}
 				
 				count = fIn.read(buffer); // read 8K actual content
 //				System.out.println(count);
 				if (SHA1.checkHash(sha, buffer, count) && (chunkSzRead + count) <= chunkSzTrue) {
 					sendByte();
-					++slice_no;
+//					++slice_no;
 					chunkSzRead += count;
 				} else {
 					//Something wrong, initialize fixing current slice
-					fs.fixSlice(header[1], header[2], slice_no);
-					break;
+					fIn.close();
+					closeConnection();
+					throw new FileCorruptException("");
 				}
 			}
 			server.close();
 			if (chunkSzTrue != chunkSzRead) {
 				//Something wrong, initialize fixing current slice
-				fs.fixSlice(header[1], header[2], slice_no);
+				fIn.close();
+				closeConnection();
+				throw new FileCorruptException("");
 			}
 			fIn.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 			System.out.println("Wrong retrieving");
+		} catch (FileCorruptException f) {
+				fs.fixSliceMain(header[1], header[2]);
+				closeConnection();
 		}
 	}
 	
