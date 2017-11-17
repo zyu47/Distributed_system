@@ -43,6 +43,7 @@ public class ControllerServerThread extends SocketServerThread{
 				break;
 				
 			case "STORED":
+//				System.out.println("Stored " + header[1] + header[2]);
 				String[] fileName_split = header[1].split("\\*"); // fileName, chunkID
 				String[] addr_split = header[2].split("\\*"); // Address, freeSpace
 //				System.out.println(header[1] + " from " + header[2]);
@@ -53,7 +54,7 @@ public class ControllerServerThread extends SocketServerThread{
 			case "MAHEARTBEAT":
 				Vector<String> msg = readAllLine();
 				ctrl.processMajorHB(header[1], header[2], msg);
-				System.out.println("Major heart beat processed" + header[1]);
+				System.out.println("Major heart beat processed from " + header[1]);
 				break;
 				
 			case "MIHEARTBEAT":

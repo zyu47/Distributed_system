@@ -1,5 +1,8 @@
 package server;
 
+import java.net.Inet4Address;
+import java.net.UnknownHostException;
+
 public class FileServerHeartBeat extends Thread {
 	public FileServerHeartBeat (FileServer f) {
 		counter = 0;
@@ -23,6 +26,12 @@ public class FileServerHeartBeat extends Thread {
 				fs.sendMajorHB();
 				counter = 0;
 			}
+//			try {
+//				System.out.println(Inet4Address.getLocalHost().getHostAddress());
+//			} catch (UnknownHostException e) {
+//				// TODO Auto-generated catch block
+//				e.printStackTrace();
+//			}
 		}
 	}
 	

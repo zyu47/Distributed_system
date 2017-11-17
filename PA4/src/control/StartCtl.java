@@ -51,7 +51,7 @@ class DebugCtrl extends Thread{
 //			c.printDebugInfo();
 			c.printDebugInfoSimp();
 			try{
-				Thread.sleep(2000);
+				Thread.sleep(5000);
 			} catch(InterruptedException ex){
 				ex.printStackTrace();
 			}

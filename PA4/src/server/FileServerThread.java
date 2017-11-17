@@ -75,7 +75,7 @@ public class FileServerThread extends SocketServerThread{
 					sendNext.trySendContent(buffer, 0, count);
 				}
 			}
-			
+			System.out.println(fileName_split[0] + chunkID_split[0] + " is stored");
 			fs.addChunkEntry(fileName_split[0], chunkID_split[0]);
 			fs.reportStore(fileName_split[0], chunkID_split[0]);
 			
@@ -102,7 +102,7 @@ public class FileServerThread extends SocketServerThread{
 			sendByte(IntByte.intToByteArray(chunkSzTrue));
 			
 			FileInputStream fIn = new FileInputStream(new File("/tmp/" + header[1] + "_chunk" + header[2]));
-			System.out.println(fIn.available());
+//			System.out.println(fIn.available());
 			byte[] sha = new byte[20];
 //			int slice_no = 0;
 			int sha_cnt = 0;

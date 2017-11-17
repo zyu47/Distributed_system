@@ -105,8 +105,9 @@ public class ClientRetrieve {
 //			}
 		}
 		int chunkSzTrue = IntByte.ByteToInt(Arrays.copyOfRange(chunk_buffer, 0, 4));
-		System.out.println("read size for chunk " + chunkID + " : " + off);
-		System.out.println("actual size for chunk " + chunkID + " : " + chunkSzTrue);
+//		System.out.println("read size for chunk " + chunkID + " : " + off);
+//		System.out.println("actual size for chunk " + chunkID + " : " + chunkSzTrue);
+		System.out.println("Read chunk " + chunkID + " of file " + fileName + " from server: " + n.getFullAddr());
 		talkServer.closeSocketClient();
 		
 		if (chunkSzTrue + 4 != off) { // server problem, ask for a new server for fetching data

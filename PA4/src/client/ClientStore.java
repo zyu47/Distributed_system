@@ -57,7 +57,7 @@ public class ClientStore {
 			String server_tmp = null;
 //			System.out.println("Testing received address: " + server_tmp);
 			if ((server_tmp = talkCtrl.tryGetString())!= null && server_tmp != "NULL") {
-				System.out.println(server_tmp);
+//				System.out.println(server_tmp);
 				StoreServers[i] = new NetAddr(server_tmp);
 			}
 			else

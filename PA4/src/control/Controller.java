@@ -1,6 +1,7 @@
 package control;
 
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.stream.IntStream;
 import java.io.IOException;
 import java.util.*;
 //import java.io.*;
@@ -51,15 +52,16 @@ public class Controller {
 //			System.out.println("Testing controller.java 59: " + server_list.info.get(i)[0]);
 			int[] serversChunkI = server_list.info.get(i); // The array that contains the server indices storing chunk
 			if (serversChunkI != null) {
-				res[i] = servers.get(serversChunkI[(int) Math.random()*3]).getFullAddr();
+				Random randomno = new Random();
+				res[i] = servers.get(serversChunkI[randomno.nextInt(3)]).getFullAddr();
 
-				// REMEMBER TO DELETE
-				for (int j = 0; j != 3; ++j) {
-					if (servers.get(serversChunkI[j]).getFullAddr().equals("129.82.44.134:6666")) {
-						res[i] = "129.82.44.134:6666";
-						break;
-					}
-				}
+//				// REMEMBER TO DELETE
+//				for (int j = 0; j != 3; ++j) {
+//					if (servers.get(serversChunkI[j]).getFullAddr().equals("129.82.44.134:6666")) {
+//						res[i] = "129.82.44.134:6666";
+//						break;
+//					}
+//				}
 			}
 		}
 		
@@ -77,7 +79,10 @@ public class Controller {
 		
 		String[] res = new String[3];
 		for (int i = 0; i != res.length; ++i) {
-			res[i] = servers.get(serversChunkI[i]).getFullAddr();
+			if (serversChunkI[i] != -1)
+				res[i] = servers.get(serversChunkI[i]).getFullAddr();
+			else
+				res[i] = "";
 		}
 		
 		return res;
@@ -178,7 +183,10 @@ public class Controller {
 			tmp.info.put(chunkID_int, serverIndices);
 		
 		for (int i = 0; i != serverIndices.length; ++i) {
-			if ( serverIndices[i] == -1 ) {
+			if (IntStream.of(serverIndices).anyMatch(x -> x == serverInd)) {
+				continue;
+			}
+			if ( serverIndices[i] == -1) {
 				serverIndices[i] = serverInd;
 //				System.out.println(serverIndices[i]);
 				break;
@@ -305,16 +313,19 @@ public class Controller {
 		// The chunk cannot be saved on the server which already holds the copy
 		// The chunk server cannot be dead
 		// First create a list of indices for servers, shuffle it
+//		System.out.println("copyChunk " + fileName + chunkID + " from" + servers.get(fromServerInd).getFullAddr());
 		List<Integer> indices = new ArrayList<Integer> ();
 		for (int i = 0; i != servers.size(); ++i) {
 			indices.add(i);
 		}
 		Collections.shuffle(indices);
 		
+		
 		int toServerInd = -1;
 		for (int i= 0; i != indices.size(); ++i) {
+//			System.out.println(".........Testing " + i + " " + servers.get(indices.get(i)).getFullAddr());
 			if (serverFreeSz.get(indices.get(i)) > 67584 &&    // if server has more than 66KB
-					!probeServerForChunk(indices.get(i), fileName, "" + chunkID)) {
+					!probeServerForChunk(indices.get(i), fileName, "" + chunkID)) { // and server does not already contain chunk
 				toServerInd = indices.get(i);
 				break;
 			}
@@ -325,6 +336,7 @@ public class Controller {
 			return;
 		}
 		try {
+			System.out.println("Copying "+fileName + chunkID + " from " + servers.get(fromServerInd).getFullAddr() + " to " + servers.get(toServerInd).getFullAddr());
 			SocketClient talkServer = new SocketClient(servers.get(fromServerInd), 1);
 			HeaderMSG hmsg = new HeaderMSG("COPY", fileName,
 					chunkID + "*" + servers.get(toServerInd).getFullAddr());

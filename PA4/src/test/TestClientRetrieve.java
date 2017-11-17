@@ -15,5 +15,13 @@ public class TestClientRetrieve {
 			e.printStackTrace();
 			
 		}
+		
+		cs = new ClientRetrieve("test2.jpg", ctrlAddr);
+		try {
+		cs.retrieve();
+		} catch (Exception e) {
+			e.printStackTrace();
+			
+		}
 	}
 }

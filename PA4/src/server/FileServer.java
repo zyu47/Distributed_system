@@ -91,9 +91,10 @@ public class FileServer {
 			HeaderMSG hmsg = new HeaderMSG("MIHEARTBEAT", selfAddr.getFullAddr(), freeSpace);
 			ctrlSocket.trySendHeader(hmsg.headerMsg);
 			String received = ctrlSocket.tryGetString();
-			System.out.println(received);
-			if (received != null && received.equals("SENDMAJORHEARTBEAT"))
+			if (received != null && received.equals("SENDMAJORHEARTBEAT")) {
+				System.out.println("Send major heart beat upon controller request");
 				sendMajorHB();
+			}
 			ctrlSocket.closeSocketClient();
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -110,14 +111,20 @@ public class FileServer {
 	public void storeChunkMeta(String fileName, String chunkSz, String chunkID) throws IOException{
 		// Store meta data here
 		String metaFileName = "/tmp/" + fileName + "_chunk" + chunkID + "_meta";
+//		System.out.println(metaFileName + " begin");
 		int version = 0;
 		if (new File(metaFileName).exists()) {
+			try {
 			// file already exists, get and update chunkID
-			BufferedReader br = new BufferedReader(new FileReader(metaFileName));
-			version = Integer.parseInt(br.readLine());
-			++version;
-			br.close();
+				BufferedReader br = new BufferedReader(new FileReader(metaFileName));
+				version = Integer.parseInt(br.readLine());
+				++version;
+				br.close();
+			} catch (Exception e) {
+				// 
+			}
 		}
+//		System.out.println(metaFileName + " end");
 		FileWriter fw = new FileWriter(metaFileName);
 		PrintWriter fileMeta = new PrintWriter(fw);
 		fileMeta.println(version);
@@ -162,7 +169,10 @@ public class FileServer {
 	}
 	
 	public boolean containsChunk(String fileName, String chunkID) {
-		return selfFiles.get(fileName).contains(chunkID);
+		if (selfFiles.containsKey(fileName)) {
+			return selfFiles.get(fileName).contains(chunkID);
+		} else
+			return false;
 	}
 	
 	public void fixSliceMain (String fileName, String chunkID) {
@@ -178,7 +188,7 @@ public class FileServer {
 				validServers[i] = ctrlSocket.tryGetString();
 			}
 			for (int i = 0; i != 3; ++i) {
-				if (!selfAddr.getFullAddr().equals(validServers[i])) {
+				if (!selfAddr.getFullAddr().equals(validServers[i]) && !validServers[i].equals("")) {
 					if (fixSliceActual(fileName, chunkID, validServers[i])) {
 						System.out.println("Fix from " + validServers[i]);
 						break;
@@ -221,6 +231,7 @@ public class FileServer {
 				return true;
 			}
 		} catch (Exception e) {
+			e.printStackTrace();
 			return false;
 		}
 	}
@@ -236,7 +247,7 @@ public class FileServer {
 		System.out.println(sliceNum*8192);
 		System.out.println(len);
 		
-		byte[] tmp = Arrays.copyOfRange(chunk_buffer, sliceNum*8192 + off, len - sliceNum*8192);
+		byte[] tmp = Arrays.copyOfRange(chunk_buffer, sliceNum*8192 + off, len + off);
 		fileOut.write(SHA1.hash(tmp));
 		fileOut.write(tmp);
 		fileOut.close();
@@ -249,7 +260,7 @@ public class FileServer {
 	 * @param serverAddr		The destination server which needs a copy of the chunk
 	 */
 	public void copyToServerMeta (String fileName, String chunkID, String serverAddr) {
-		System.out.println("Copy from " + selfAddr.getFullAddr() + " to " + serverAddr);
+//		System.out.println("Copy from " + selfAddr.getFullAddr() + " to " + serverAddr);
 		// Read from meta file first
 		String metaFileName = "/tmp/" + fileName + "_chunk" + chunkID + "_meta";
 		
@@ -337,7 +348,9 @@ public class FileServer {
 		if (!selfFiles.containsKey(fileName)) {
 			selfFiles.put(fileName, new Vector<String>());
 		}
-		selfFiles.get(fileName).add(chunkID);
+		if (!selfFiles.get(fileName).contains(chunkID)) {
+			selfFiles.get(fileName).add(chunkID);
+		}
 	}
 	
 	public void debug () {

@@ -9,5 +9,7 @@ public class TestClientStore {
 		NetAddr ctrlAddr = ReadControllerAddr.getControllerAddr();
 		ClientStore cs = new ClientStore("/s/chopin/k/grad/zhixian/test1.jpg", ctrlAddr);
 		cs.store();
+		cs = new ClientStore("/s/chopin/k/grad/zhixian/test2.jpg", ctrlAddr);
+		cs.store();
 	}
 }

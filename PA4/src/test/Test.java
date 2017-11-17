@@ -20,8 +20,9 @@ public class Test {
 //				toSend[1] += "*";
 //		}
 //		System.out.println(toSend[1]);
-		int x = (int) 32/3;
-		System.out.println(x);
+//		int x = (int) 32/3;
+		Random randomno = new Random();
+		System.out.println(randomno.nextInt(3));
 	}
 
 }
